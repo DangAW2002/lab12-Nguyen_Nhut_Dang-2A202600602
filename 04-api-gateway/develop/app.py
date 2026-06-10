@@ -22,7 +22,7 @@ Test:
 import os
 
 
-from fastapi import FastAPI, HTTPException, Security, Depends
+from fastapi import FastAPI, HTTPException, Security, Depends, Request
 from fastapi.security.api_key import APIKeyHeader
 import uvicorn
 from utils.mock_llm import ask
@@ -66,10 +66,14 @@ def root():
 
 @app.post("/ask")
 async def ask_agent(
-    question: str,
+    request: Request,
     _key: str = Depends(verify_api_key),  # ✅ require auth
 ):
     """Protected endpoint — cần X-API-Key header"""
+    body = await request.json()
+    question = body.get("question", "")
+    if not question:
+        raise HTTPException(status_code=422, detail="question is required")
     return {
         "question": question,
         "answer": ask(question),

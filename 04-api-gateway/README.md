@@ -19,7 +19,7 @@ develop/
 
 ### Chạy thử
 ```bash
-cd basic
+cd develop
 pip install -r requirements.txt
 AGENT_API_KEY=my-secret-key python app.py
 
