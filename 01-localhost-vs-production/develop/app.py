@@ -45,10 +45,10 @@ def ask_agent(question: str):
 # ❌ Vấn đề 5: Port cố định — không đọc từ environment
 # Trên Railway/Render, PORT được inject qua env var
 if __name__ == "__main__":
-    print("Starting agent on localhost:8000...")
+    print("Starting agent on localhost:8081...")
     uvicorn.run(
         "app:app",
         host="localhost",   # ❌ chỉ chạy được trên local
-        port=8000,          # ❌ cứng port
+        port=8081,          # ❌ cứng port
         reload=True         # ❌ debug reload trong production
     )
