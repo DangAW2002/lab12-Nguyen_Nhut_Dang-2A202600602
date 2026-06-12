@@ -4,8 +4,8 @@ services:
     runtime: docker
     region: singapore
     plan: free # Change to free plan to avoid costs
-    dockerContext: .
-    dockerfilePath: 06-lab-complete/Dockerfile
+    dockerContext: 06-lab-complete
+    dockerfilePath: Dockerfile
     healthCheckPath: /health
     autoDeploy: true
     envVars:
