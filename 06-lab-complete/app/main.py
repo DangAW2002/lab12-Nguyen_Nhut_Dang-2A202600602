@@ -132,7 +132,8 @@ async def request_middleware(request: Request, call_next):
         response.headers["X-Frame-Options"] = "DENY"
         response.headers["X-XSS-Protection"] = "1; mode=block"
         response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
-        response.headers.pop("server", None)
+        if "server" in response.headers:
+            del response.headers["server"]
         
         duration = round((time.time() - start) * 1000, 1)
         logger.info(json.dumps({
