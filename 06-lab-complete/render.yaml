@@ -5,7 +5,7 @@ services:
     region: singapore
     plan: free # Change to free plan to avoid costs
     dockerContext: 06-lab-complete
-    dockerfilePath: Dockerfile
+    dockerfilePath: 06-lab-complete/Dockerfile
     healthCheckPath: /health
     autoDeploy: true
     envVars:
