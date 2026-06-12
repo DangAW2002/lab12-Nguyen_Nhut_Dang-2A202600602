@@ -3,7 +3,9 @@ services:
     name: ai-agent-production
     runtime: docker
     region: singapore
-    plan: starter
+    plan: free # Change to free plan to avoid costs
+    dockerContext: .
+    dockerfilePath: 06-lab-complete/Dockerfile
     healthCheckPath: /health
     autoDeploy: true
     envVars:
