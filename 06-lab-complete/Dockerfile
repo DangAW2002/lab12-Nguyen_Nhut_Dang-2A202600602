@@ -25,6 +25,7 @@ COPY --from=builder /root/.local /app/.local
 # Copy application
 COPY app/ ./app/
 COPY utils/ ./utils/
+COPY mock_data/ ./mock_data/
 
 RUN chown -R agent:agent /app
 

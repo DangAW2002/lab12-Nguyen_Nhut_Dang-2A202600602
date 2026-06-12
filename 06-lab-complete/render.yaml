@@ -23,3 +23,19 @@ services:
         value: "5.0"
       - key: RATE_LIMIT_PER_MINUTE
         value: "20"
+
+  - type: web
+    name: vaccine-assistant-frontend-personal
+    runtime: node
+    region: singapore
+    plan: free
+    rootDir: 06-lab-complete/frontend
+    buildCommand: npm install && npm run build
+    startCommand: node .output/server/index.mjs
+    autoDeploy: true
+    envVars:
+      - key: VITE_API_URL
+        sync: false
+      - key: NITRO_PRESET
+        value: render_com
+

@@ -1,0 +1,5371 @@
+[
+  {
+    "id": 7496,
+    "name": "Tiêm Chủng FPT Long Châu 1239 Quang Trung, Tổ 6 (Ngay Ngã Tư Quang Trung - Ngô Thị Nhậm), P. An Khê, Tỉnh Gia Lai",
+    "address": "1239 Quang Trung, Tổ 6, P. Tây Sơn, TX. An Khê, Tỉnh Gia Lai",
+    "regulated_address": "1239 Quang Trung, Tổ 6, Phường An Khê, Tỉnh Gia Lai",
+    "province": "Tỉnh Gia Lai",
+    "district": "",
+    "ward": "Phường An Khê",
+    "latitude": 13.951823,
+    "longitude": 108.660378,
+    "google_map_link": "https://maps.app.goo.gl/N5ofuBEMy2DMyicg7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5282072366947_2aa19c8b0236c25a880750506b532fd1_eb70ccae25.jpg"
+  },
+  {
+    "id": 2400,
+    "name": "Tiêm Chủng FPT Long Châu 18A Phát Diệm Đông (Đối Diện Cầu Ngói), X. Phát Diệm, Tỉnh Ninh Bình",
+    "address": "18A Phát Diệm Đông, TT. Phát Diệm, H. Kim Sơn, Tỉnh Ninh Bình",
+    "regulated_address": "18A Phát Diệm Đông, Xã Phát Diệm, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Xã Phát Diệm",
+    "latitude": 20.089644,
+    "longitude": 106.082252,
+    "google_map_link": "https://maps.app.goo.gl/S8njXmZ3AtoooRCH9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5244019765638_75aae664b16fe0abef5a855c4a50f419_1_06a8a37251.jpg"
+  },
+  {
+    "id": 7480,
+    "name": "Tiêm Chủng FPT Long Châu Khối Tân Phong (Cạnh chợ Hoàng Mai), P. Hoàng Mai, Tỉnh Nghệ An",
+    "address": "Khối Tân Phong, P. Quỳnh Thiện, TX. Hoàng Mai, Tỉnh Nghệ An",
+    "regulated_address": "Khối Tân Phong, Phường Hoàng Mai, Tỉnh Nghệ An",
+    "province": "Tỉnh Nghệ An",
+    "district": "",
+    "ward": "Phường Hoàng Mai",
+    "latitude": 19.253867,
+    "longitude": 105.7119,
+    "google_map_link": "https://maps.app.goo.gl/r3igiKUnydf4HRVa7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_6de87db71a.jpg"
+  },
+  {
+    "id": 6444,
+    "name": "Tiêm Chủng FPT Long Châu 1613 Chi Lăng (Vòng Xoay Tivi Lớn), P. Bà Rịa, TP. Hồ Chí Minh",
+    "address": "1613 Chi Lăng, P. Phước Hiệp, TP. Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu",
+    "regulated_address": "1613 Chi Lăng, Phường Bà Rịa, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bà Rịa",
+    "latitude": 10.493561,
+    "longitude": 107.169199,
+    "google_map_link": "https://maps.app.goo.gl/rzcETvSuAVq4caUc7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Chi_Lang_BRVT_ac1da50e6d.jpg"
+  },
+  {
+    "id": 2733,
+    "name": "Tiêm Chủng FPT Long Châu 880 Cù Chính Lan (Ngay Ngõ Báo Hòa Bình), P. Hòa Bình, Tỉnh Phú Thọ",
+    "address": "880 Cù Chính Lan, P. Phương Lâm, TP. Hòa Bình, Tỉnh Hòa Bình",
+    "regulated_address": "880 Cù Chính Lan, Phường Hòa Bình, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Phường Hòa Bình",
+    "latitude": 20.818541,
+    "longitude": 105.338016,
+    "google_map_link": "https://maps.app.goo.gl/SasE6D92juL1R6VC7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5343630626226_8112bd904aa9c625730acf725b530bfb_47acbfdfa0.jpg"
+  },
+  {
+    "id": 2040,
+    "name": "Tiêm Chủng FPT Long Châu 74 -76 Tô Ngọc Vân (Cách Chợ Thủ Đức 500m), P. Thủ Đức, TP. Hồ Chí Minh",
+    "address": "74 -76 Tô Ngọc Vân, P. Linh Tây, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "regulated_address": "74 -76 Tô Ngọc Vân, Phường Thủ Đức, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Thủ Đức",
+    "latitude": 10.852125,
+    "longitude": 106.753175,
+    "google_map_link": "https://maps.app.goo.gl/dEfCyszL8HnYeUuB6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5324216840956_c7c1429d675e7342f00836e4f484a579_0c79f04181_1_02aa2f5544.png"
+  },
+  {
+    "id": 1754,
+    "name": "Tiêm Chủng FPT Long Châu 64 Trương Định (Trên Chợ Lớn Gia Nghĩa), P. Bắc Gia Nghĩa, Tỉnh Lâm Đồng",
+    "address": "64 Trương Định, P. Nghĩa Thành, TP. Gia Nghĩa, Tỉnh Đắk Nông",
+    "regulated_address": "64 Trương Định, Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Phường Bắc Gia Nghĩa",
+    "latitude": 12.005584,
+    "longitude": 107.683406,
+    "google_map_link": "https://maps.app.goo.gl/LJw2syjZpKD8MSaFA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5254583778959_8584df3fe9bc74dfdd76950f254a24c5_d689a10d57.jpg"
+  },
+  {
+    "id": 4559,
+    "name": "Tiêm Chủng FPT Long Châu 99-101 Quảng Oai (Đối Diện Sân Vận Động Quảng Oai), X. Quảng Oai, TP. Hà Nội",
+    "address": "99-101 Quảng Oai, TT. Tây Đằng, H. Ba Vì, TP. Hà Nội",
+    "regulated_address": "99-101 Quảng Oai, Xã Quảng Oai, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Quảng Oai",
+    "latitude": 21.198342,
+    "longitude": 105.424538,
+    "google_map_link": "https://maps.app.goo.gl/TkSepY7VoAZcowzJ7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5746180734944_0933aa98b4ae5cebaf72cccd74cbea03_b0fc6df2d6.jpg"
+  },
+  {
+    "id": 8049,
+    "name": "Tiêm Chủng FPT Long Châu 366 Tỉnh Lộ 10 (Gần Ngã Ba: An Dương Vương - Tỉnh Lộ 10), P. Bình Trị Đông, TP. Hồ Chí Minh",
+    "address": "366 Tỉnh Lộ 10, P. Bình Trị Đông, Q. Bình Tân, TP. Hồ Chí Minh",
+    "regulated_address": "366 Tỉnh Lộ 10, Phường Bình Trị Đông, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Trị Đông",
+    "latitude": 10.756796,
+    "longitude": 106.622597,
+    "google_map_link": "https://maps.app.goo.gl/QKAt3BXWtP2n35hS8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5254582965209_eb676f499ac4749a7d12e81108addbe8_64271dd0d7.jpg"
+  },
+  {
+    "id": 4656,
+    "name": "Tiêm Chủng FPT Long Châu 148 Bình Thuận (Ngã Tám Tuyên Quang), P. Minh Xuân, Tỉnh Tuyên Quang",
+    "address": "148 Bình Thuận, P. Tân Quang, TP. Tuyên Quang, Tỉnh Tuyên Quang",
+    "regulated_address": "148 Bình Thuận, Phường Minh Xuân, Tỉnh Tuyên Quang",
+    "province": "Tỉnh Tuyên Quang",
+    "district": "",
+    "ward": "Phường Minh Xuân",
+    "latitude": 21.816444,
+    "longitude": 105.213245,
+    "google_map_link": "https://maps.app.goo.gl/WERHehuVpdM8XnMH9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5244024508111_ad0f3d9fa24df66d4c35cc4a6892fe78_1_1046da92c2.jpg"
+  },
+  {
+    "id": 2754,
+    "name": "Tiêm Chủng FPT Long Châu 170-171 Tiểu Khu Phú Mỹ (Cạnh Cây Xăng Phú Mỹ), Xã Phú Xuyên, TP. Hà Nội",
+    "address": "170-171 Tiểu Khu Phú Mỹ, TT. Phú Xuyên, H. Phú Xuyên, TP. Hà Nội",
+    "regulated_address": "170-171 Tiểu Khu Phú Mỹ, Xã Phú Xuyên, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Phú Xuyên",
+    "latitude": 20.746886,
+    "longitude": 105.911882,
+    "google_map_link": "https://maps.app.goo.gl/kqaostVeuUmoLp9h6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_31f97263c9.jpg"
+  },
+  {
+    "id": 2991,
+    "name": "Tiêm Chủng FPT Long Châu 226-228 Yersin (Đối Diện Đường Vào Chùa Hội Khánh), P. Thủ Dầu Một, TP. Hồ Chí Minh",
+    "address": "226-228 Yersin, P. Hiệp Thành, TP. Thủ Dầu Một, Tỉnh Bình Dương",
+    "regulated_address": "226-228 Yersin, Phường Thủ Dầu Một, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Thủ Dầu Một",
+    "latitude": 10.9817157,
+    "longitude": 106.6577976,
+    "google_map_link": "https://maps.app.goo.gl/JkawMGBAx1BG7nTY8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_7fa8471fa5.png"
+  },
+  {
+    "id": 1216,
+    "name": "Tiêm Chủng FPT Long Châu 173 Hùng Vương (Ngã Tư Hùng Vương - Bùi Chí Nhuận), P. Long An, Tỉnh Tây Ninh",
+    "address": "173 Hùng Vương, P. 2, TP. Tân An, Tỉnh Long An",
+    "regulated_address": "173 Hùng Vương, Phường Long An, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Phường Long An",
+    "latitude": 10.536498,
+    "longitude": 106.406312,
+    "google_map_link": "https://maps.app.goo.gl/jU61GWv4o4hbaVh26",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5237301898116_1aa329067f90c94c5616a3291d8794c9_0964b53f63.jpg"
+  },
+  {
+    "id": 8423,
+    "name": "Tiêm Chủng FPT Long Châu 76 Tuệ Tĩnh (Đối Diện BV Đa Khoa Tỉnh Ninh Bình), P. Hoa Lư, Tỉnh Ninh Bình",
+    "address": "76 Tuệ Tĩnh, P. Nam Thành, TP. Hoa Lư, Tỉnh Ninh Bình",
+    "regulated_address": "76 Tuệ Tĩnh, Phường Hoa Lư, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Phường Hoa Lư",
+    "latitude": 20.2457399,
+    "longitude": 105.9659482,
+    "google_map_link": "https://maps.app.goo.gl/xYBLBoLBsG563qEM9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Tue_tinh_Ninh_Binh_9dbd58213a.jpg"
+  },
+  {
+    "id": 5624,
+    "name": "Tiêm Chủng FPT Long Châu 216 Thái Hà (Ngã Tư Thái Hà- Hoàng Cầu), P. Đống Đa, TP. Hà Nội",
+    "address": "216 Thái Hà, P. Trung Liệt, Q. Đống Đa, TP. Hà Nội",
+    "regulated_address": "216 Thái Hà, Phường Đống Đa, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Đống Đa",
+    "latitude": 21.0138087,
+    "longitude": 105.8190424,
+    "google_map_link": "https://maps.app.goo.gl/JKsoQMTATM95YLNo9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/216_Thai_Ha_1_328864b7e8.jpg"
+  },
+  {
+    "id": 7651,
+    "name": "Tiêm Chủng FPT Long Châu 406B Trương Công Định (Ngã Ba Nguyễn Tri Phương - Trương Công Định), P. Tam Thắng, TP. Hồ Chí Minh",
+    "address": "406B Trương Công Định, P. 8, TP. Vũng Tàu, Tỉnh Bà Rịa-Vũng Tàu",
+    "regulated_address": "406B Trương Công Định, Phường Tam Thắng, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tam Thắng",
+    "latitude": 10.359879,
+    "longitude": 107.087414,
+    "google_map_link": "https://maps.app.goo.gl/ko2WDa67XvpZzHej9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/Truong_cong_dinh_Vung_Tau_a83793b6e0.jpg"
+  },
+  {
+    "id": 9830,
+    "name": "Tiêm Chủng FPT Long Châu 68 Bạch Đằng (Ngã tư Chợ Mè), P. Âu Cơ, Tỉnh Phú Thọ",
+    "address": "68 Bạch Đằng, P. Âu Cơ, TX. Phú Thọ, Tỉnh Phú Thọ",
+    "regulated_address": "68 Bạch Đằng, Phường Âu Cơ, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Phường Âu Cơ",
+    "latitude": 21.398815,
+    "longitude": 105.222573,
+    "google_map_link": "https://maps.app.goo.gl/eY1Qb6AmhZAsgs3a9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_3ed860e573.jpg"
+  },
+  {
+    "id": 2499,
+    "name": "Tiêm Chủng FPT Long Châu 27-29 Vạn Phúc (Đối Diện Phố Ẩm Thực Vạn Phúc), P. Hà Đông, TP. Hà Nội",
+    "address": "27-29 Vạn Phúc, P. Vạn Phúc, Q. Hà Đông, TP. Hà Nội",
+    "regulated_address": "27 Vạn Phúc, Phường Hà Đông, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Hà Đông",
+    "latitude": 20.9775565,
+    "longitude": 105.7750182,
+    "google_map_link": "https://maps.app.goo.gl/qXgPFnhtSBy3jSRp7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Van_phuc_Hn_1_8e0e3ce857.jpg"
+  },
+  {
+    "id": 5199,
+    "name": "Tiêm Chủng FPT Long Châu 2E Ngõ 34 Xuân La (Cạnh Trường Tiểu Học Xuân La), P. Xuân Đỉnh, TP. Hà Nội",
+    "address": "2E Ngõ 34 Xuân La, P. Xuân La, Q. Tây Hồ, TP. Hà Nội",
+    "regulated_address": "2E Ngõ 34 Xuân La, Phường Xuân Đỉnh, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Xuân Đỉnh",
+    "latitude": 21.066048,
+    "longitude": 105.805226,
+    "google_map_link": "https://maps.app.goo.gl/HLJc4h7a15p8sZbw5",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_cf9472f45a.jpg"
+  },
+  {
+    "id": 6526,
+    "name": "Tiêm Chủng FPT Long Châu 1008 - 1010 Âu Cơ (Cổng Sau Chợ Võ Thành Trang), P. Tân Bình, TP. Hồ Chí Minh",
+    "address": "1008 - 1010 Âu Cơ, P. 14, Q. Tân Bình, TP. Hồ Chí Minh",
+    "regulated_address": "1008 - 1010 Âu Cơ, Phường Tân Bình, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Bình",
+    "latitude": 10.798932,
+    "longitude": 106.637521,
+    "google_map_link": "https://maps.app.goo.gl/KFUfr2WQF7pnVkoM9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/AU_CO_HCM_051d45e6dc.jpg"
+  },
+  {
+    "id": 4549,
+    "name": "Tiêm Chủng FPT Long Châu 6/60 Trưng Nữ Vương, X. Hóc Môn, TP. Hồ Chí Minh",
+    "address": "6/60 Trưng Nữ Vương, TT. Hóc Môn, H. Hóc Môn, TP. Hồ Chí Minh",
+    "regulated_address": "6/60 Trưng Nữ Vương, Xã Hóc Môn, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Hóc Môn",
+    "latitude": 10.888855,
+    "longitude": 106.596822,
+    "google_map_link": "https://maps.app.goo.gl/3RUhbG4PSNVWJwcVA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/TRUNG_NU_VUONG_HCM_1_c3fa865195.jpg"
+  },
+  {
+    "id": 5512,
+    "name": "Tiêm Chủng FPT Long Châu 81 Nguyễn An Ninh (Cách Ngã Ba Truông Tre 40m), P. Dĩ An, TP. Hồ Chí Minh",
+    "address": "81 Nguyễn An Ninh, P. Dĩ An, TP. Dĩ An, Tỉnh Bình Dương",
+    "regulated_address": "81 Nguyễn An Ninh, Phường Dĩ An, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Dĩ An",
+    "latitude": 10.896501,
+    "longitude": 106.767414,
+    "google_map_link": "https://maps.app.goo.gl/F2vC2HmQCrPyCy8c9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Nguyen_An_Ninh_Binh_duong_9ebff92609.jpg"
+  },
+  {
+    "id": 5250,
+    "name": "Tiêm Chủng FPT Long Châu 112-114 Trường Chinh (Đối Diện Trường Mầm Non Hương Hồng), P. Bảy Hiền, TP. Hồ Chí Minh",
+    "address": "112-114 Trường Chinh, P. 12, Q. Tân Bình, TP. Hồ Chí Minh",
+    "regulated_address": "112-114 Trường Chinh, Phường Bảy Hiền, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bảy Hiền",
+    "latitude": 10.793291,
+    "longitude": 106.6509147,
+    "google_map_link": "https://maps.app.goo.gl/fnU2yojp1gKyy2A47",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/TRUONG_CHINH_TAN_BINH_1_dfa38054bc.jpg"
+  },
+  {
+    "id": 3964,
+    "name": "Tiêm Chủng FPT Long Châu 325 Phạm Ngọc Thạch (Đối Diện Cổng Khu Dân Cư Hiệp Thành 3), P. Phú Lợi, TP. Hồ Chí Minh",
+    "address": "325 Phạm Ngọc Thạch, P. Hiệp Thành, TP. Thủ Dầu Một, Tỉnh Bình Dương",
+    "regulated_address": "325 Phạm Ngọc Thạch, P. Phú Lợi, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Phú Lợi",
+    "latitude": 11.005023,
+    "longitude": 106.666005,
+    "google_map_link": "https://maps.app.goo.gl/Mswi1iaWgWWbMh5w6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_37987da157.jpg"
+  },
+  {
+    "id": 3279,
+    "name": "Tiêm Chủng FPT Long Châu 261-263 Khánh Hội (Ngã Ba Hoàng Diệu Và Khánh Hội), P. Khánh Hội, TP. Hồ Chí Minh",
+    "address": "261-263 Khánh Hội, P. 2, Q. 4, TP. Hồ Chí Minh",
+    "regulated_address": "261-263 Khánh Hội, Phường Khánh Hội, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Khánh Hội",
+    "latitude": 10.759687,
+    "longitude": 106.698278,
+    "google_map_link": "https://maps.app.goo.gl/KkRaq4S44VHXDQci9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692122345_b90ebcc2a4da07da1367a283ca385acd_1_1_3edd615860.jpg"
+  },
+  {
+    "id": 9906,
+    "name": "Tiêm Chủng FPT Long Châu 32 Nhạc Sơn (Gần Đường Tròn Cốc Lếu), P. Lào Cai, Tỉnh Lào Cai",
+    "address": "32 Nhạc Sơn, P. Duyên Hải, TP. Lào Cai, Tỉnh Lào Cai",
+    "regulated_address": "32 Nhạc Sơn, Phường Lào Cai, Tỉnh Lào Cai",
+    "province": "Tỉnh Lào Cai",
+    "district": "",
+    "ward": "Phường Lào Cai",
+    "latitude": 22.50043,
+    "longitude": 103.9653171,
+    "google_map_link": "https://maps.app.goo.gl/c4NTdwtYJqRzLLC8A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/Lao_cai_1_10a6f6b376.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Tiêm Chủng FPT Long Châu 358 Hùng Vương (Bên Cạnh Trung Tâm Khu Vực Y Tế Lâm Hà), X. Đinh Văn Lâm Hà, Tỉnh Lâm Đồng",
+    "address": "358 Hùng Vương, TT. Đinh Văn, H. Lâm Hà, Tỉnh Lâm Đồng",
+    "regulated_address": "358 Hùng Vương, X. Đinh Văn Lâm Hà, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Xã Đinh Văn Lâm Hà",
+    "latitude": 11.784902,
+    "longitude": 108.257891,
+    "google_map_link": "https://maps.app.goo.gl/QbiBzpdtU52t1Le9A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_c78c8bbe8e.png"
+  },
+  {
+    "id": 3621,
+    "name": "Tiêm Chủng FPT Long Châu 1 Sài Đồng (Ngã 4 Nguyễn Văn Linh - Cạnh Ngân Hàng BIDV), P. Phúc Lợi, TP. Hà Nội",
+    "address": "1 Sài Đồng, P. Phúc Đồng, Q. Long Biên, TP. Hà Nội",
+    "regulated_address": "1 Sài Đồng, Phường Phúc Lợi, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Phúc Lợi",
+    "latitude": 21.0330239,
+    "longitude": 105.9090723,
+    "google_map_link": "https://maps.app.goo.gl/zJoh9jiLzDXmeLMm8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_b98329e580.png"
+  },
+  {
+    "id": 5484,
+    "name": "Tiêm Chủng FPT Long Châu 221-223 Cao Lỗ (Đối Diện Bệnh Viện Đa Khoa Đông Anh), X. Đông Anh, TP. Hà Nội",
+    "address": "221-223 Cao Lỗ, X. Uy Nỗ, H. Đông Anh, TP. Hà Nội",
+    "regulated_address": "221-223 Cao Lỗ, X. Đông Anh, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Đông Anh",
+    "latitude": 21.139461,
+    "longitude": 105.854467,
+    "google_map_link": "https://maps.app.goo.gl/15a4DJfY4U6k3ayS9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_f822967012.jpg"
+  },
+  {
+    "id": 7742,
+    "name": "Tiêm Chủng FPT Long Châu 159 Nguyễn Phong Sắc (Đối Diện Bệnh Viện Ung Bướu), P. Trường Vinh, Tỉnh Nghệ An",
+    "address": "159 Nguyễn Phong Sắc, P. Hưng Dũng, TP. Vinh, Tỉnh Nghệ An",
+    "regulated_address": "159 Nguyễn Phong Sắc, Phường Trường Vinh, Tỉnh Nghệ An",
+    "province": "Tỉnh Nghệ An",
+    "district": "",
+    "ward": "Phường Trường Vinh",
+    "latitude": 18.6843176,
+    "longitude": 105.6988511,
+    "google_map_link": "https://maps.app.goo.gl/dYHbT8asy3P5BGEn9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Nguyen_Phong_Sac_Nghe_An_97442d5ffb.jpg"
+  },
+  {
+    "id": 4229,
+    "name": "Tiêm Chủng FPT Long Châu 357 Nguyễn Văn Cừ (Ngã Ba Đường Đốc Thiết), P. Thành Vinh, Tỉnh Nghệ An",
+    "address": "357 Nguyễn Văn Cừ, P. Hưng Bình, TP. Vinh, Tỉnh Nghệ An",
+    "regulated_address": "357 Nguyễn Văn Cừ, Phường Thành Vinh, Tỉnh Nghệ An",
+    "province": "Tỉnh Nghệ An",
+    "district": "",
+    "ward": "Phường Thành Vinh",
+    "latitude": 18.6851835,
+    "longitude": 105.681338,
+    "google_map_link": "https://maps.app.goo.gl/5wgGCmCoiiMDuC36A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Nguyen_van_cu_Nghe_An_b218765519.jpg"
+  },
+  {
+    "id": 9469,
+    "name": "Tiêm Chủng FPT Long Châu 7-9-11 Bắc Sơn (Cạnh Bưu Điện Huyện Chương Mỹ), P. Chương Mỹ, TP. Hà Nội",
+    "address": "7-9-11 Bắc Sơn, TT. Chúc Sơn, H. Chương Mỹ, TP. Hà Nội",
+    "regulated_address": "7-9-11 Bắc Sơn, Phường Chương Mỹ, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Chương Mỹ",
+    "latitude": 20.924066,
+    "longitude": 105.704969,
+    "google_map_link": "https://maps.app.goo.gl/xf2TihCiZXLAfGALA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_0e6e2bb4a5.png"
+  },
+  {
+    "id": 6483,
+    "name": "Tiêm Chủng FPT Long Châu 248A Trần Hưng Đạo (Ngã Tư Trần Hưng Đạo - Lý Thường Kiệt), P. Đạo Thạnh, Tỉnh Đồng Tháp",
+    "address": "248A Trần Hưng Đạo, P. 4, TP. Mỹ Tho, Tỉnh Tiền Giang",
+    "regulated_address": "248A Trần Hưng Đạo, Phường Đạo Thạnh, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Phường Đạo Thạnh",
+    "latitude": 10.3564098,
+    "longitude": 106.3569882,
+    "google_map_link": "https://maps.app.goo.gl/geVDYwn7NQ6Ve51JA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/248_THD_Tien_Giang_1f1f3f64d0.jpg"
+  },
+  {
+    "id": 9495,
+    "name": "Tiêm Chủng FPT Long Châu Thửa 154, Bản Đồ 7, Nguyễn Chí Công (Ngay Chân Cầu Sắt Cái Bè), X. Cái Bè, Tỉnh Đồng Tháp",
+    "address": "Thửa 154, Bản Đồ 7, Nguyễn Chí Công, TT. Cái Bè, H. Cái Bè, Tỉnh Tiền Giang",
+    "regulated_address": "Thửa 154, Bản Đồ 7, Nguyễn Chí Công, X. Cái Bè, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Xã Cái Bè",
+    "latitude": 10.338311,
+    "longitude": 106.033417,
+    "google_map_link": "https://maps.app.goo.gl/6vzDAeUopmUoJDHa8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_b848150c3e.png"
+  },
+  {
+    "id": 6970,
+    "name": "Tiêm Chủng FPT Long Châu 382-384 Trường Chinh (Cách Ngã Tư Cầu Cất 100m), P. Lê Thanh Nghị, TP. Hải Phòng",
+    "address": "382-384 Trường Chinh, P. Lê Thanh Nghị, TP. Hải Dương, Tỉnh Hải Dương",
+    "regulated_address": "382-384 Trường Chinh, P. Lê Thanh Nghị, TP. Hải Phòng",
+    "province": "Hải Phòng",
+    "district": "",
+    "ward": "Phường Lê Thanh Nghị",
+    "latitude": 20.928962,
+    "longitude": 106.321714,
+    "google_map_link": "https://maps.app.goo.gl/XdQkBMWP8Rqps1jh8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_98d74ff2ee.png"
+  },
+  {
+    "id": 2499,
+    "name": "Tiêm Chủng FPT Long Châu 160A Trần Phú (Gần Chợ Bình Định), P. Bình Định, Tỉnh Gia Lai",
+    "address": "160A Trần Phú, P. Bình Định, TX. An Nhơn, Tỉnh Bình Định",
+    "regulated_address": "160A Trần Phú, Phường Bình Định, Tỉnh Gia Lai",
+    "province": "Tỉnh Gia Lai",
+    "district": "",
+    "ward": "Phường Bình Định",
+    "latitude": 13.888883,
+    "longitude": 109.112969,
+    "google_map_link": "https://maps.app.goo.gl/ZaM8GqA9Dnry18X17",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Tran_Phu_Binh_Dinh_1_e495864b4a.jpg"
+  },
+  {
+    "id": 2669,
+    "name": "Tiêm Chủng FPT Long Châu BT11-VT10, Khu Nhà Ở Xa La (Cạnh Quán Trà Sữa Tocotoco Xa La), P. Hà Đông, TP. Hà Nội",
+    "address": "BT11-VT10, Khu Nhà Ở Xa La, P. Phúc La, Q. Hà Đông, TP. Hà Nội",
+    "regulated_address": "BT11-VT10, Khu Nhà Ở Xa La, Phường Hà Đông, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Hà Đông",
+    "latitude": 20.962536,
+    "longitude": 105.794509,
+    "google_map_link": "https://maps.app.goo.gl/iawTSdZZ2dDnbtp57",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Xala_HN_4a71bf9a84.jpg"
+  },
+  {
+    "id": 4634,
+    "name": "Tiêm Chủng FPT Long Châu 313 Hai Bà Trưng (Đối Diện BV Hữu Nghị Việt - Tiệp), P. An Biên, TP. Hải Phòng",
+    "address": "313 Hai Bà Trưng, P. Cát Dài, Q. Lê Chân, TP. Hải Phòng",
+    "regulated_address": "313 Hai Bà Trưng, Phường An Biên, TP. Hải Phòng",
+    "province": "Hải Phòng",
+    "district": "",
+    "ward": "Phường An Biên",
+    "latitude": 20.851421,
+    "longitude": 106.672201,
+    "google_map_link": "https://maps.app.goo.gl/or6agRWq7o1mnBSr8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Hai_ba_Trung_Hai_Phong_4323a6eb09.jpg"
+  },
+  {
+    "id": 8170,
+    "name": "Tiêm Chủng FPT Long Châu 527 Cách Mạng Tháng Tám (Đối Diện Chợ Đất Thánh), P. Tân Ninh, Tỉnh Tây Ninh",
+    "address": "527 Cách Mạng Tháng Tám, Phường 3, TP. Tây Ninh, Tỉnh Tây Ninh",
+    "regulated_address": "527 Cách Mạng Tháng Tám, P. Tân Ninh, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Phường Tân Ninh",
+    "latitude": 11.310266,
+    "longitude": 106.104464,
+    "google_map_link": "https://maps.app.goo.gl/MYMkRwiCrnvnVYvK7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/CMT_8_TN_93e59792d4.jpg"
+  },
+  {
+    "id": 8066,
+    "name": "Tiêm Chủng FPT Long Châu 33 Tây Mỗ (Gần Winmart+ Tây Mỗ), P. Tây Mỗ, TP. Hà Nội",
+    "address": "33 Tây Mỗ, P. Tây Mỗ, Q. Nam Từ Liêm, TP. Hà Nội",
+    "regulated_address": "33 Tây Mỗ, Phường Tây Mỗ, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Tây Mỗ",
+    "latitude": 21.001641,
+    "longitude": 105.750761,
+    "google_map_link": "https://maps.app.goo.gl/YR7NPHaemGVt5fKR7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Tay_mo_HN_06a2d19996.jpg"
+  },
+  {
+    "id": 6728,
+    "name": "Tiêm Chủng FPT Long Châu 379-381 Hai Bà Trưng (Gần Chợ Tân Định), P. Xuân Hòa, TP. Hồ Chí Minh",
+    "address": "379-381 Hai Bà Trưng, P. Võ Thị Sáu, Q. 3, TP. Hồ Chí Minh",
+    "regulated_address": "379-381 Hai Bà Trưng, Phường Xuân Hòa, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Xuân Hòa",
+    "latitude": 10.7901691,
+    "longitude": 106.6888024,
+    "google_map_link": "https://maps.app.goo.gl/d6svzNNfrTXzUmwi6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/379_1_97f368e753_60784b1068.jpeg"
+  },
+  {
+    "id": 5402,
+    "name": "Tiêm Chủng FPT Long Châu 422-424 Cách Mạng Tháng Tám (Đối Diện Chợ Hòa Hưng), P. Nhiêu Lộc, TP. Hồ Chí Minh",
+    "address": "422-424 Cách Mạng Tháng Tám, P. 11, Q. 3, TP. Hồ Chí Minh",
+    "regulated_address": "422-424 Cách Mạng Tháng Tám, Phường Nhiêu Lộc, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Nhiêu Lộc",
+    "latitude": 10.783765,
+    "longitude": 106.670881,
+    "google_map_link": "https://maps.app.goo.gl/p8x78be5Fdx9eL7e8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/422_CMT_8_HCM_5ba80f44a4.jpg"
+  },
+  {
+    "id": 8149,
+    "name": "Tiêm Chủng FPT Long Châu 99 Tổ 9 (Cách Bệnh Viện Đa Khoa Hà Nội 200m), P. Nùng Trí Cao, Tỉnh Cao Bằng",
+    "address": "99 Tổ 9, P. Ngọc Xuân, TP. Cao Bằng, Tỉnh Cao Bằng",
+    "regulated_address": "99 Tổ 9, P. Nùng Trí Cao, Tỉnh Cao Bằng",
+    "province": "Tỉnh Cao Bằng",
+    "district": "",
+    "ward": "Phường Nùng Trí Cao",
+    "latitude": 22.659427918178515,
+    "longitude": 106.26612698711794,
+    "google_map_link": "https://maps.app.goo.gl/qFVqWf1fgsuvU8an8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_801c73c16a.png"
+  },
+  {
+    "id": 8384,
+    "name": "Tiêm Chủng FPT Long Châu 254 Tây Sơn (Bên Cạnh Bến Xe Đan Phượng), X. Đan Phượng, TP. Hà Nội",
+    "address": "254 Tây Sơn, TT. Phùng, H. Đan Phượng, TP. Hà Nội",
+    "regulated_address": "254 Tây Sơn, X. Đan Phượng, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Đan Phượng",
+    "latitude": 21.08501210192274,
+    "longitude": 105.66947371936315,
+    "google_map_link": "https://maps.app.goo.gl/ogG41Gmj7ZnikZsX6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_58fb00e6a2.png"
+  },
+  {
+    "id": 8771,
+    "name": "Tiêm Chủng FPT Long Châu 68 Quốc Lộ 22B (Đối Diện Chợ Tân Biên), X. Tân Biên, Tỉnh Tây Ninh",
+    "address": "68 Quốc Lộ 22B, TT. Tân Biên, H. Tân Biên, Tỉnh Tây  Ninh",
+    "regulated_address": "68 Quốc Lộ 22B, Xã Tân Biên, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Xã Tân Biên",
+    "latitude": 11.545071,
+    "longitude": 106.004013,
+    "google_map_link": "https://maps.app.goo.gl/6huR1h2USa33EjTk7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5496400570666_a264e567d2e647b408f8ae6173d4d1a8_138dea39bd.jpg"
+  },
+  {
+    "id": 3624,
+    "name": "Tiêm Chủng FPT Long Châu 264 Nguyễn Huệ, P. An Lộc, Tỉnh Đồng Nai",
+    "address": "264 Nguyễn Huệ, P. Phú Thịnh, TX. Bình Long, Tỉnh Bình Phước",
+    "regulated_address": "264 Nguyễn Huệ, Phường An Lộc, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường An Lộc",
+    "latitude": 11.6542567,
+    "longitude": 106.6092187,
+    "google_map_link": "https://maps.app.goo.gl/rDA1ikF6q3LSpmG99",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Binh_Long_BP_3ad5eb72c0.png"
+  },
+  {
+    "id": 2110,
+    "name": "Tiêm Chủng FPT Long Châu 137 Lạc Long Quân (Lối Vào Cổng Sau Chợ Nghĩa Đô), P. Tây Hồ, TP. Hà Nội",
+    "address": "137 Lạc Long Quân, P. Nghĩa Đô, Q. Cầu Giấy, TP. Hà Nội",
+    "regulated_address": "137 Lạc Long Quân, Phường Tây Hồ, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Tây Hồ",
+    "latitude": 21.051813,
+    "longitude": 105.808506,
+    "google_map_link": "https://maps.app.goo.gl/4gsESHDNuUCWHQnM9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z6771059367482_defe00ed5fd79c361dacac254ee949f1_db6417d5d1.jpg"
+  },
+  {
+    "id": 3148,
+    "name": "Tiêm Chủng FPT Long Châu 203-205-205A Đường 3/2 (Đối Diện Việt Nam Quốc Tự), P. Vườn Lài, TP. Hồ Chí Minh",
+    "address": "203-205-205A Đường 3/2, P. 11, Q. 10, TP. Hồ Chí Minh",
+    "regulated_address": "203-205-205A Đường 3/2, Phường Vườn Lài, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Vườn Lài",
+    "latitude": 10.771504,
+    "longitude": 106.674276,
+    "google_map_link": "https://maps.app.goo.gl/WB9JJDzQTgbmXJGJ8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/3_THANG_2_HCM_1080x1080_bf9a67d0ca.png"
+  },
+  {
+    "id": 3274,
+    "name": "Tiêm Chủng FPT Long Châu 244 phố Minh Khai (Đầu Ngõ Gốc Đề), P. Tương Mai, TP. Hà Nội",
+    "address": "244 phố Minh Khai, P. Minh Khai, Q. Hai Bà Trưng, TP. Hà Nội",
+    "regulated_address": "244 phố Minh Khai, Phường Tương Mai, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Tương Mai",
+    "latitude": 20.9950001,
+    "longitude": 105.8562501,
+    "google_map_link": "https://maps.app.goo.gl/N8gCPcGS8TJmcRbGA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/Minh_Khai_HN_8491c48195.jpg"
+  },
+  {
+    "id": 8307,
+    "name": "Tiêm Chủng FPT Long Châu 376-378 Lê Duẩn, X. Tân Châu, Tỉnh Tây Ninh",
+    "address": "376-378 Lê Duẩn, TT. Tân Châu, H. Tân Châu, Tỉnh Tây Ninh",
+    "regulated_address": "376-378 Lê Duẩn, Xã Tân Châu, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Xã Tân Châu",
+    "latitude": 11.5534625,
+    "longitude": 106.1638424,
+    "google_map_link": "https://maps.app.goo.gl/oznqhhExDGFfmdGh7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Tan_Chau_TN_1_1_a655ecf230.jpg"
+  },
+  {
+    "id": 6844,
+    "name": "Tiêm Chủng FPT Long Châu 44 Đường Số 7 (Ngã Tư Đường Số 7 Và Đường Điện Biên Phủ), X. Long Hải, TP. Hồ Chí Minh",
+    "address": "44 Đường Số 7, TT. Long Hải, H. Long Đất, Tỉnh Bà Rịa - Vũng Tàu",
+    "regulated_address": "44 Đường Số 7, Xã Long Hải, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Long Hải",
+    "latitude": 10.4154698,
+    "longitude": 107.2190042,
+    "google_map_link": "https://maps.app.goo.gl/mJmT7TBwwYeTBCZMA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_9f0de0e5a8.png"
+  },
+  {
+    "id": 4194,
+    "name": "Tiêm Chủng FPT Long Châu 63 Đông A (Ngã Tư Đông A- Chu Văn An), P. Đông A, Tỉnh Ninh Bình",
+    "address": "63 Đông A, X. Lộc Hòa, TP. Nam Định, Tỉnh Nam Định",
+    "regulated_address": "63 Đông A, P. Đông A, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Phường Đông A",
+    "latitude": 20.43532,
+    "longitude": 106.159661,
+    "google_map_link": "https://maps.app.goo.gl/LRdujUzjnWkydPgHA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_ee586921f2.png"
+  },
+  {
+    "id": 9724,
+    "name": "Tiêm Chủng FPT Long Châu 137A1 Hiệp Bình (Gần Trường Mầm Non Hiếu Trung), P. Hiệp Bình, TP. Hồ Chí Minh",
+    "address": "137A1 Hiệp Bình, Khu Phố 7, Phường Hiệp Bình Chánh, Thành Phố Thủ Đức, Thành Phố Hồ Chí Minh",
+    "regulated_address": "137A1 Hiệp Bình, P. Hiệp Bình, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Hiệp Bình",
+    "latitude": 10.844319123236728,
+    "longitude": 106.73015516011446,
+    "google_map_link": "https://maps.app.goo.gl/1pdpascXsRioc7as8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_216c790e4b.png"
+  },
+  {
+    "id": 3575,
+    "name": "Tiêm Chủng FPT Long Châu 40 Đường DT 746 (Đối Diện Chợ Tân Phước Khánh), P. Tân Khánh, TP. Hồ Chí Minh",
+    "address": "40 Đường DT 746, P. Tân Phước Khánh, TP. Tân Uyên, Tỉnh Bình Dương",
+    "regulated_address": "40 Đường DT 746, P. Tân Khánh, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Khánh",
+    "latitude": 11.004889,
+    "longitude": 106.719048,
+    "google_map_link": "https://maps.app.goo.gl/Uap2kTniH74GMZfB9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_9ec985e75b.jpg"
+  },
+  {
+    "id": 2132,
+    "name": "Tiêm Chủng FPT Long Châu 444 Trần Hưng Đạo (Đối Diện Quảng Trường Sao Đỏ), P. Chu Văn An, TP. Hải Phòng",
+    "address": "444 Trần Hưng Đạo, P. Sao Đỏ, TP. Chí Linh, Tỉnh Hải Dương",
+    "regulated_address": "444 Trần Hưng Đạo, P. Chu Văn An, TP. Hải Phòng",
+    "province": "Hải Phòng",
+    "district": "",
+    "ward": "Phường Chu Văn An",
+    "latitude": 21.107842,
+    "longitude": 106.389136,
+    "google_map_link": "https://maps.app.goo.gl/zRG1qY6uKsUXPXaA9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_58f141d433.png"
+  },
+  {
+    "id": 6381,
+    "name": "Tiêm Chủng FPT Long Châu 182 Cầu Giấy, P. Nghĩa Đô, TP. Hà Nội",
+    "address": "182 Đường Cầu Giấy, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",
+    "regulated_address": "182 Cầu Giấy, P. Nghĩa Đô, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Nghĩa Đô",
+    "latitude": 21.033816,
+    "longitude": 105.797833,
+    "google_map_link": "https://maps.app.goo.gl/Cw3kDZzVQhVmv4XMA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_2e4a8141c4.png"
+  },
+  {
+    "id": 7938,
+    "name": "Tiêm Chủng FPT Long Châu 355-355A Nguyễn Xí (Ngay Ngã Tư Nguyễn Xí - Phạm Văn Đồng), P. Bình Lợi Trung, TP. Hồ Chí Minh",
+    "address": "355–355A Nguyễn Xí, Phường 13, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+    "regulated_address": "355-355A Nguyễn Xí, P. Bình Lợi Trung, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Lợi Trung",
+    "latitude": 10.82321,
+    "longitude": 106.702908,
+    "google_map_link": "https://maps.app.goo.gl/7CCR6pa888nrqhiC6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_fc276129f6.png"
+  },
+  {
+    "id": 3116,
+    "name": "Tiêm Chủng FPT Long Châu Tổ Dân Phố 3 (Gần Ngã Tư cầu Yên Định), X. Hải Hậu, Tỉnh Ninh Bình",
+    "address": "Tổ Dân Phố 3, Thị trấn Yên Định, Huyện Hải Hậu, Tỉnh Nam Định",
+    "regulated_address": "Tổ Dân Phố 3, X. Hải Hậu, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Xã Hải Hậu",
+    "latitude": 20.1984,
+    "longitude": 106.29614,
+    "google_map_link": "https://maps.app.goo.gl/RYGxySkTbQTpNnqs9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_d5f7464ade.jpg"
+  },
+  {
+    "id": 4957,
+    "name": "Tiêm Chủng FPT Long Châu 94 Trần Hưng Đạo (Đối Diện Đài Phun Nước Phúc Yên), Phường Phúc Yên, Tỉnh Phú Thọ",
+    "address": "94 Trần Hưng Đạo, P. Hai Bà Trưng, TP. Phúc Yên, Tỉnh Vĩnh Phúc",
+    "regulated_address": "94 Trần Hưng Đạo, Phường Phúc Yên, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Phường Phúc Yên",
+    "latitude": 21.234165,
+    "longitude": 105.70598,
+    "google_map_link": "https://maps.app.goo.gl/QxtHMsvNgicqXxAR7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_0e765e4cf3.png"
+  },
+  {
+    "id": 1996,
+    "name": "Tiêm Chủng FPT Long Châu 189-191 Quốc Lộ 60 (Kế Bên Cây Xăng Mỏ Cày), X. Mỏ Cày, Tỉnh Vĩnh Long",
+    "address": "189-191 Quốc Lộ 60, TT. Mỏ Cày, H. Mỏ Cày Nam, Tỉnh Bến Tre",
+    "regulated_address": "189-191 Quốc Lộ 60, X. Mỏ Cày, Tỉnh Vĩnh Long",
+    "province": "Tỉnh Vĩnh Long",
+    "district": "",
+    "ward": "Xã Mỏ Cày",
+    "latitude": 10.129446,
+    "longitude": 106.331858,
+    "google_map_link": "https://maps.app.goo.gl/GrbePbct6w1cUQVm7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_95073fd804.png"
+  },
+  {
+    "id": 4426,
+    "name": "Tiêm Chủng FPT Long Châu 145-147 Bình Phú, P. Bình Phú, TP. Hồ Chí Minh",
+    "address": "145-147 Bình Phú, P. 11, Q. 6, TP. Hồ Chí Minh",
+    "regulated_address": "145-147 Bình Phú, Phường Bình Phú, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Phú",
+    "latitude": 10.743833,
+    "longitude": 106.630423,
+    "google_map_link": "https://maps.app.goo.gl/kjnavQfgSUN75YMU7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_d9ddd81599.png"
+  },
+  {
+    "id": 1518,
+    "name": "Tiêm Chủng FPT Long Châu 74 Biên Hòa (Ngã Tư Trường Chinh - Biên Hòa), P. Phủ Lý, Tỉnh Ninh Bình",
+    "address": "74 Biên Hòa, P. Minh Khai, TP. Phủ Lý, Tỉnh Hà Nam",
+    "regulated_address": "74 Biên Hòa, Phường Phủ Lý, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Phường Phủ Lý",
+    "latitude": 20.543361,
+    "longitude": 105.918564,
+    "google_map_link": "https://maps.app.goo.gl/qmnGfvWnRK7SHojc8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5917684147796_cb46893c2affec6ee84868167b13c859_e421ab4d97.jpg"
+  },
+  {
+    "id": 2944,
+    "name": "Tiêm Chủng FPT Long Châu 123 Nguyễn Ảnh Thủ (Đối diện Mì Cay Yagami), P. Tân Thới Hiệp, TP. Hồ Chí Minh",
+    "address": "123 Nguyễn Ảnh Thủ, P. Hiệp Thành, Q. 12, TP. Hồ Chí Minh",
+    "regulated_address": "123 Nguyễn Ảnh Thủ, Phường Tân Thới Hiệp, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Thới Hiệp",
+    "latitude": 10.876629,
+    "longitude": 106.644924,
+    "google_map_link": "https://maps.app.goo.gl/NWBAJbAGqAMAttAw9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_41c92284f0.png"
+  },
+  {
+    "id": 8644,
+    "name": "Tiêm Chủng FPT Long Châu 56 Nguyễn Trãi (Cạnh Royal City), P. Thanh Xuân, TP. Hà Nội",
+    "address": "56 Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân, TP. Hà Nội",
+    "regulated_address": "56 Nguyễn Trãi, Phường Thanh Xuân, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Thanh Xuân",
+    "latitude": 21.001533,
+    "longitude": 105.817656,
+    "google_map_link": "https://maps.app.goo.gl/6scuwc7udxvQDH2d7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_e15a1f9b85.jpg"
+  },
+  {
+    "id": 2388,
+    "name": "Tiêm Chủng FPT Long Châu 6-8 Nguyễn Lương Bằng (Đối Diện Khách Sạn Sơn La - Vòng Xuyến Cầu Trắng), P. Tô Hiệu, Tỉnh Sơn La",
+    "address": "6-8 Nguyễn Lương Bằng, P. Quyết Thắng, TP. Sơn La, Tỉnh Sơn La",
+    "regulated_address": "6-8 Nguyễn Lương Bằng, Phường Tô Hiệu, Tỉnh Sơn La",
+    "province": "Tỉnh Sơn La",
+    "district": "",
+    "ward": "Phường Tô Hiệu",
+    "latitude": 21.326675,
+    "longitude": 103.913856,
+    "google_map_link": "https://maps.app.goo.gl/yGSYJ1RM37415Rnu9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_ffd0a35fdf.png"
+  },
+  {
+    "id": 4,
+    "name": "Tiêm Chủng FPT Long Châu 2 Nguyễn Khuyến (Cạnh Quảng Trường Thành Phố Sông Công), P. Sông Công, Tỉnh Thái Nguyên",
+    "address": "2 Nguyễn Khuyến, P. Thắng Lợi, TP. Sông Công, Tỉnh Thái Nguyên",
+    "regulated_address": "2 Nguyễn Khuyến, Phường Sông Công, Tỉnh Thái Nguyên",
+    "province": "Tỉnh Thái Nguyên",
+    "district": "",
+    "ward": "Phường Sông Công",
+    "latitude": 21.4677444,
+    "longitude": 105.8448957,
+    "google_map_link": "https://maps.app.goo.gl/dSpauMoBN3UMXbXv7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_90c6bbbf28.png"
+  },
+  {
+    "id": 3882,
+    "name": "Tiêm Chủng FPT Long Châu 305-307 Bình Đà (Ngay Chợ Tư, Chợ Bình Đà), X. Bình Minh, TP. Hà Nội",
+    "address": "305-307 Bình Đà, X. Bình Minh, H. Thanh Oai, TP. Hà Nội",
+    "regulated_address": "305-307 Bình Đà, Xã Bình Minh, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Bình Minh",
+    "latitude": 20.891459,
+    "longitude": 105.763389,
+    "google_map_link": "https://maps.app.goo.gl/zgLtCDf6y3BT5AoSA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_378a6831d2.png"
+  },
+  {
+    "id": 4736,
+    "name": "Tiêm Chủng FPT Long Châu 14 Hùng Vương (Cách Cầu Hùng Vương 400m), Phường Kiến Tường, Tỉnh Tây Ninh",
+    "address": "14 Hùng Vương, P. 1, TX. Kiến Tường, Tỉnh Long An",
+    "regulated_address": "14 Hùng Vương, Phường Kiến Tường, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Phường Kiến Tường",
+    "latitude": 10.7788,
+    "longitude": 105.936213,
+    "google_map_link": "https://maps.app.goo.gl/GgEzuuREAtVyh6UMA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_d35edcae14.jpg"
+  },
+  {
+    "id": 5580,
+    "name": "Tiêm Chủng FPT Long Châu Tổ Dân Phố Lũng Thượng (Đối Diện Công Ty Điện Lực Yên Lạc), X. Tam Hồng, Tỉnh Phú Thọ",
+    "address": "Tổ Dân Phố Lũng Thượng, TT. Tam Hồng, H. Yên Lạc, Tỉnh Vĩnh Phúc",
+    "regulated_address": "Tổ Dân Phố Lũng Thượng, Xã Tam Hồng, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Xã Tam Hồng",
+    "latitude": 21.228106,
+    "longitude": 105.57248,
+    "google_map_link": "https://maps.app.goo.gl/cSiXu32b2MtkKAKc9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z6771051364067_00022ed337fe079b50bd82c4ec03b702_9bf8c44019.jpg"
+  },
+  {
+    "id": 2222,
+    "name": "Tiêm Chủng FPT Long Châu 541 đường QL20 (Đối Diện Trường THPT Đức Trọng), X. Đức Trọng, Tỉnh Lâm Đồng",
+    "address": "541 đường QL20, TT. Liên Nghĩa, H. Đức Trọng, Tỉnh Lâm Đồng",
+    "regulated_address": "541 đường QL20, Xã Đức Trọng, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Xã Đức Trọng",
+    "latitude": 11.738986,
+    "longitude": 108.374541,
+    "google_map_link": "https://maps.app.goo.gl/4UkuLVSuGJ14BLnN6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_a6dc807ef4.png"
+  },
+  {
+    "id": 3327,
+    "name": "Tiêm Chủng FPT Long Châu 142 Đội Cấn (Đối Diện Lối Vào Cổng Sau Chợ Trung Tâm), Xã Vĩnh Tường, Tỉnh Phú Thọ",
+    "address": "142 Đội Cấn, TT. Vĩnh Tường, H. Vĩnh Tường, Tỉnh Vĩnh Phúc",
+    "regulated_address": "142 Đội Cấn, Xã Vĩnh Tường, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Xã Vĩnh Tường",
+    "latitude": 21.217276,
+    "longitude": 105.515007,
+    "google_map_link": "https://maps.app.goo.gl/g7p5kKxUPBSDdo2MA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_ac56866df9.jpg"
+  },
+  {
+    "id": 4259,
+    "name": "Tiêm Chủng FPT Long Châu NI 189 (Phòng 11) Cống Quỳnh (Phòng 11), P. Cầu Ông Lãnh, TP. Hồ Chí Minh",
+    "address": "NI 189 (Phòng 11) Cống Quỳnh, P. Nguyễn Cư Trinh, Q. 1, TP. Hồ Chí Minh",
+    "regulated_address": "NI 189 (Phòng 11) Cống Quỳnh, Phường Cầu Ông Lãnh, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Cầu Ông Lãnh",
+    "latitude": 10.767403,
+    "longitude": 106.686622,
+    "google_map_link": "https://maps.app.goo.gl/fnycCBQQyJ6t2dV38",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_83a3481c65.png"
+  },
+  {
+    "id": 6954,
+    "name": "Tiêm Chủng FPT Long Châu TDP Mánh (Cạnh Đài Tưởng Niệm Liệt Sĩ P. Thủy Đường), P. Thuỷ Nguyên, TP. Hải Phòng",
+    "address": "TDP Mánh, P. Thủy Đường, TP. Thủy Nguyên, TP. Hải Phòng",
+    "regulated_address": "TDP Mánh, Phường Thuỷ Nguyên, TP. Hải Phòng",
+    "province": "Hải Phòng",
+    "district": "",
+    "ward": "Phường Thuỷ Nguyên",
+    "latitude": 20.922154,
+    "longitude": 106.683078,
+    "google_map_link": "https://maps.app.goo.gl/puMk1PP56kaEu2c38",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_e32ce4e58c.png"
+  },
+  {
+    "id": 4227,
+    "name": "Tiêm Chủng FPT Long Châu 1086 Lê Văn Lương (Đối Diện Gà KFC Lê Văn Lương), X. Nhà Bè, TP. Hồ Chí Minh",
+    "address": "1086 Lê Văn Lương, X. Phước Kiển, H. Nhà Bè, TP. Hồ Chí Minh",
+    "regulated_address": "1086 Lê Văn Lương, Xã Nhà Bè, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Nhà Bè",
+    "latitude": 10.707323,
+    "longitude": 106.703145,
+    "google_map_link": "https://maps.app.goo.gl/d5NAQuXAMfvrNCzM8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_7e7d3f5c71.jpg"
+  },
+  {
+    "id": 2412,
+    "name": "Tiêm Chủng FPT Long Châu Thửa 625-626, Bản đồ 8 (Đối Diện Chợ Cột Đỏ), P. Sầm Sơn, Tỉnh Thanh Hóa",
+    "address": "Thửa 625-626, Bản đồ 8, P. Trường Sơn, TP. Sầm Sơn, Tỉnh Thanh Hoá",
+    "regulated_address": "Thửa 625-626, Bản đồ 8, Phường Sầm Sơn, Tỉnh Thanh Hóa",
+    "province": "Tỉnh Thanh Hóa",
+    "district": "",
+    "ward": "Phường Sầm Sơn",
+    "latitude": 19.736088,
+    "longitude": 105.89241,
+    "google_map_link": "https://maps.app.goo.gl/KKf52BJSnjLmBV8H6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_2ca19c2759.png"
+  },
+  {
+    "id": 506,
+    "name": "Tiêm Chủng FPT Long Châu Khối 4 (Đối Diện Ngã Tư Thị Trấn Diễn Châu), X. Diễn Châu, Tỉnh Nghệ An",
+    "address": "Khối 4, TT. Diễn Thành, H. Diễn Châu, Tỉnh Nghệ An",
+    "regulated_address": "Khối 4, Xã Diễn Châu, Tỉnh Nghệ An",
+    "province": "Tỉnh Nghệ An",
+    "district": "",
+    "ward": "Xã Diễn Châu",
+    "latitude": 18.977792,
+    "longitude": 105.601135,
+    "google_map_link": "https://maps.app.goo.gl/wXk1NE83A8QocvKF8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_272bd13abd.jpg"
+  },
+  {
+    "id": 6734,
+    "name": "Tiêm Chủng FPT Long Châu 3 Bùi Bằng Đoàn (Tầng Trệt Chung Cư Hưng Vượng 2), P. Tân Hưng, TP. Hồ Chí Minh",
+    "address": "3 Bùi Bằng Đoàn, P. Tân Phong, Q. 7, TP. Hồ Chí Minh",
+    "regulated_address": "3 Bùi Bằng Đoàn, Phường Tân Hưng, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Hưng",
+    "latitude": 10.730646,
+    "longitude": 106.7087,
+    "google_map_link": "https://maps.app.goo.gl/aRvUPDWi69gWUPvM9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/4_16f7c3d4e2.jpg"
+  },
+  {
+    "id": 4254,
+    "name": "Tiêm Chủng FPT Long Châu 45 Đường 30/04 (Đối Diện Quán Lợn Cắp Nách 25), P. Tân Phong, Tỉnh Lai Châu",
+    "address": "45 Đường 30/04, P. Đông Phong, TP. Lai Châu, Tỉnh Lai Châu",
+    "regulated_address": "45 Đường 30/04, Phường Tân Phong, Tỉnh Lai Châu",
+    "province": "Tỉnh Lai Châu",
+    "district": "",
+    "ward": "Phường Tân Phong",
+    "latitude": 22.382348,
+    "longitude": 103.480029,
+    "google_map_link": "https://maps.app.goo.gl/nvJ1o1kCNiUUTsh8A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_29692592a1.jpg"
+  },
+  {
+    "id": 6426,
+    "name": "Tiêm Chủng FPT Long Châu 170 Bắc Sơn (Ngã Tư Nguyễn Đình Tứ - Bắc Sơn), P. An Khê, TP. Đà Nẵng",
+    "address": "170 Bắc Sơn, P. Hòa An, Q. Cẩm Lệ, TP. Đà Nẵng",
+    "regulated_address": "170 Bắc Sơn, Phường An Khê, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường An Khê",
+    "latitude": 16.0502794,
+    "longitude": 108.1781108,
+    "google_map_link": "https://maps.app.goo.gl/YxbsrCAFQrpuhMXg8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_47da254b5d.jpg"
+  },
+  {
+    "id": 7037,
+    "name": "Tiêm Chủng FPT Long Châu 61B-61C, Tổ 4 (Gần Chợ Dốc Hanh), P. Tích Lương, Tỉnh Thái Nguyên",
+    "address": "61B-61C, Tổ 4, P. Trung Thành, TP. Thái Nguyên, Tỉnh Thái Nguyên",
+    "regulated_address": "61B-61C, Tổ 4, Phường Tích Lương, Tỉnh Thái Nguyên",
+    "province": "Tỉnh Thái Nguyên",
+    "district": "",
+    "ward": "Phường Tích Lương",
+    "latitude": 21.544451,
+    "longitude": 105.869585,
+    "google_map_link": "https://maps.app.goo.gl/Qe9RQGvUR7scsZpd7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_b82e03534a.jpg"
+  },
+  {
+    "id": 3744,
+    "name": "Tiêm Chủng FPT Long Châu 268 Lê Hồng Phong (Ngay Auto Sơn Trinh Cũ), X. Ngãi Giao, TP. Hồ Chí Minh",
+    "address": "268 Lê Hồng Phong, TT. Ngãi Giao, H. Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+    "regulated_address": "268 Lê Hồng Phong, Xã Ngãi Giao, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Ngãi Giao",
+    "latitude": 10.64796891,
+    "longitude": 107.2436025,
+    "google_map_link": "https://maps.app.goo.gl/eq5efgqaAR1UnFJGA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_1aa367f305.jpg"
+  },
+  {
+    "id": 1774,
+    "name": "Tiêm Chủng FPT Long Châu 741 Kinh Dương Vương (Ngã Tư Hồ Học Lãm- Kinh Dương Vương), P. An Lạc, TP. Hồ Chí Minh",
+    "address": "741 Kinh Dương Vương, P. An Lạc, Q. Bình Tân, TP. Hồ Chí Minh",
+    "regulated_address": "741 Kinh Dương Vương, Phường An Lạc, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường An Lạc",
+    "latitude": 10.727846,
+    "longitude": 106.607574,
+    "google_map_link": "https://maps.app.goo.gl/obLYjSVumHyqb9dB7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_f5b4ec4d75.png"
+  },
+  {
+    "id": 9992,
+    "name": "Tiêm Chủng FPT Long Châu 1 Tôn Đức Thắng (Ngã Tư Phổ Yên - Lối Vào THPT Lê Hồng Phong), P. Phổ Yên, Tỉnh Thái Nguyên",
+    "address": "1 Tôn Đức Thắng, P. Ba Hàng, TP. Phổ Yên, Tỉnh Thái Nguyên",
+    "regulated_address": "1 Tôn Đức Thắng, Phường Phổ Yên, Tỉnh Thái Nguyên",
+    "province": "Tỉnh Thái Nguyên",
+    "district": "",
+    "ward": "Phường Phổ Yên",
+    "latitude": 21.418704,
+    "longitude": 105.870777,
+    "google_map_link": "https://maps.app.goo.gl/zY1MrHSMou7nST5y7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_059d54f4d5.jpg"
+  },
+  {
+    "id": 9846,
+    "name": "Tiêm Chủng FPT Long Châu 16-18 Nguyễn Gia Trí (Đối Diện Guardian, Cách Toà Nhà ACB 50m), P. Thạnh Mỹ Tây, TP. Hồ Chí Minh",
+    "address": "16-18 Nguyễn Gia Trí, P. 25, Q. Bình Thạnh, TP. Hồ Chí Minh",
+    "regulated_address": "16-18 Nguyễn Gia Trí, Phường Thạnh Mỹ Tây, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Thạnh Mỹ Tây",
+    "latitude": 10.801943149,
+    "longitude": 106.715898229,
+    "google_map_link": "https://maps.app.goo.gl/aKgZ2r1aJjU8EtP8A",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_a197e8db75.jpg"
+  },
+  {
+    "id": 6250,
+    "name": "Tiêm Chủng FPT Long Châu Khối 2 (Cạnh Khách Sạn Thương Nghiệp), X. Đô Lương, Tỉnh Nghệ An",
+    "address": "Khối 2, TT. Đô Lương, H. Đô Lương, Tỉnh Nghệ An",
+    "regulated_address": "Khối 2, Xã Đô Lương, Tỉnh Nghệ An",
+    "province": "Tỉnh Nghệ An",
+    "district": "",
+    "ward": "Xã Đô Lương",
+    "latitude": 18.9036424,
+    "longitude": 105.3109717,
+    "google_map_link": "https://maps.app.goo.gl/mu25tYRk9tsMUQ797",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_05ac5311d4.png"
+  },
+  {
+    "id": 1986,
+    "name": "Tiêm Chủng FPT Long Châu 279 Phan Châu Trinh (Ngay Ngã Tư Phan Châu Trinh - Huỳnh Thúc Kháng), P. Tam Kỳ, TP. Đà Nẵng",
+    "address": "279 Phan Châu Trinh, P. Phước Hòa, TP. Tam Kỳ, Tỉnh Quảng Nam",
+    "regulated_address": "279 Phan Châu Trinh, Phường Tam Kỳ, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường Tam Kỳ",
+    "latitude": 15.567882,
+    "longitude": 108.490442,
+    "google_map_link": "https://maps.app.goo.gl/FLMx1hoX3wv4tD9M7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_bb67c07aaf.png"
+  },
+  {
+    "id": 5618,
+    "name": "Tiêm Chủng FPT Long Châu 386 Nguyễn Nghiêm (Ngay Ngã Tư Phan Đình Phùng - Nguyễn Nghiêm), P. Cẩm Thành, Tỉnh Quảng Ngãi",
+    "address": "386 Nguyễn Nghiêm, P. Nguyễn Nghiêm, TP. Quảng Ngãi, Tỉnh Quảng Ngãi",
+    "regulated_address": "386 Nguyễn Nghiêm, Phường Cẩm Thành, Tỉnh Quảng Ngãi",
+    "province": "Tỉnh Quảng Ngãi",
+    "district": "",
+    "ward": "Phường Cẩm Thành",
+    "latitude": 15.120633717,
+    "longitude": 108.802242376,
+    "google_map_link": "https://maps.app.goo.gl/a2KfKjZzWtrGCTVGA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_980b4d57b1.jpg"
+  },
+  {
+    "id": 3876,
+    "name": "Tiêm Chủng FPT Long Châu 167 Hùng Vương (Gần công viên nhỏ Kpă Klơng), P. Pleiku, Tỉnh Gia Lai",
+    "address": "167 Hùng Vương, P. Hội Thương, TP. PleiKu, Tỉnh Gia Lai",
+    "regulated_address": "167 Hùng Vương, Phường Pleiku, Tỉnh Gia Lai",
+    "province": "Tỉnh Gia Lai",
+    "district": "",
+    "ward": "Phường Pleiku",
+    "latitude": 13.9766988,
+    "longitude": 108.0045671,
+    "google_map_link": "https://maps.app.goo.gl/guwKnweHrnHAXukT9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/IMG_0997_b3dbdcdcd4.jpeg"
+  },
+  {
+    "id": 2480,
+    "name": "Tiêm Chủng FPT Long Châu 39 Tây Cao Tốc (Bên Cạnh Thế Giới Di Động Tây Cao Tốc), X. Thiên Lộc, TP. Hà Nội",
+    "address": "39 Tây Cao Tốc, X. Kim Chung, H. Đông Anh, TP. Hà Nội",
+    "regulated_address": "39 Tây Cao Tốc, Xã Thiên Lộc, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Thiên Lộc",
+    "latitude": 21.129061,
+    "longitude": 105.779507,
+    "google_map_link": "https://maps.app.goo.gl/Ge4h4jLdKuy3X4v47",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_b7fd77e4fc.png"
+  },
+  {
+    "id": 952,
+    "name": "Tiêm Chủng FPT Long Châu 52/3 Đường ĐT743C (Ngay Ngã Ba Đông Tân, Kế Cây Xăng Đông Tân), P. Dĩ An, TP. Hồ Chí Minh",
+    "address": "52/3 Đường ĐT743C, P. Dĩ An, TP. Dĩ An, Tỉnh Bình Dương",
+    "regulated_address": "52/3 Đường ĐT743C, Phường Dĩ An, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Dĩ An",
+    "latitude": 10.911431,
+    "longitude": 106.7517777,
+    "google_map_link": "https://maps.app.goo.gl/XpKWRDKMLwgQ6TeeA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_599e4bfc10.jpg"
+  },
+  {
+    "id": 6428,
+    "name": "Tiêm Chủng FPT Long Châu 105 Châu Đại Lộ Đồng Khởi (Ngay Vòng Xoay Đông Tây), P. Phú Khương, Tỉnh Vĩnh Long",
+    "address": "Đại Lộ Đồng Khởi, P. Phú Khương, TP. Bến Tre, Tỉnh Bến Tre",
+    "regulated_address": "Đại Lộ Đồng Khởi, Phường Phú Khương, Tỉnh Vĩnh Long",
+    "province": "Tỉnh Vĩnh Long",
+    "district": "",
+    "ward": "Phường Phú Khương",
+    "latitude": 10.2475278,
+    "longitude": 106.3738333,
+    "google_map_link": "https://maps.app.goo.gl/46tr6TuUtPQgFFyh8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_c393ffb9f0.jpg"
+  },
+  {
+    "id": 2474,
+    "name": "Tiêm Chủng FPT Long Châu 116-118 Nguyễn Huệ (Đối Diện Chợ Bỉm Sơn), P. Quang Trung, Tỉnh Thanh Hóa",
+    "address": "116-118 Nguyễn Huệ, P. Ngọc Trạo, TX. Bỉm Sơn, Tỉnh Thanh Hoá",
+    "regulated_address": "116-118 Nguyễn Huệ, Phường Quang Trung, Tỉnh Thanh Hóa",
+    "province": "Tỉnh Thanh Hóa",
+    "district": "",
+    "ward": "Phường Quang Trung",
+    "latitude": 20.082946,
+    "longitude": 105.856691,
+    "google_map_link": "https://maps.app.goo.gl/CrSbMV3HcgH4aMr7A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5934780483531_c8022668b8494a3a4306b0009e51f9de_c63ffe2872.jpg"
+  },
+  {
+    "id": 8929,
+    "name": "Tiêm Chủng FPT Long Châu 291 Nguyễn Thái Học (Ngã Tư Xổ Số Cũ), P. Hà Giang 2, Tỉnh Tuyên Quang",
+    "address": "291 Nguyễn Thái Học, P. Trần Phú, TP. Hà Giang, Tỉnh Hà Giang",
+    "regulated_address": "291 Nguyễn Thái Học, Phường Hà Giang 2, Tỉnh Tuyên Quang",
+    "province": "Tỉnh Tuyên Quang",
+    "district": "",
+    "ward": "Phường Hà Giang 2",
+    "latitude": 22.830535,
+    "longitude": 104.986091,
+    "google_map_link": "https://maps.app.goo.gl/KAuRbLNQB3o5Edip9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5954874697565_a96197b62a72b4040425ff2a62573a96_d4684449d0.jpg"
+  },
+  {
+    "id": 3648,
+    "name": "Tiêm Chủng FPT Long Châu 202 Quang Trung (Ngã Ba Công Viên Nước), P. Bắc Gianh, Tỉnh Quảng Trị",
+    "address": "202 Quang Trung, P. Quảng Thọ, TX. Ba Đồn, Tỉnh Quảng Bình",
+    "regulated_address": "202 Quang Trung, Phường Bắc Gianh, Tỉnh Quảng Trị",
+    "province": "Tỉnh Quảng Trị",
+    "district": "",
+    "ward": "Phường Bắc Gianh",
+    "latitude": 17.756012,
+    "longitude": 106.432974,
+    "google_map_link": "https://maps.app.goo.gl/96V41P2PFqjN6vEm9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5796066106734_2ff8471eeedbcb9d55d43391819e7973_d0abce36fa.jpg"
+  },
+  {
+    "id": 9546,
+    "name": "Tiêm Chủng FPT Long Châu Lô LK3-08 KDA Nhà Ở Phía Bắc (Đối Diện Cây Xăng Hồ), P. Thuận Thành, Tỉnh Bắc Ninh",
+    "address": "Lô LK3-08 KDA Nhà Ở Phía Bắc, P. Hồ, TX. Thuận Thành, Tỉnh Bắc Ninh",
+    "regulated_address": "Lô LK3-08 KDA Nhà Ở Phía Bắc, Phường Thuận Thành, Tỉnh Bắc Ninh",
+    "province": "Tỉnh Bắc Ninh",
+    "district": "",
+    "ward": "Phường Thuận Thành",
+    "latitude": 21.059571,
+    "longitude": 106.086208,
+    "google_map_link": "https://maps.app.goo.gl/QEkSu7BcSfwYWerS7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5815171378646_d47e54fd7a94d134db4dd09c6b2474e0_89665abc61.jpg"
+  },
+  {
+    "id": 6733,
+    "name": "Tiêm Chủng FPT Long Châu 355 Lý Bôn (Nằm Trên Mặt Đường Hai Bà Trưng, Đối Diện Vườn Hoa Lê Quý Đôn), P. Trần Hưng Đạo, Tỉnh Hưng Yên",
+    "address": "355 Lý Bôn, P. Đề Thám, TP. Thái Bình, Tỉnh Thái Bình",
+    "regulated_address": "355 Lý Bôn, Phường Trần Hưng Đạo, Tỉnh Hưng Yên",
+    "province": "Tỉnh Hưng Yên",
+    "district": "",
+    "ward": "Phường Trần Hưng Đạo",
+    "latitude": 20.444386,
+    "longitude": 106.338387,
+    "google_map_link": "https://maps.app.goo.gl/pZWxLcNJYFwgstmL7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5917683321841_452573a21409446d9a33770a988627ab_e445dc0d87.jpg"
+  },
+  {
+    "id": 1863,
+    "name": "Tiêm Chủng FPT Long Châu 485 Đỗ Xuân Hợp, P. Phước Long, TP. Hồ Chí Minh",
+    "address": "485 Đỗ Xuân Hợp, P. Phước Long B, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "regulated_address": "485 Đỗ Xuân Hợp, Phường Phước Long, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Phước Long",
+    "latitude": 10.816902,
+    "longitude": 106.774253,
+    "google_map_link": "https://maps.app.goo.gl/53yXgdN4XwA2Q6R37",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z6046976185697_353d78edfbda041c792feb508f0bc353_91fec1d38b.jpg"
+  },
+  {
+    "id": 4600,
+    "name": "Tiêm Chủng FPT Long Châu 51C/1 Đường 22/12 (Đối Diện Trường Tiểu Học An Phú 3), P. An Phú, TP. Hồ Chí Minh",
+    "address": "51C/1 Đường 22/12, P. An Phú, TP. Thuận An, Tỉnh Bình Dương",
+    "regulated_address": "51C/1 Đường 22/12, Phường An Phú, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường An Phú",
+    "latitude": 10.947253,
+    "longitude": 106.739513,
+    "google_map_link": "https://maps.app.goo.gl/FZ2g9wsWyMkhV9E16",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5815170941591_49e3892d38f75a8831df877c2cb22666_e229301b43.jpg"
+  },
+  {
+    "id": 6679,
+    "name": "Tiêm Chủng FPT Long Châu 11 Nguyễn Bình (Gần Chợ Bao Bì, Đối Diện Cây Xăng Bao Bì), P. Mỹ Hào, Tỉnh Hưng Yên",
+    "address": "11 Nguyễn Bình, P. Bần Yên Nhân, TX. Mỹ Hào, Tỉnh Hưng Yên",
+    "regulated_address": "11 Nguyễn Bình, Phường Mỹ Hào, Tỉnh Hưng Yên",
+    "province": "Tỉnh Hưng Yên",
+    "district": "",
+    "ward": "Phường Mỹ Hào",
+    "latitude": 20.938863,
+    "longitude": 106.060216,
+    "google_map_link": "https://maps.app.goo.gl/5GDatDf9vCGQyDkXA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5891516188680_e7d80de8a5233cffec7d7685618732e0_cfa562fd75.jpg"
+  },
+  {
+    "id": 4025,
+    "name": "Tiêm Chủng FPT Long Châu 110-110A-110B Phan Huy Ích (Đối Diện Nhà Sách Bạch Đằng), P. Tân Sơn, TP. Hồ Chí Minh",
+    "address": "110-110A-110B Phan Huy Ích, P. 14, Q. Tân Bình, TP. Hồ Chí Minh",
+    "regulated_address": "110-110A-110B Phan Huy Ích, Phường Tân Sơn, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Sơn",
+    "latitude": 10.831079,
+    "longitude": 106.633427,
+    "google_map_link": "https://maps.app.goo.gl/1AhoRixa4FuKfXCd6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5756526515744_462ec2d6f92f8c4e85c99f38bb53a4ac_61d660d82b.jpg"
+  },
+  {
+    "id": 1336,
+    "name": "Tiêm Chủng FPT Long Châu 408 Lê Trọng Tấn (Ngã Ba Tây Thạnh), P. Tây Thạnh, TP. Hồ Chí Minh",
+    "address": "408 Lê Trọng Tấn, P. Tây Thạnh, Q. Tân Phú, TP. Hồ Chí Minh",
+    "regulated_address": "408 Lê Trọng Tấn, Phường Tây Thạnh, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tây Thạnh",
+    "latitude": 10.808648,
+    "longitude": 106.618128,
+    "google_map_link": "https://maps.app.goo.gl/76rnoBtE972gKfKi6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/image_20_10_4045507fd4.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Tiêm Chủng FPT Long Châu Tầng 1, Tòa Nhà CT4A, KĐT Bắc Linh Đàm (Siêu Thị Bài Thơ, Cạnh Nhà Sách ADC Book), P. Định Công, TP. Hà Nội",
+    "address": "Tầng 1, Tòa Nhà CT4A, KĐT Bắc Linh Đàm, P. Đại Kim, Q. Hoàng Mai, TP. Hà Nội",
+    "regulated_address": "Tầng 1, Tòa Nhà CT4A, KĐT Bắc Linh Đàm, Phường Định Công, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Định Công",
+    "latitude": 20.969536,
+    "longitude": 105.829209,
+    "google_map_link": "https://maps.app.goo.gl/H7LH5FCX9AdXxnSu6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5684415931343_8954c86b9e571fa673daf5263e172164_14_8afca65cbf.jpg"
+  },
+  {
+    "id": 3552,
+    "name": "Tiêm Chủng FPT Long Châu 384 Thống Nhất (Ngã Tư Quân Cảnh), P. La Gi, Tỉnh Lâm Đồng",
+    "address": "384 Thống Nhất, P. Tân Thiện, TX. La Gi, Tỉnh Bình Thuận",
+    "regulated_address": "384 Thống Nhất, Phường La Gi, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Phường La Gi",
+    "latitude": 10.673891,
+    "longitude": 107.757491,
+    "google_map_link": "https://maps.app.goo.gl/hciw9wunkSAw6fN57",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178962_d058416720f7ca8b75d75a9405b0cda4_1_11_630d1cf5a1.jpg"
+  },
+  {
+    "id": 6444,
+    "name": "Tiêm Chủng FPT Long Châu 17A Đường 29/3 (Ngay Chợ Cũ Ba Tri, Sau Tiệm Vàng Kim Ngân), X. Ba Tri, Tỉnh Vĩnh Long",
+    "address": "17A Đường 29/3, TT. Ba Tri, H. Ba Tri, Tỉnh Bến Tre",
+    "regulated_address": "17A Đường 29/3, Xã Ba Tri, Tỉnh Vĩnh Long",
+    "province": "Tỉnh Vĩnh Long",
+    "district": "",
+    "ward": "Xã Ba Tri",
+    "latitude": 10.041919,
+    "longitude": 106.593731,
+    "google_map_link": "https://maps.app.goo.gl/HUrAMtk8bFMY1eii6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5590108191520_8f312486b6ef6c2962f11d2b0273735a_1_b697c9f0b3.jpg"
+  },
+  {
+    "id": 6151,
+    "name": "Tiêm Chủng FPT Long Châu 154 - 156 Dương Bá Trạc (Dưới Chân Cầu Nguyễn Văn Cừ), P. Chánh Hưng, TP. Hồ Chí Minh",
+    "address": "154-156 Dương Bá Trạc, P. 2, Q. 8, TP. Hồ Chí Minh",
+    "regulated_address": "154 - 156 Dương Bá Trạc, Phường Chánh Hưng, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Chánh Hưng",
+    "latitude": 10.747552,
+    "longitude": 106.688581,
+    "google_map_link": "https://maps.app.goo.gl/HUtow4QofudriiZw5",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5663964984533_6109902eb05e5b39b29f80329cb2a653_1_1_8d65d4631d.jpg"
+  },
+  {
+    "id": 9982,
+    "name": "Tiêm Chủng FPT Long Châu 2079 Hùng Vương (Ngã Tư Công Đoàn), P. Việt Trì, Tỉnh Phú Thọ",
+    "address": "2079 Hùng Vương, P. Gia Cẩm, TP. Việt Trì, Tỉnh Phú Thọ",
+    "regulated_address": "2079 Hùng Vương, Phường Việt Trì, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Phường Việt Trì",
+    "latitude": 21.319783,
+    "longitude": 105.386706,
+    "google_map_link": "https://maps.app.goo.gl/AHNns1HKwxHow9di9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178962_d058416720f7ca8b75d75a9405b0cda4_1_2_376360c81b.jpg"
+  },
+  {
+    "id": 3423,
+    "name": "Tiêm Chủng FPT Long Châu 125 Lý Thái Tổ (Ngay Ngã Ba Cai Lang), P. Thanh Khê, TP. Đà Nẵng",
+    "address": "125 Lý Thái Tổ, P. Thạc Gián, Q. Thanh Khê, TP. Đà Nẵng",
+    "regulated_address": "125 Lý Thái Tổ, Phường Thanh Khê, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường Thanh Khê",
+    "latitude": 16.066025,
+    "longitude": 108.207123,
+    "google_map_link": "https://maps.app.goo.gl/DFxWfG5LCZpb56Q7A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178962_d058416720f7ca8b75d75a9405b0cda4_1_4_76093fa5e7.jpg"
+  },
+  {
+    "id": 690,
+    "name": "Tiêm Chủng FPT Long Châu 639-641 Đường 30/4 (Ngã Tư Đông Xuyên, Trước Khu Công Nghiệp Đông Xuyên), P. Rạch Dừa, TP. Hồ Chí Minh",
+    "address": "639-641 Đường 30/4, P. Rạch Dừa, TP.Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+    "regulated_address": "639-641 Đường 30/4, Phường Rạch Dừa, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Rạch Dừa",
+    "latitude": 10.399904,
+    "longitude": 107.116581,
+    "google_map_link": "https://maps.app.goo.gl/faZ7sTPSfVGPJATz6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_29106d6601.png"
+  },
+  {
+    "id": 4898,
+    "name": "Tiêm Chủng FPT Long Châu 140 Trần Nhân Tông (Trước Cổng Bệnh viện Đa Khoa), P. Điện Bàn, TP. Đà Nẵng",
+    "address": "140 Trần Nhân Tông, P. Vĩnh Điện, TX. Điện Bàn, Tỉnh Quảng Nam",
+    "regulated_address": "140 Trần Nhân Tông, Phường Điện Bàn, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường Điện Bàn",
+    "latitude": 15.891497,
+    "longitude": 108.247685,
+    "google_map_link": "https://maps.app.goo.gl/PEtAmaaQRqoSEhEMA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5865649932291_2c1c640f1ebaeed9fe307057155d4039_5cfed02be6.jpg"
+  },
+  {
+    "id": 436,
+    "name": "Tiêm Chủng FPT Long Châu 128 Tỉnh Lộ 419 (Ngã 3 Thạch Thất), X. Thạch Thất, TP. Hà Nội",
+    "address": "128 Tỉnh Lộ 419, TT. Liên Quan, H. Thạch Thất, TP. Hà Nội",
+    "regulated_address": "128 Tỉnh Lộ 419, Xã Thạch Thất, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Thạch Thất",
+    "latitude": 21.058041,
+    "longitude": 105.574996,
+    "google_map_link": "https://maps.app.goo.gl/tqbe1c8CGtC5VWFf6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5546127866922_c6a567b43d646904bca847826dedab8c_fb271799bc.jpg"
+  },
+  {
+    "id": 3440,
+    "name": "Tiêm Chủng FPT Long Châu 35 Lý Thường Kiệt (Ngã Tư Nơ Trang Long - Lý Thường Kiệt), P. Buôn Ma Thuột, Tỉnh Đắk Lắk",
+    "address": "35 Lý Thường Kiệt, P. Thống Nhất, TP. Buôn Mê Thuột, Tỉnh Đắk Lắk",
+    "regulated_address": "35 Lý Thường Kiệt, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk",
+    "province": "Tỉnh Đắk Lắk",
+    "district": "",
+    "ward": "Phường Buôn Ma Thuột",
+    "latitude": 12.680143,
+    "longitude": 108.043368,
+    "google_map_link": "https://maps.app.goo.gl/7XjSpPSM5QHC1oP96",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5590412770955_431d9abfc8b3b4eaff2664d31ae8e2ee_1_7e1b026e92.jpg"
+  },
+  {
+    "id": 5604,
+    "name": "Tiêm Chủng FPT Long Châu 38 Liêu Bình Hương (Nằm Ngay Góc Chợ Việt Kiều - Đối Diện Bách Hóa Xanh), X. Củ Chi, TP. Hồ Chí Minh",
+    "address": "38 Liêu Bình Hương, X. Tân Thông Hội, H. Củ Chi, TP. Hồ Chí Minh",
+    "regulated_address": "38 Liêu Bình Hương, Xã Củ Chi, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Củ Chi",
+    "latitude": 10.962927,
+    "longitude": 106.503551,
+    "google_map_link": "https://maps.app.goo.gl/GBCGY5R3wJHD5fuF7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5501994547916_d531eea84cfc7661f790babea2968487_568f661a43.jpg"
+  },
+  {
+    "id": 8487,
+    "name": "Tiêm Chủng FPT Long Châu 104-106-108 Ngô Xuân Quảng (Đối Diện Ngân Hàng Vietcombank), X. Gia Lâm, TP. Hà Nội",
+    "address": "104-106-108 Ngô Xuân Quảng, TT. Trâu Quỳ, H. Gia Lâm, TP. Hà Nội",
+    "regulated_address": "104-106-108 Ngô Xuân Quảng, Xã Gia Lâm, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Gia Lâm",
+    "latitude": 21.016818,
+    "longitude": 105.936526,
+    "google_map_link": "https://maps.app.goo.gl/idmjBhfRezTmxaxw7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178962_d058416720f7ca8b75d75a9405b0cda4_1_17_d7394dea5f.jpg"
+  },
+  {
+    "id": 2526,
+    "name": "Tiêm Chủng FPT Long Châu 278 Phạm Ngũ Lão (Ngay Ngã Năm), P. Hạnh Thông, TP. Hồ Chí Minh",
+    "address": "278 Phạm Ngũ Lão, P. 7, Q. Gò Vấp, TP. Hồ Chí Minh",
+    "regulated_address": "278 Phạm Ngũ Lão, Phường Hạnh Thông, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Hạnh Thông",
+    "latitude": 10.826211,
+    "longitude": 106.680361,
+    "google_map_link": "https://maps.app.goo.gl/2GXkykAjMsiMvBFE6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5590108170690_f84446517c24182f96071ad758bf3ef3_1_3e058cff27.jpg"
+  },
+  {
+    "id": 5664,
+    "name": "Tiêm Chủng FPT Long Châu 99 Trần Văn Xã (Ngay Ngã Ba Chợ Trảng Dài), P. Trảng Dài, Tỉnh Đồng Nai",
+    "address": "99 Trần Văn Xã, P. Trảng Dài, TP. Biên Hòa, Tỉnh Đồng Nai",
+    "regulated_address": "99 Trần Văn Xã, Phường Trảng Dài, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Trảng Dài",
+    "latitude": 10.983869,
+    "longitude": 106.862063,
+    "google_map_link": "https://maps.app.goo.gl/GkcbqKMEeArC8Cf6A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5546127591109_e70cd10559a70876d9047c7915d12616_62f0ca3646.jpg"
+  },
+  {
+    "id": 4446,
+    "name": "Tiêm Chủng FPT Long Châu 131 Võ Công Tồn (Ngay Ngã Năm Vòng Xoay Bến Lức), X. Bến Lức, Tỉnh Tây Ninh",
+    "address": "131 Võ Công Tồn, TT. Bến Lức, H. Bến Lức, Tỉnh Long An",
+    "regulated_address": "131 Võ Công Tồn, Xã Bến Lức, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Xã Bến Lức",
+    "latitude": 10.641362,
+    "longitude": 106.485394,
+    "google_map_link": "https://maps.app.goo.gl/Knc2UasHrWXKnF2J7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5546128386449_26cdf09b3132b3b22170957e4dae4a24_556eb312e4.jpg"
+  },
+  {
+    "id": 509,
+    "name": "Tiêm Chủng FPT Long Châu 168-170-172-174 Tân Hương (Ngay Nhà Thờ Tân Hương), Phường Phú Thọ Hòa, TP. Hồ Chí Minh",
+    "address": "168-170-172-174 Tân Hương, P. Tân Quý, Q. Tân Phú, TP. Hồ Chí Minh",
+    "regulated_address": "168-170-172-174 Tân Hương, Phường Phú Thọ Hòa, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Phú Thọ Hòa",
+    "latitude": 10.789915,
+    "longitude": 106.624421,
+    "google_map_link": "https://maps.app.goo.gl/Y2yaSgq3cF2N4mAGA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5521987936039_020344f13344a0018c75cadb74be3c34_1_b7306cc6cd.jpg"
+  },
+  {
+    "id": 3704,
+    "name": "Tiêm Chủng FPT Long Châu Quốc Lộ 32, Thôn Cao Trung (Đối Diện Chung Cư Tân Tây Đô), X. Hoài Đức, TP. Hà Nội",
+    "address": "Quốc Lộ 32, Thôn Cao Trung, X. Đức Giang, H. Hoài Đức, TP. Hà Nội",
+    "regulated_address": "Quốc Lộ 32, Thôn Cao Trung, Xã Hoài Đức, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Hoài Đức",
+    "latitude": 21.072974,
+    "longitude": 105.701737,
+    "google_map_link": "https://maps.app.goo.gl/2CCTEKFUJTom1Gho8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z3471739065986_45996b5251dc5babc8bfbfbd6b892ca0_2_c0cb70e481.jpg"
+  },
+  {
+    "id": 7298,
+    "name": "Tiêm Chủng FPT Long Châu 78 Trịnh Đình Cửu (Cạnh Chợ Xanh Định Công), P. Phương Liệt, TP. Hà Nội",
+    "address": "78 Trịnh Đình Cửu, P. Định Công, Q. Hoàng Mai, TP. Hà Nội",
+    "regulated_address": "78 Trịnh Đình Cửu, Phường Phương Liệt, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Phương Liệt",
+    "latitude": 20.985088,
+    "longitude": 105.834327,
+    "google_map_link": "https://maps.app.goo.gl/oUHAzuf2XMXErVZC6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Web2_948f69d4cf.jpg"
+  },
+  {
+    "id": 3409,
+    "name": "Tiêm Chủng FPT Long Châu 285 Mê Linh (Gần Ngã Tư Chợ Tổng), P. Vĩnh Phúc, Tỉnh Phú Thọ",
+    "address": "285 Mê Linh, P. Liên Bảo, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",
+    "regulated_address": "285 Mê Linh, Phường Vĩnh Phúc, Tỉnh Phú Thọ",
+    "province": "Tỉnh Phú Thọ",
+    "district": "",
+    "ward": "Phường Vĩnh Phúc",
+    "latitude": 21.314717,
+    "longitude": 105.607405,
+    "google_map_link": "https://maps.app.goo.gl/tVojNzHSCxCc7bnn6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z6077543799044_301775b341cff935132fbbe301a95eb5_a5252d9137.jpg"
+  },
+  {
+    "id": 5940,
+    "name": "Tiêm Chủng FPT Long Châu 51 Cách Mạng Tháng Tám (Cách Ngã Ba Cây Liễu 50m), P. Lái Thiêu, TP. Hồ Chí Minh",
+    "address": "51 Cách Mạng Tháng Tám, P. Lái Thiêu, TP. Thuận An, Tỉnh Bình Dương",
+    "regulated_address": "51 Cách Mạng Tháng Tám, Phường Lái Thiêu, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Lái Thiêu",
+    "latitude": 10.907078,
+    "longitude": 106.700888,
+    "google_map_link": "https://maps.app.goo.gl/rDuFotRDD4NAXNyv8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5416668752094_908473d72bd11f0a711f2d3bbfe79b3b_1_0c49a9f624.jpg"
+  },
+  {
+    "id": 1183,
+    "name": "Tiêm Chủng FPT Long Châu TDP 02 (Đối Diện Bệnh Viện Đa Khoa Huyện Ý Yên), X. Ý Yên, Tỉnh Ninh Bình",
+    "address": "TDP 02, TT. Lâm, H. Ý Yên, Tỉnh Nam Định",
+    "regulated_address": "TDP 02, Xã Ý Yên, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Xã Ý Yên",
+    "latitude": 20.323971,
+    "longitude": 106.017225,
+    "google_map_link": "https://maps.app.goo.gl/hKYMsgnhj9cWoHmJ9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5521986935108_cc1477733e7933ba6a155aea21db37dc_4d1dfa4fd0.jpg"
+  },
+  {
+    "id": 2649,
+    "name": "Tiêm Chủng FPT Long Châu 533 Lạc Long Quân (Bên Phải Cách Ngã Tư Âu Cơ - Lạc Long Quân 100m), P. Bảy Hiền, TP. Hồ Chí Minh",
+    "address": "533 Lạc Long Quân, P. 10, Q. Tân Bình, TP. Hồ Chí Minh",
+    "regulated_address": "533 Lạc Long Quân, Phường Bảy Hiền, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bảy Hiền",
+    "latitude": 10.775893,
+    "longitude": 106.648717,
+    "google_map_link": "https://maps.app.goo.gl/8LzvUke4sy6DVbwD9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5479851484153_74da61e4da55fe05278704c96d82fff8_3e55b78b03.jpg"
+  },
+  {
+    "id": 7343,
+    "name": "Tiêm Chủng FPT Long Châu 340-344 Quốc Lộ 55 (Ngay Vòng Xoay Bệnh Viện Bà Tô), X. Hồ Tràm, TP. Hồ Chí Minh",
+    "address": "340-344 Quốc Lộ 55, TT. Phước Bửu, H. Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu",
+    "regulated_address": "340-344 Quốc Lộ 55, Xã Hồ Tràm, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Hồ Tràm",
+    "latitude": 10.539846,
+    "longitude": 107.414718,
+    "google_map_link": "https://maps.app.goo.gl/5jS498Myg7RRqk3u7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5365311283475_b6eb0b81728548a64d94b8029890ac1c_e825be00fa.jpg"
+  },
+  {
+    "id": 6155,
+    "name": "Tiêm Chủng FPT Long Châu 245A Nguyễn Thị Tú (Cách Ngã Tư Khu Dân Cư Vĩnh Lộc 100m), P. Bình Tân, TP. Hồ Chí Minh",
+    "address": "245A Nguyễn Thị Tú, P. Bình Hưng Hoà B, Q. Bình Tân, TP. Hồ Chí Minh",
+    "regulated_address": "245A Nguyễn Thị Tú, Phường Bình Tân, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Tân",
+    "latitude": 10.815505,
+    "longitude": 106.593232,
+    "google_map_link": "https://maps.app.goo.gl/VEgtVCcTSP3TFEJb7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5299541979443_747af8022dc18da483cb4713966f9ea4_e0fde83da9.jpg"
+  },
+  {
+    "id": 6550,
+    "name": "Tiêm Chủng FPT Long Châu 245 Nguyễn Công Trứ (Ngay Cổng Chợ 5 Tầng), P. Hoa Lư, Tỉnh Ninh Bình",
+    "address": "245 Nguyễn Công Trứ, P. Vân Giang, TP. Hoa Lư, Tỉnh Ninh Bình",
+    "regulated_address": "245 Nguyễn Công Trứ, Phường Hoa Lư, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Phường Hoa Lư",
+    "latitude": 20.247959,
+    "longitude": 105.982983,
+    "google_map_link": "https://maps.app.goo.gl/QoC3ReU1kRncZG7B6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5324216418373_8a602e51c6fffb11771b5f892c650110_1_d79265c5bd.jpg"
+  },
+  {
+    "id": 3186,
+    "name": "Tiêm Chủng FPT Long Châu 64A Điện Biên Phủ (Ngay Nhà Thuốc Long Châu Đầu Chợ), P. Trà Vinh, Tỉnh Vĩnh Long",
+    "address": "64A Điện Biên Phủ, P. 2, TP. Trà Vinh, Tỉnh Trà Vinh",
+    "regulated_address": "64A Điện Biên Phủ, Phường Trà Vinh, Tỉnh Vĩnh Long",
+    "province": "Tỉnh Vĩnh Long",
+    "district": "",
+    "ward": "Phường Trà Vinh",
+    "latitude": 9.933538,
+    "longitude": 106.341243,
+    "google_map_link": "https://maps.app.goo.gl/bxfP95yYTekbQqcy6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5410517189057_32454789b33d776f2175c6bed98c8d43_1_74637b1028.jpg"
+  },
+  {
+    "id": 6405,
+    "name": "Tiêm Chủng FPT Long Châu TDP. 11 (Gần Chợ Ga Nam Lý), P. Đồng Hới, Tỉnh Quảng Trị",
+    "address": "TDP. 11, P. Nam Lý, TP. Đồng Hới, Tỉnh Quảng Bình",
+    "regulated_address": "TDP. 11, Phường Đồng Hới, Tỉnh Quảng Trị",
+    "province": "Tỉnh Quảng Trị",
+    "district": "",
+    "ward": "Phường Đồng Hới",
+    "latitude": 17.466549,
+    "longitude": 106.604821,
+    "google_map_link": "https://maps.app.goo.gl/ujADckwnxAtfLjBe7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5365312543015_305c70611385893f2ab278710cc96a20_ebf43d4f73.jpg"
+  },
+  {
+    "id": 1441,
+    "name": "Tiêm Chủng FPT Long Châu 16 Hùng Vương (Gần Trường Tiểu Học Hùng Vương), P. Đông Hà, Tỉnh Quảng Trị",
+    "address": "16 Hùng Vương, P. 1, TP. Đông Hà, Tỉnh Quảng Trị",
+    "regulated_address": "16 Hùng Vương, P. Đông Hà, Tỉnh Quảng Trị",
+    "province": "Tỉnh Quảng Trị",
+    "district": "",
+    "ward": "Phường Đông Hà",
+    "latitude": 16.811551,
+    "longitude": 107.107768,
+    "google_map_link": "https://maps.app.goo.gl/RittM66NoiTQA78RA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_9b48848173.png"
+  },
+  {
+    "id": 259,
+    "name": "Tiêm Chủng FPT Long Châu 148 Quốc Lộ N2 (Nằm Ngay Ngã Tư Hậu Nghĩa), X. Hậu Nghĩa, Tỉnh Tây Ninh",
+    "address": "148 Quốc Lộ N2, TT. Hậu Nghĩa, H. Đức Hòa, Tỉnh Long An",
+    "regulated_address": "148 Quốc Lộ N2, Xã Hậu Nghĩa, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Xã Hậu Nghĩa",
+    "latitude": 10.894278,
+    "longitude": 106.392932,
+    "google_map_link": "https://maps.app.goo.gl/pTanetEns96fkEKy7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178872_554a8e752f10ebb49c1bc740f62925f2_1_fa06e615a1.jpg"
+  },
+  {
+    "id": 2486,
+    "name": "Tiêm Chủng FPT Long Châu 44B Phan Đình Phùng (Đối Diện Trường Tiểu Học Đoàn Kết), P. Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng",
+    "address": "44B Phan Đình Phùng, P. 1, TP. Đà Lạt, Tỉnh Lâm Đồng",
+    "regulated_address": "44B Phan Đình Phùng, P. Xuân Hương-Đà Lạt, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Phường Xuân Hương - Đà Lạt",
+    "latitude": 11.943339,
+    "longitude": 108.434084,
+    "google_map_link": "https://maps.app.goo.gl/pqicNLzfVPUue151A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_babb314eb3.png"
+  },
+  {
+    "id": 3283,
+    "name": "Tiêm Chủng FPT Long Châu 218 Quốc Lộ 22B, P. Gò Dầu, Tỉnh Tây Ninh",
+    "address": "218 Quốc Lộ 22B, TT. Gò Dầu, H. Gò Dầu, Tỉnh Tây Ninh",
+    "regulated_address": "218 Quốc Lộ 22B, Phường Gò Dầu, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Phường Gò Dầu",
+    "latitude": 11.0933523,
+    "longitude": 106.2635803,
+    "google_map_link": "https://maps.app.goo.gl/pKFrbHM6F4wCSu569",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/Go_Dau_TN_efbefdaf86.jpg"
+  },
+  {
+    "id": 6440,
+    "name": "Tiêm Chủng FPT Long Châu 836-838 Phú Riềng Đỏ (Đối Diện Cây Xăng 333), P. Bình Phước, Tỉnh Đồng Nai",
+    "address": "836-838 Phú Riềng Đỏ, P. Tân Xuân, TP. Đồng Xoài, Tỉnh Bình Phước",
+    "regulated_address": "836-838 Phú Riềng Đỏ, Phường Bình Phước, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Bình Phước",
+    "latitude": 11.530764,
+    "longitude": 106.896611,
+    "google_map_link": "https://maps.app.goo.gl/wwDvkV8rN8YvrWb26",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5343630241042_e8883b79fce7927d8e57d9ba8aa406e7_1_3e397c9b07.jpg"
+  },
+  {
+    "id": 5192,
+    "name": "Tiêm Chủng FPT Long Châu 226 Thống Nhất (Đối Diện Với Công Viên Bến Xe Cũ), P. Phan Rang, Tỉnh Khánh Hòa",
+    "address": "226 Thống Nhất, P. Phủ Hà, TP. Phan Rang - Tháp Chàm, Tỉnh Ninh Thuận",
+    "regulated_address": "226 Thống Nhất, Phường Phan Rang, Tỉnh Khánh Hòa",
+    "province": "Tỉnh Khánh Hòa",
+    "district": "",
+    "ward": "Phường Phan Rang",
+    "latitude": 11.573905,
+    "longitude": 108.991476,
+    "google_map_link": "https://maps.app.goo.gl/2eKAizaqEBbRwzz49",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178962_d058416720f7ca8b75d75a9405b0cda4_1_1_42a1624cbc.jpg"
+  },
+  {
+    "id": 9637,
+    "name": "Tiêm Chủng FPT Long Châu 116/4-116A/4 Quốc Lộ 1A (Đối Diện Bệnh Viện Thánh Tâm), P. Long Bình, Tỉnh Đồng Nai",
+    "address": "116/4-116A/4 Quốc Lộ 1A, P. Tân Biên, TP. Biên Hòa, Tỉnh Đồng Nai",
+    "regulated_address": "116/4-116A/4 Quốc Lộ 1A, Phường Long Bình, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Long Bình",
+    "latitude": 10.968281,
+    "longitude": 106.900056,
+    "google_map_link": "https://maps.app.goo.gl/RibhiZJSUWSqjyD78",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5796066124241_9baa6a7f39f83d612e0e6bfab0dec84f_9839ee4dbe.jpg"
+  },
+  {
+    "id": 4351,
+    "name": "Tiêm Chủng FPT Long Châu A35 Hùng Vương (Cách Lottemart 500m), P. Phú Thuỷ, Tỉnh Lâm Đồng",
+    "address": "A35 Hùng Vương, P. Phú Thủy, TP. Phan Thiết, Tỉnh Bình Thuận",
+    "regulated_address": "A35 Hùng Vương, Phường Phú Thuỷ, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Phường Phú Thuỷ",
+    "latitude": 10.938491,
+    "longitude": 108.105973,
+    "google_map_link": "https://maps.app.goo.gl/x8td6WJJPNNgEZrYA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_7adc1cd09f.jpg"
+  },
+  {
+    "id": 546,
+    "name": "Tiêm Chủng FPT Long Châu 294 Thống Nhất (Gần Ngã Ba Nguyễn Văn Lượng - Thống Nhất), P. An Hội Đông, TP. Hồ Chí Minh",
+    "address": "294 Thống Nhất, P. 16, Q. Gò Vấp, TP. Hồ Chí Minh",
+    "regulated_address": "294 Thống Nhất, Phường An Hội Đông, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường An Hội Đông",
+    "latitude": 10.8409805,
+    "longitude": 106.665001,
+    "google_map_link": "https://maps.app.goo.gl/hqSymPUpX6zA8X8g7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_256b5a6cf2.jpg"
+  },
+  {
+    "id": 2597,
+    "name": "Tiêm Chủng FPT Long Châu 124/1H-124/1S Nguyễn Ảnh Thủ (Cách Giáo Xứ Trung Chánh 200m), X. Bà Điểm, TP. Hồ Chí Minh",
+    "address": "124/1H-124/1S Nguyễn Ảnh Thủ, X. Trung Chánh, H. Hóc Môn, TP. Hồ Chí Minh",
+    "regulated_address": "124/1H-124/1S Nguyễn Ảnh Thủ, Xã Bà Điểm, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Bà Điểm",
+    "latitude": 10.861603,
+    "longitude": 106.611072,
+    "google_map_link": "https://maps.app.goo.gl/RfNW7vBwDhNHwCTa9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5612692178962_d058416720f7ca8b75d75a9405b0cda4_1_7_3b5622d4bd.jpg"
+  },
+  {
+    "id": 7016,
+    "name": "Tiêm Chủng FPT Long Châu L1-19 Tầng 1, TTTM Vincom, 216 Võ Văn Ngân, P. Thủ Đức, TP. Hồ Chí Minh",
+    "address": "L1-19 Tầng 1, TTTM Vincom, 216 Võ Văn Ngân, P. Bình Thọ, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "regulated_address": "L1-19 Tầng 1, TTTM Vincom, 216 Võ Văn Ngân, Phường Thủ Đức, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Thủ Đức",
+    "latitude": 10.8503417,
+    "longitude": 106.7653761,
+    "google_map_link": "https://maps.app.goo.gl/XgGHX2dtVPaGXwgp8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "08:00:00",
+        "close_time": "12:00:00",
+        "display_text": "Mở cửa từ 08:00 - 12:00 và 14:00 - 18:00"
+      },
+      {
+        "open_time": "14:00:00",
+        "close_time": "18:00:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_68f5b3b2da.jpg"
+  },
+  {
+    "id": 2048,
+    "name": "Tiêm Chủng FPT Long Châu 372A Hà Huy Giáp (Dưới Chân Cầu Vượt Ngã Tư Ga), P. An Phú Đông, TP. Hồ Chí Minh",
+    "address": "372A Hà Huy Giáp, P. Thạnh Lộc, Q.12, TP. Hồ Chí Minh",
+    "regulated_address": "372A Hà Huy Giáp, P. An Phú Đông, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường An Phú Đông",
+    "latitude": 10.866411,
+    "longitude": 106.679859,
+    "google_map_link": "https://maps.app.goo.gl/R4KnNcAPwdCW4H8S8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_562262083a.png"
+  },
+  {
+    "id": 3461,
+    "name": "Tiêm Chủng FPT Long Châu Quốc Lộ 51 (Ngay Ngã Ba Mỹ Xuân), P. Phú Mỹ, TP. Hồ Chí Minh",
+    "address": "Quốc Lộ 51, P. Mỹ Xuân, TX. Phú Mỹ, Tỉnh Bà Rịa - Vũng Tàu",
+    "regulated_address": "Quốc Lộ 51, Phường Phú Mỹ, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Phú Mỹ",
+    "latitude": 10.623878,
+    "longitude": 107.054593,
+    "google_map_link": "https://maps.app.goo.gl/E4DU1iSvPPdzvf1t8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5501992149533_8e9972b0721bbb5574ef0ff63776ea50_494c0795b9.jpg"
+  },
+  {
+    "id": 4341,
+    "name": "Tiêm Chủng FPT Long Châu P4.SH04, Tòa Park, Vinhomes Central Park, 720A Điện Biên Phủ, P. Thạnh Mỹ Tây, TP. Hồ Chí Minh",
+    "address": "P4.SH04, Tòa Park, Vinhomes Central Park, 720A Điện Biên Phủ, P. 22, Q. Bình Thạnh, TP. Hồ Chí Minh",
+    "regulated_address": "P4.SH04, Tòa Park, Vinhomes Central Park, 720A Điện Biên Phủ, Phường Thạnh Mỹ Tây, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Thạnh Mỹ Tây",
+    "latitude": 10.792941,
+    "longitude": 106.722804,
+    "google_map_link": "https://maps.app.goo.gl/2CUZ5WSWvFMMvDw16",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_a470fedd4d.jpg"
+  },
+  {
+    "id": 6424,
+    "name": "Tiêm Chủng FPT Long Châu 255 Nguyễn Hữu Trí (Ngay Ngã 3 Tân Túc Giao Nguyễn Hữu Trí), X. Tân Nhựt, TP. Hồ Chí Minh",
+    "address": "255 Nguyễn Hữu Trí, TT. Tân Túc, H. Bình Chánh, TP. Hồ Chí Minh",
+    "regulated_address": "255 Nguyễn Hữu Trí, Xã Tân Nhựt, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Tân Nhựt",
+    "latitude": 10.693806,
+    "longitude": 106.584306,
+    "google_map_link": "https://maps.app.goo.gl/qs5TzE4MF88fnjL6A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_61d158869a.png"
+  },
+  {
+    "id": 4429,
+    "name": "Tiêm Chủng FPT Long Châu 337 Lê Văn Quới (Đối Diện Chợ Lê Văn Quới), P. Bình Tân, TP. Hồ Chí Minh",
+    "address": "337 Lê Văn Quới, P. Bình Trị Đông A, Q. Bình Tân, TP. Hồ Chí Minh",
+    "regulated_address": "337 Lê Văn Quới, Phường Bình Tân, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Tân",
+    "latitude": 10.776148,
+    "longitude": 106.608899,
+    "google_map_link": "https://maps.app.goo.gl/SSdZkS8CRaZZastL7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_1b199c63c2.jpg"
+  },
+  {
+    "id": 7343,
+    "name": "Tiêm Chủng FPT Long Châu 216 Quốc Lộ 22B (Đối Diện Chợ Mới Trảng Bàng), Phường Trảng Bàng, Tỉnh Tây Ninh",
+    "address": "216 Quốc Lộ 22B, P. Trảng Bàng, TX. Trảng Bàng, Tỉnh Tây Ninh",
+    "regulated_address": "216 Quốc Lộ 22B, Phường Trảng Bàng, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Phường Trảng Bàng",
+    "latitude": 11.03365,
+    "longitude": 106.353893,
+    "google_map_link": "https://maps.app.goo.gl/PPcX5jebwWRLuaRH7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_2d0a72b1fc.jpg"
+  },
+  {
+    "id": 1431,
+    "name": "Tiêm Chủng FPT Long Châu 24 Trần Hưng Đạo, TDP Sơn Hòa (Gần Ngã Tư Cầu Diêm), X. Giao Thủy, Tỉnh Ninh Bình",
+    "address": "24 Trần Hưng Đạo, TDP Sơn Hòa, TT. Ngô Đồng, H. Giao Thủy, Tỉnh Nam Định",
+    "regulated_address": "24 Trần Hưng Đạo, TDP Sơn Hòa, Xã Giao Thủy, Tỉnh Ninh Bình",
+    "province": "Tỉnh Ninh Bình",
+    "district": "",
+    "ward": "Xã Giao Thuỷ",
+    "latitude": 20.28038,
+    "longitude": 106.444072,
+    "google_map_link": "https://maps.app.goo.gl/QGhAfVKiNFbgFNwC9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_3c82b207aa.jpg"
+  },
+  {
+    "id": 6937,
+    "name": "Tiêm Chủng FPT Long Châu 689 Điện Biên (Đối Diện Cầu Phó Hoan), P. Yên Bái, Tỉnh Lào Cai",
+    "address": "689 Điện Biên, P. Minh Tân, TP. Yên Bái, Tỉnh Yên Bái",
+    "regulated_address": "689 Điện Biên, Phường Yên Bái, Tỉnh Lào Cai",
+    "province": "Tỉnh Lào Cai",
+    "district": "",
+    "ward": "Phường Yên Bái",
+    "latitude": 21.7150257,
+    "longitude": 104.9026277,
+    "google_map_link": "https://maps.app.goo.gl/Q8RHTQttQNwzTtkC8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_5ebf7d345f.jpg"
+  },
+  {
+    "id": 4094,
+    "name": "Tiêm Chủng FPT Long Châu 229 - 231 Minh Khai (Đối Diện Dốc Đồng Cẩm), Phường Từ Sơn, Tỉnh Bắc Ninh",
+    "address": "229 - 231 Minh Khai, P. Đông Ngàn, TP. Từ Sơn, Tỉnh Bắc Ninh",
+    "regulated_address": "229 - 231 Minh Khai, Phường Từ Sơn, Tỉnh Bắc Ninh",
+    "province": "Tỉnh Bắc Ninh",
+    "district": "",
+    "ward": "Phường Từ Sơn",
+    "latitude": 21.1226748,
+    "longitude": 105.9683115,
+    "google_map_link": "https://maps.app.goo.gl/T3L7pD7RZynfgJRy8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_bd054fc039.png"
+  },
+  {
+    "id": 1489,
+    "name": "Tiêm Chủng FPT Long Châu Thôn Nội Đồng (Đối Diện Chi Cục Thuế Mê Linh), X. Quang Minh, TP. Hà Nội",
+    "address": "Thôn Nội Đồng, X. Đại Thịnh, H. Mê Linh, TP. Hà Nội",
+    "regulated_address": "Thôn Nội Đồng, Xã Quang Minh, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Quang Minh",
+    "latitude": 21.1865358,
+    "longitude": 105.7206153,
+    "google_map_link": "https://maps.app.goo.gl/io1H7rnW2esW1ue16",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_d7c56624e2.jpg"
+  },
+  {
+    "id": 3091,
+    "name": "Tiêm Chủng FPT Long Châu 81 Hải Thượng Lãn Ông (Ngã Tư Hải Thượng Lãn Ông - Xuân Diệu), P. Thành Sen, Tỉnh Hà Tĩnh",
+    "address": "81 Hải Thượng Lãn Ông, P. Bắc Hà, TP. Hà Tĩnh, Tỉnh Hà Tĩnh",
+    "regulated_address": "81 Hải Thượng Lãn Ông, Phường Thành Sen, Tỉnh Hà Tĩnh",
+    "province": "Tỉnh Hà Tĩnh",
+    "district": "",
+    "ward": "Phường Thành Sen",
+    "latitude": 18.344226,
+    "longitude": 105.896886,
+    "google_map_link": "https://maps.app.goo.gl/m5NNgzB4iURVKFx98",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5378079823836_fa86639268562ddb3c7403af134b1d1d_1080x1080_b0b34068ab.png"
+  },
+  {
+    "id": 5447,
+    "name": "Tiêm Chủng FPT Long Châu Khối 4 (Ngã Tư Quán Hành), X. Nghi Lộc, Tỉnh Nghệ An",
+    "address": "Khối 4, TT. Quán Hành, H. Nghi Lộc, Tỉnh Nghệ An",
+    "regulated_address": "Khối 4, Xã Nghi Lộc, Tỉnh Nghệ An",
+    "province": "Tỉnh Nghệ An",
+    "district": "",
+    "ward": "Xã Nghi Lộc",
+    "latitude": 18.779566,
+    "longitude": 105.645905,
+    "google_map_link": "https://maps.app.goo.gl/oxdDVGKV8vb7xBdTA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5365311686533_0cad335e2238aae8dd402fb693c25d2d_db85bda5f6.jpg"
+  },
+  {
+    "id": 2612,
+    "name": "Tiêm Chủng FPT Long Châu 02 Lý thường Kiệt (Ngay Ngã Năm Bùng Binh Quang Trung), P. Quy Nhơn, Tỉnh Gia Lai",
+    "address": "02 Lý thường Kiệt, P. Lê Hồng Phong, TP. Quy Nhơn, Tỉnh Bình Định",
+    "regulated_address": "02 Lý thường Kiệt, Phường Quy Nhơn, Tỉnh Gia Lai",
+    "province": "Tỉnh Gia Lai",
+    "district": "",
+    "ward": "Phường Quy Nhơn",
+    "latitude": 13.776631,
+    "longitude": 109.225724,
+    "google_map_link": "https://maps.app.goo.gl/175w3NDgWXZ2rbHH9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/LTK_Binh_Dinh_1_abd72f36cb.jpg"
+  },
+  {
+    "id": 4817,
+    "name": "Tiêm Chủng FPT Long Châu 301 Quang Trung (Bên Cạnh Trạm Y Tế P. Tam Quan), P. Tam Quan, Tỉnh Gia Lai",
+    "address": "301 Quang Trung, P. Tam Quan, TX. Hoài Nhơn, Tỉnh Bình Định",
+    "regulated_address": "301 Quang Trung, Phường Tam Quan, Tỉnh Gia Lai",
+    "province": "Tỉnh Gia Lai",
+    "district": "",
+    "ward": "Phường Tam Quan",
+    "latitude": 14.551982,
+    "longitude": 109.044354,
+    "google_map_link": "https://maps.app.goo.gl/cDuwHebyfog2iuXw6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_4ed09e29dc.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Tiêm Chủng FPT Long Châu Phố Chợ 1 (Gần Bưu Điện Đại Từ), X. Đại Phúc, Tỉnh Thái Nguyên",
+    "address": "Phố Chợ 1, TT. Hùng Sơn, H. Đại Từ, Tỉnh Thái Nguyên",
+    "regulated_address": "Phố Chợ 1, Xã Đại Phúc, Tỉnh Thái Nguyên",
+    "province": "Tỉnh Thái Nguyên",
+    "district": "",
+    "ward": "Xã Đại Phúc",
+    "latitude": 21.631499,
+    "longitude": 105.641563,
+    "google_map_link": "https://maps.app.goo.gl/rRZE2BzKNmetnT577",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5365310778093_afe741abb0bf3835fd8670a9f07ae613_1_ebb307dddd.jpg"
+  },
+  {
+    "id": 8658,
+    "name": "Tiêm Chủng FPT Long Châu 232 Trần Phú (Ngã Tư Cửa Tả), P. Hạc Thành, Tỉnh Thanh Hóa",
+    "address": "232 Trần Phú, P. Lam Sơn, TP. Thanh Hóa, Tỉnh Thanh Hóa",
+    "regulated_address": "232 Trần Phú, Phường Hạc Thành, Tỉnh Thanh Hóa",
+    "province": "Tỉnh Thanh Hóa",
+    "district": "",
+    "ward": "Phường Hạc Thành",
+    "latitude": 19.805327,
+    "longitude": 105.776348,
+    "google_map_link": "https://maps.app.goo.gl/tjWim4ebE7f1ynd17",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_580d963efd.png"
+  },
+  {
+    "id": 7617,
+    "name": "Tiêm Chủng FPT Long Châu F267 Võ Thị Sáu (Cách Đường Ray Xe Lửa 100m), P. Trấn Biên, Tỉnh Đồng Nai",
+    "address": "F267 Võ Thị Sáu, P. Thống Nhất, TP. Biên Hòa, Tỉnh Đồng Nai",
+    "regulated_address": "F267 Võ Thị Sáu, Phường Trấn Biên, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Trấn Biên",
+    "latitude": 10.9476015,
+    "longitude": 106.8271969,
+    "google_map_link": "https://maps.app.goo.gl/c1HxDnqrxBVsh22m6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_f413354c0d.jpg"
+  },
+  {
+    "id": 944,
+    "name": "Tiêm Chủng FPT Long Châu 325 Nguyễn Huệ (Gần Ngã Tư Chợ Mới), P. Gò Công, Tỉnh Đồng Tháp",
+    "address": "325 Nguyễn Huệ, P.1, TP. Gò Công, Tỉnh Tiền Giang",
+    "regulated_address": "325 Nguyễn Huệ, Phường Gò Công, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Phường Gò Công",
+    "latitude": 10.359756,
+    "longitude": 106.672262,
+    "google_map_link": "https://maps.app.goo.gl/UviBfW9b7wJp6vyF8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:00:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_9488aa8f72.jpg"
+  },
+  {
+    "id": 592,
+    "name": "Tiêm Chủng FPT Long Châu 31 Núi Thành (Gần Ngã Ba Phan Thành Tài - Núi Thành), P. Hòa Cường, TP. Đà Nẵng",
+    "address": "31 Núi Thành, P. Hòa Thuận Đông, Q. Hải Châu, TP. Đà Nẵng",
+    "regulated_address": "31 Núi Thành, Phường Hòa Cường, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường Hòa Cường",
+    "latitude": 16.052459,
+    "longitude": 108.220481,
+    "google_map_link": "https://maps.app.goo.gl/aUyLn8Y4TDLirsMS7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5521987219239_5233ef2480c75760cac0742981d5de47_1_36759cf6d4.jpg"
+  },
+  {
+    "id": 4053,
+    "name": "Tiêm Chủng FPT Long Châu 84 Trường Chinh (Gần Đường Tròn TP Bắc Kạn), P. Đức Xuân, Tỉnh Thái Nguyên",
+    "address": "84 Trường Chinh, P. Đức Xuân, TP. Bắc Kạn, Tỉnh Bắc Kạn",
+    "regulated_address": "84 Trường Chinh, Phường Đức Xuân, Tỉnh Thái Nguyên",
+    "province": "Tỉnh Thái Nguyên",
+    "district": "",
+    "ward": "Phường Đức Xuân",
+    "latitude": 22.143356,
+    "longitude": 105.833892,
+    "google_map_link": "https://maps.app.goo.gl/ZhtcRJgzx53eiQWz9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_63ec80ae6a.jpg"
+  },
+  {
+    "id": 4390,
+    "name": "Tiêm Chủng FPT Long Châu 48 Trần Thành Ngọ (Dưới Chân Đồi Thiên Văn), P. Kiến An, TP. Hải Phòng",
+    "address": "48 Trần Thành Ngọ, P. Trần Thành Ngọ, Q. Kiến An, TP. Hải Phòng",
+    "regulated_address": "48 Trần Thành Ngọ, Phường Kiến An, TP. Hải Phòng",
+    "province": "Hải Phòng",
+    "district": "",
+    "ward": "Phường Kiến An",
+    "latitude": 20.8041179,
+    "longitude": 106.6257488,
+    "google_map_link": "https://maps.app.goo.gl/8wPZoDw8KJJnKqGi8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Tran_Thanh_Ngo_Hai_Phong_1_73b42b9933.jpg"
+  },
+  {
+    "id": 7309,
+    "name": "Tiêm Chủng FPT Long Châu 061/B-062/B Đường DT747 (Gần Chợ Tân Uyên Cũ), P. Tân Uyên, TP. Hồ Chí Minh",
+    "address": "061/B-062/B Đường DT747, phường Uyên Hưng, Thành phố Tân Uyên, tỉnh Bình Dương",
+    "regulated_address": "061/B-062/B Đường DT747, P. Tân Uyên, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Uyên",
+    "latitude": 11.057839,
+    "longitude": 106.793925,
+    "google_map_link": "https://maps.app.goo.gl/H2Xn2Ffg5pNo4icb9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_224131f729.png"
+  },
+  {
+    "id": 3635,
+    "name": "Tiêm Chủng FPT Long Châu SH0104-SH0204, Tòa Park 7, Vinhomes Time City Park Hill (Quảng Trường Trung Tâm), P. Vĩnh Tuy, TP. Hà Nội",
+    "address": "SH0104-SH0204, Tòa Park 7, Vinhomes Time City Park Hill, 25 Ngõ 13 Lĩnh Nam, P. Mai Động, Q. Hoàng Mai, TP. Hà Nội",
+    "regulated_address": "SH0104-SH0204, Tòa Park 7, Vinhomes Time City Park Hill, 25 Ngõ 13 Lĩnh Nam, Phường Vĩnh Tuy, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Vĩnh Tuy",
+    "latitude": 20.991446,
+    "longitude": 105.868938,
+    "google_map_link": "https://maps.app.goo.gl/agYJ5EuNDagfRKWy5",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_c7983f0907.jpg"
+  },
+  {
+    "id": 5919,
+    "name": "Tiêm Chủng FPT Long Châu 101-103-105 Giải Phóng (Đối Diện Bệnh Viện Bạch Mai), P. Bạch Mai, TP. Hà Nội",
+    "address": "101-103-105 Giải Phóng, P. Đồng Tâm, Q. Hai Bà Trưng, TP. Hà Nội",
+    "regulated_address": "101-103-105 Giải Phóng (Đối Diện Bệnh Viện Bạch Mai), P. Bạch Mai, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Bạch Mai",
+    "latitude": 21.00259,
+    "longitude": 105.84158,
+    "google_map_link": "https://maps.app.goo.gl/j6jZeSmXHf77YPmh7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_308f97ae7f.jpg"
+  },
+  {
+    "id": 1557,
+    "name": "Tiêm Chủng FPT Long Châu Tầng 1 Tòa CT7G KĐT mới Dương Nội (Đối Diện Cổng Trường Đại Học Phenikaa), P. Dương Nội, TP. Hà Nội",
+    "address": "Tầng 1, Tòa CT7G, KĐT mới Dương Nội, P. Dương Nội, Q. Hà Đông, TP. Hà Nội",
+    "regulated_address": "Tầng 1, Tòa CT7G, KĐT mới Dương Nội, Phường Dương Nội, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Phường Dương Nội",
+    "latitude": 20.963142,
+    "longitude": 105.748114,
+    "google_map_link": "https://maps.app.goo.gl/nvJ1o1kCNiUUTsh8A",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_2601af7288.png"
+  },
+  {
+    "id": 4277,
+    "name": "Tiêm Chủng FPT Long Châu Tầng 2, Số 1 Nguyễn Văn Cừ (Ngay Ngã Sáu Trung Tâm Xã), X. Hiệp Hòa, Tỉnh Bắc Ninh",
+    "address": "Tầng 2, Số 1 Nguyễn Văn Cừ, TT. Thắng, H. Hiệp Hòa, Tỉnh Bắc Giang",
+    "regulated_address": "Tầng 2, Số 1 Nguyễn Văn Cừ, X. Hiệp Hòa, Tỉnh Bắc Ninh",
+    "province": "Tỉnh Bắc Ninh",
+    "district": "",
+    "ward": "Xã Hiệp Hoà",
+    "latitude": 21.354573,
+    "longitude": 105.978861,
+    "google_map_link": "https://maps.app.goo.gl/JDGiTQJ8xREP2Q4i9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_57a2de39d8.jpg"
+  },
+  {
+    "id": 474,
+    "name": "Tiêm Chủng FPT Long Châu 145-147-149 Lê Lợi (Cách Ngã 4 Đường Đôi Chợ Trung Tâm 100m), Xã Vân Đình, TP. Hà Nội",
+    "address": "145-147-149 Lê Lợi, TT. Vân Đình, H. Ứng Hòa, TP. Hà Nội",
+    "regulated_address": "145-147-149 Lê Lợi, Xã Vân Đình, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Vân Đình",
+    "latitude": 20.733447,
+    "longitude": 105.770412,
+    "google_map_link": "https://maps.app.goo.gl/3KXg78JFnnTmyppg9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_edb3807724.jpg"
+  },
+  {
+    "id": 2447,
+    "name": "Tiêm Chủng FPT Long Châu 143 Trần Hưng Đạo (Cổng Chợ Phố Mới), P. Quế Võ, Tỉnh Bắc Ninh",
+    "address": "143 Trần Hưng Đạo, P. Phố Mới, TX. Quế Võ, Tỉnh Bắc Ninh",
+    "regulated_address": "143 Trần Hưng Đạo, Phường Quế Võ, Tỉnh Bắc Ninh",
+    "province": "Tỉnh Bắc Ninh",
+    "district": "",
+    "ward": "Phường Quế Võ",
+    "latitude": 21.153474,
+    "longitude": 106.149788,
+    "google_map_link": "https://maps.app.goo.gl/8xTqNzRzr22k9p5j6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5299542155982_442042802f5c52d1e6e37538b0bcc537_c453ed421a.jpg"
+  },
+  {
+    "id": 1469,
+    "name": "Tiêm Chủng FPT Long Châu 28 Trần Đăng Ninh (Đối Diện Rạp Pò Xoài - Ngã Sáu), P. Kỳ Lừa, Tỉnh Lạng Sơn",
+    "address": "28 Trần Đăng Ninh, P. Hoàng Văn Thụ, TP. Lạng Sơn, Tỉnh Lạng Sơn",
+    "regulated_address": "28 Trần Đăng Ninh, Phường Kỳ Lừa, Tỉnh Lạng Sơn",
+    "province": "Tỉnh Lạng Sơn",
+    "district": "",
+    "ward": "Phường Kỳ Lừa",
+    "latitude": 21.852901,
+    "longitude": 106.757203,
+    "google_map_link": "https://maps.app.goo.gl/NXYTR5XqDtA2zXQX6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5410516826170_222696cefcc2962d7bb201fb0d6334c1_dabeef299d.jpg"
+  },
+  {
+    "id": 2663,
+    "name": "Tiêm Chủng FPT Long Châu 300 Lê Lợi (Đối Diện Bệnh Viện Đa Khoa Tỉnh Bắc Ninh Số 1), P. Bắc Giang, Tỉnh Bắc Ninh",
+    "address": "300 Lê Lợi, P. Hoàng Văn Thụ, TP. Bắc Giang, Tỉnh Bắc Giang",
+    "regulated_address": "300 Lê Lợi, Phường Bắc Giang, Tỉnh Bắc Ninh",
+    "province": "Tỉnh Bắc Ninh",
+    "district": "",
+    "ward": "Phường Bắc Giang",
+    "latitude": 21.2738651,
+    "longitude": 106.1990352,
+    "google_map_link": "https://maps.app.goo.gl/BmsjJ7bueBEyiUtN6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5470757207209_997960775f01fb71a37accad26311874_077f8055f6.jpg"
+  },
+  {
+    "id": 6238,
+    "name": "Tiêm Chủng FPT Long Châu 246-248 Trần Hưng Đạo (Ngã Tư Ngọc Hân Công Chúa), P. Kinh Bắc, Tỉnh Bắc Ninh",
+    "address": "246-248 Trần Hưng Đạo, P. Tiền An, TP. Bắc Ninh, Tỉnh Bắc Ninh",
+    "regulated_address": "246-248 Trần Hưng Đạo, Phường Kinh Bắc, Tỉnh Bắc Ninh",
+    "province": "Tỉnh Bắc Ninh",
+    "district": "",
+    "ward": "Phường Kinh Bắc",
+    "latitude": 21.1786471,
+    "longitude": 106.0685513,
+    "google_map_link": "https://maps.app.goo.gl/CzVH5BJ6KPC897cE6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Bac_Ninh_5d96c1b422.jpg"
+  },
+  {
+    "id": 7877,
+    "name": "Tiêm Chủng FPT Long Châu 699-701 Trần Phú (Đối Diện Nhà Máy Cơ Khí Trung Tâm KM4), P. Quang Hanh, Tỉnh Quảng Ninh",
+    "address": "699-701 Trần Phú, P. Cẩm Thủy, TP. Cẩm Phả, Tỉnh Quảng Ninh",
+    "regulated_address": "699-701 Trần Phú, Phường Quang Hanh, Tỉnh Quảng Ninh",
+    "province": "Tỉnh Quảng Ninh",
+    "district": "",
+    "ward": "Phường Quang Hanh",
+    "latitude": 21.009671,
+    "longitude": 107.2659,
+    "google_map_link": "https://maps.app.goo.gl/QpPxKVXkZKmHeLHw6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_fb0b4359e7.jpg"
+  },
+  {
+    "id": 449,
+    "name": "Tiêm Chủng FPT Long Châu Lô 7, 8 Trần Hưng Đạo (Chân Dốc Nhà Thờ), P. Hồng Gai, Tỉnh Quảng Ninh",
+    "address": "Lô 7, 8 Trần Hưng Đạo, P. Bạch Đằng, TP. Hạ Long, Tỉnh Quảng Ninh",
+    "regulated_address": "Lô 7, 8 Trần Hưng Đạo, Phường Hồng Gai, Tỉnh Quảng Ninh",
+    "province": "Tỉnh Quảng Ninh",
+    "district": "",
+    "ward": "Phường Hồng Gai",
+    "latitude": 20.952625,
+    "longitude": 107.085368,
+    "google_map_link": "https://maps.app.goo.gl/rDRuYrtGwrs3rxPC9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/4_fb12a8151f.jpg"
+  },
+  {
+    "id": 9025,
+    "name": "Tiêm Chủng FPT Long Châu 2552-2554 Hùng Vương (Mở Cạnh Ngã Ba Ông Đồn Gần Bưu Điện Và Điện Máy Xanh), Phường. Xuân Lộc, Tỉnh Đồng Nai",
+    "address": "2552-2554 Hùng Vương, X. Xuân Hiệp, H. Xuân Lộc, Tỉnh Đồng Nai",
+    "regulated_address": "2552-2554 Hùng Vương (Mở Cạnh Ngã Ba Ông Đồn Gần Bưu Điện Và Điện Máy Xanh), Phường. Xuân Lộc, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Xuân Lộc",
+    "latitude": 10.9133554,
+    "longitude": 107.3980353,
+    "google_map_link": "https://maps.app.goo.gl/FxaJ182ujeWmeXF27",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_e7daf0d520.jpg"
+  },
+  {
+    "id": 944,
+    "name": "Tiêm Chủng FPT Long Châu 58-60 Nguyễn Tri Phương (Kế Tiệm Quốc Thái Dân An), P. Tân Châu, Tỉnh An Giang",
+    "address": "58-60 Nguyễn Tri Phương, Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang",
+    "regulated_address": "58-60 Nguyễn Tri Phương, P. Tân Châu, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Phường Tân Châu",
+    "latitude": 10.799813,
+    "longitude": 105.241517,
+    "google_map_link": "https://maps.app.goo.gl/BMw5Yh7JT4FFT3Ev9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_af39f7e9df.jpg"
+  },
+  {
+    "id": 5539,
+    "name": "Tiêm Chủng FPT Long Châu A11 Trần Hưng Đạo (Ngay Ngã Ba Trần Hưng Đạo-An Dương Vương), P. Sa Đéc, Tỉnh Đồng Tháp",
+    "address": "A11 Trần Hưng Đạo, P. 2, TP. Sa Đéc, Tỉnh Đồng Tháp",
+    "regulated_address": "A11 Trần Hưng Đạo, Phường Sa Đéc, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Phường Sa Đéc",
+    "latitude": 10.291339,
+    "longitude": 105.768344,
+    "google_map_link": "https://maps.app.goo.gl/rT7GaiYpzRDf1f2q6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/Dong_Thap_1_29381f1160.jpg"
+  },
+  {
+    "id": 4713,
+    "name": "Tiêm Chủng FPT Long Châu Trần Hưng Đạo (Ngay Bưu Điện Vị Thanh), P. Vị Thanh, TP. Cần Thơ",
+    "address": "Thửa 119, Tờ bản đồ 14, Trần Hưng Đạo, P. 1, TP. Vị Thanh, Tỉnh Hậu Giang",
+    "regulated_address": "Thửa 119, Tờ bản đồ 14, Trần Hưng Đạo, Phường Vị Thanh, TP. Cần Thơ",
+    "province": "Cần Thơ",
+    "district": "",
+    "ward": "Phường Vị Thanh",
+    "latitude": 9.783243,
+    "longitude": 105.46684,
+    "google_map_link": "https://maps.app.goo.gl/Fvxt3mjDMUf22A3i6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_92e409a95a.png"
+  },
+  {
+    "id": 4105,
+    "name": "Tiêm Chủng FPT Long Châu 24-25 Nguyễn Hữu Cảnh (Đối Diện Honda Kim Châu 2), X. Chợ Mới, Tỉnh An Giang",
+    "address": "24-25 Nguyễn Hữu Cảnh, TT. Chợ Mới, H.Chợ Mới, Tỉnh An Giang",
+    "regulated_address": "24-25 Nguyễn Hữu Cảnh, X. Chợ Mới, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Xã Chợ Mới",
+    "latitude": 10.54813,
+    "longitude": 105.403395,
+    "google_map_link": "https://maps.app.goo.gl/sYJWqDjZPwPTjLjM7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_fd1f8d50bf.jpg"
+  },
+  {
+    "id": 4682,
+    "name": "Tiêm Chủng FPT Long Châu 01 Đường 3/2 (Ngay Ngã Tư Mậu Thân - 3 tháng 2), P. Ninh Kiều, TP. Cần Thơ",
+    "address": "01 Đường 3/2, P. Xuân Khánh, Q. Ninh Kiều, TP. Cần Thơ",
+    "regulated_address": "01 Đường 3/2, Phường Ninh Kiều, TP. Cần Thơ",
+    "province": "Cần Thơ",
+    "district": "",
+    "ward": "Phường Ninh Kiều",
+    "latitude": 10.032498,
+    "longitude": 105.773993,
+    "google_map_link": "https://maps.app.goo.gl/gt3jSbz33XyrchBAA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_5ec5ef6e1a.png"
+  },
+  {
+    "id": 7444,
+    "name": "Tiêm Chủng FPT Long Châu 312A-313 Nguyễn Văn Linh (Đối Diện Bệnh Viện ĐK Trung Ương Cần Thơ), P. Tân An, TP. Cần Thơ",
+    "address": "312A-313 Nguyễn Văn Linh, P. An Khánh, Q. Ninh Kiều, TP. Cần Thơ",
+    "regulated_address": "312A-313 Nguyễn Văn Linh, Phường Tân An, TP. Cần Thơ",
+    "province": "Cần Thơ",
+    "district": "",
+    "ward": "Phường Tân An",
+    "latitude": 10.028551,
+    "longitude": 105.754155,
+    "google_map_link": "https://maps.app.goo.gl/LRd74v2vhtYh3sY89",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/Nguyen_Van_Linh_Can_Tho_1_a87acc3e9d.jpg"
+  },
+  {
+    "id": 624,
+    "name": "Tiêm Chủng FPT Long Châu 82-84 Nguyễn Huệ (Đối Diện Cửa Hàng Yody Cao Lãnh), P. Cao Lãnh, Tỉnh Đồng Tháp",
+    "address": "82-84 Nguyễn Huệ, P.1, TP. Cao Lãnh, Tỉnh Đồng Tháp",
+    "regulated_address": "82-84 Nguyễn Huệ, Phường Cao Lãnh, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Phường Cao Lãnh",
+    "latitude": 10.45575,
+    "longitude": 105.6353889,
+    "google_map_link": "https://maps.app.goo.gl/fXgpR8qrBz8Hen9N6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_ae088813d3.jpg"
+  },
+  {
+    "id": 4425,
+    "name": "Tiêm Chủng FPT Long Châu 75 Trần Hưng Đạo (Ngã 4 Trần Hưng Đạo - Lê Hồng Phong), P. Hồng Ngự, Tỉnh Đồng Tháp",
+    "address": "75 Trần Hưng Đạo, P. An Thạnh, TP. Hồng Ngự, Tỉnh Đồng Tháp",
+    "regulated_address": "75 Trần Hưng Đạo, Phường Hồng Ngự, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Phường Hồng Ngự",
+    "latitude": 10.808986,
+    "longitude": 105.343997,
+    "google_map_link": "https://maps.app.goo.gl/X63EpHQTK8hXxjaZA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_68e64f2e3d.jpg"
+  },
+  {
+    "id": 4147,
+    "name": "Tiêm Chủng FPT Long Châu 144B Nguyễn Văn Thảnh (Đối Diện Công An Phường Cái Vồn), P. Cái Vồn, Tỉnh Vĩnh Long",
+    "address": "144B Nguyễn Văn Thảnh, P. Cái Vồn, TX. Bình Minh, Tỉnh Vĩnh Long",
+    "regulated_address": "144B Nguyễn Văn Thảnh, P. Cái Vồn, Tỉnh Vĩnh Long",
+    "province": "Tỉnh Vĩnh Long",
+    "district": "",
+    "ward": "Phường Cái Vồn",
+    "latitude": 10.070422,
+    "longitude": 105.81975,
+    "google_map_link": "https://maps.app.goo.gl/owukUt4YUkzWgm5s6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_65e025c83b.jpg"
+  },
+  {
+    "id": 3107,
+    "name": "Tiêm Chủng FPT Long Châu 142 Nguyễn Tất Thành (Ngã Tư Cây Xăng Năm Mừng), P. Lý Văn Lâm, Tỉnh Cà Mau",
+    "address": "142 Nguyễn Tất Thành, P. 8, TP. Cà Mau, Tỉnh Cà Mau",
+    "regulated_address": "142 Nguyễn Tất Thành, Phường Lý Văn Lâm, Tỉnh Cà Mau",
+    "province": "Tỉnh Cà Mau",
+    "district": "",
+    "ward": "Phường Lý Văn Lâm",
+    "latitude": 9.167333,
+    "longitude": 105.145172,
+    "google_map_link": "https://maps.app.goo.gl/zHxjFiETgPWPdZ3k6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5254583405803_541fea18a6fc8e9a8693e0c7caad1cac_4c156af6a5.png"
+  },
+  {
+    "id": 4412,
+    "name": "Tiêm Chủng FPT Long Châu 95-95/1A Trưng Nữ Vương (Cách Cầu Phạm Thái Bường 100m), P. Long Châu, Tỉnh Vĩnh Long",
+    "address": "95-95/1A Trưng Nữ Vương, P. 1, TP. Vĩnh Long, Tỉnh Vĩnh Long",
+    "regulated_address": "95-95/1A Trưng Nữ Vương, Phường Long Châu, Tỉnh Vĩnh Long",
+    "province": "Tỉnh Vĩnh Long",
+    "district": "",
+    "ward": "Phường Long Châu",
+    "latitude": 10.250812,
+    "longitude": 105.973528,
+    "google_map_link": "https://maps.app.goo.gl/AK9asrgVgYECUdpF9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5282071961525_09721c96a8c63ed79c03a9b57cf3df20_a152d7e28f.png"
+  },
+  {
+    "id": 4582,
+    "name": "Tiêm Chủng FPT Long Châu 8-10 Trần Phú (Ngã Tư Đường Trần Phú-Nguyễn Bỉnh Khiêm), P. Rạch Giá, Tỉnh An Giang",
+    "address": "8-10 Trần Phú, P. Vĩnh Thanh, TP. Rạch Giá, Tỉnh Kiên Giang",
+    "regulated_address": "8-10 Trần Phú, Phường Rạch Giá, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Phường Rạch Giá",
+    "latitude": 10.016378,
+    "longitude": 105.080594,
+    "google_map_link": "https://maps.app.goo.gl/VE35UU24wSCc97ex8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5501995032981_15def3518f9a8c65f8777c8be4e83ecd_1_d0ac28bb46.png"
+  },
+  {
+    "id": 9396,
+    "name": "Tiêm Chủng FPT Long Châu 71-73 Trần Hưng Đạo (Đối Diện Lưu Di Hưng), P. Tân Thành, Tỉnh Cà Mau",
+    "address": "71-73 Trần Hưng Đạo, P. 5, TP. Cà Mau, Tỉnh Cà Mau",
+    "regulated_address": "71-73 Trần Hưng Đạo, Phường Tân Thành, Tỉnh Cà Mau",
+    "province": "Tỉnh Cà Mau",
+    "district": "",
+    "ward": "Phường Tân Thành",
+    "latitude": 9.180946,
+    "longitude": 105.157816,
+    "google_map_link": "https://maps.app.goo.gl/sBPL7QrAg6ug8v6z5",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5501993628497_2b8b407a21570a8c9005a978623d5882_56c62b38b1.jpg"
+  },
+  {
+    "id": 3463,
+    "name": "Tiêm Chủng FPT Long Châu 20 Trần Phú (Đối Diện Toà Nhà 18 Tầng Ngay Bưu Điện Cũ), P. Bạc Liêu, Tỉnh Cà Mau",
+    "address": "20 Trần Phú, P. 3, TP. Bạc Liêu, Tỉnh Bạc Liêu",
+    "regulated_address": "20 Trần Phú, Phường Bạc Liêu, Tỉnh Cà Mau",
+    "province": "Tỉnh Cà Mau",
+    "district": "",
+    "ward": "Phường Bạc Liêu",
+    "latitude": 9.286721,
+    "longitude": 105.723142,
+    "google_map_link": "https://maps.app.goo.gl/qMeG2BLnWKKaoD4c7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5815616965017_6dfacec18901e7e0512c328d3dec53e0_3dc9dc8838.jpg"
+  },
+  {
+    "id": 537,
+    "name": "Tiêm Chủng FPT Long Châu 327 Nguyễn Trung Trực (Gần Ngã Tư Nguyễn Trung Trực - Hùng Vương), Đặc khu Phú Quốc, Tỉnh An Giang",
+    "address": "327 Nguyễn Trung Trực, P. Dương Đông, TP. Phú Quốc, Tỉnh Kiên Giang",
+    "regulated_address": "327 Nguyễn Trung Trực, Đặc khu Phú Quốc, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Đặc khu Phú Quốc",
+    "latitude": 10.223644,
+    "longitude": 103.971919,
+    "google_map_link": "https://maps.app.goo.gl/eNe86vFk8a4b3sac7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5521987605104_0f6fa7ea26a6ccc3deeaf9e3d9ecf180_ed25203b2f.jpg"
+  },
+  {
+    "id": 7439,
+    "name": "Tiêm Chủng FPT Long Châu 02 Trần Hưng Đạo (Tầng 3 Tòa Nhà VNPT), P. Phú Lợi, TP. Cần Thơ",
+    "address": "02 Trần Hưng Đạo, P. 2, TP. Sóc Trăng, Tỉnh Sóc Trăng",
+    "regulated_address": "02 Trần Hưng Đạo, Phường Phú Lợi, TP. Cần Thơ",
+    "province": "Cần Thơ",
+    "district": "",
+    "ward": "Phường Phú Lợi",
+    "latitude": 9.601776,
+    "longitude": 105.973231,
+    "google_map_link": "https://maps.app.goo.gl/3dB5wmcFht8xq9DN8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z6046975789984_3e35b16b6cf15ba8ee178dc7d9a7968e_ec62ca4671.jpg"
+  },
+  {
+    "id": 497,
+    "name": "Tiêm Chủng FPT Long Châu 1382 Trần Hưng Đạo (Đối Diện Cây Xăng Mỹ Long), P. Long Xuyên, Tỉnh An Giang",
+    "address": "1382 Trần Hưng Đạo, P. Mỹ Xuyên, TP. Long Xuyên, Tỉnh An Giang",
+    "regulated_address": "1382 Trần Hưng Đạo, Phường Long Xuyên, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Phường Long Xuyên",
+    "latitude": 10.377631,
+    "longitude": 105.439839,
+    "google_map_link": "https://maps.app.goo.gl/dSZSAmV7ghtX3Ptu8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_58f0a2eafd.jpg"
+  },
+  {
+    "id": 4454,
+    "name": "Tiêm Chủng FPT Long Châu 79 Đường 30/4 (L1-06 Lầu 1, CO.OPMART Cai Lậy) P. Mỹ Phước Tây, Tỉnh Đồng Tháp",
+    "address": "L1-06 Lầu 1, CO.OPMART Cai Lậy, 79 Đường 30/4, P. 1, TX. Cai Lậy, Tỉnh Tiền Giang",
+    "regulated_address": "L1-06 Lầu 1, CO.OPMART Cai Lậy, 79 Đường 30/4, P. Mỹ Phước Tây, Tỉnh Đồng Tháp",
+    "province": "Tỉnh Đồng Tháp",
+    "district": "",
+    "ward": "Phường Mỹ Phước Tây",
+    "latitude": 10.408125,
+    "longitude": 106.119871,
+    "google_map_link": "https://maps.app.goo.gl/DRFDNFBGdGBNkKnC8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_d3491842d4.jpg"
+  },
+  {
+    "id": 9881,
+    "name": "Tiêm Chủng FPT Long Châu 292 Lý Thường Kiệt (Bên Cạnh Nhà Thờ Hội An), P. Hội An Tây, TP. Đà Nẵng",
+    "address": "292 Lý Thường Kiệt, Phường Tân An, Thành Phố Hội An, Tỉnh Quảng Nam",
+    "regulated_address": "292 Lý Thường Kiệt, P. Hội An Tây, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường Hội An Tây",
+    "latitude": 15.883391,
+    "longitude": 108.32871258,
+    "google_map_link": "https://maps.app.goo.gl/PWdvC3Fvihis6qep7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_2e090b7232.png"
+  },
+  {
+    "id": 9484,
+    "name": "Tiêm Chủng FPT Long Châu 219 Ngô Quyền (Lầu 3 Toà Nhà VNPT - Ngay Chợ Tân An), P. Tân An, Tỉnh Đắk Lắk",
+    "address": "219 Ngô Quyền, Phường Tân An, Thành Phố Buôn Ma Thuột, Tỉnh Đắk Lắk",
+    "regulated_address": "219 Ngô Quyền, P. Tân An, Tỉnh Đắk Lắk",
+    "province": "Tỉnh Đắk Lắk",
+    "district": "",
+    "ward": "Phường Tân An",
+    "latitude": 12.693215,
+    "longitude": 108.059586,
+    "google_map_link": "https://maps.app.goo.gl/nTUnkSaB3hjTwZ976",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_56f6ee611d.png"
+  },
+  {
+    "id": 400,
+    "name": "Tiêm Chủng FPT Long Châu 768 Phan Đình Phùng (Ngay Ngã Tư Phan Đình Phùng - Trần Nhân Tông), P. Kon Tum, Tỉnh Quảng Ngãi",
+    "address": "768 Phan Đình Phùng, Phường Duy Tân, TP. Kon Tum, Tỉnh Kon Tum",
+    "regulated_address": "768 Phan Đình Phùng, P. Kon Tum, Tỉnh Quảng Ngãi",
+    "province": "Tỉnh Quảng Ngãi",
+    "district": "",
+    "ward": "Phường Kon Tum",
+    "latitude": 14.358619,
+    "longitude": 107.999928,
+    "google_map_link": "https://maps.app.goo.gl/f5uRAX8v21TNyLvc8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_16598f36a8.png"
+  },
+  {
+    "id": 4896,
+    "name": "Tiêm Chủng FPT Long Châu 109 Mai Thị Hồng Hạnh (Đối Diện Trường Tiểu Học Mạc Đỉnh Chi), P. Rạch Giá, An Giang",
+    "address": "109 Mai Thị Hồng Hạnh, P. Vĩnh Lợi, TP. Rạch Giá, Tỉnh Kiên Giang",
+    "regulated_address": "109 Mai Thị Hồng Hạnh (Đối Diện Trường Tiểu Học Mạc Đỉnh Chi), P. Rạch Giá, An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Phường Rạch Giá",
+    "latitude": 9.951967,
+    "longitude": 105.123202,
+    "google_map_link": "https://maps.app.goo.gl/EPxSN5YSdTe3k7HP9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_308f97ae7f.jpg"
+  },
+  {
+    "id": 1915,
+    "name": "Tiêm Chủng FPT Long Châu 189 Trần Phú (Ngay Chợ Hồng Lĩnh Mới), P. Bắc Hồng Lĩnh, Tỉnh Hà Tĩnh",
+    "address": "189 Trần Phú, P. Bắc Hồng, TX. Hồng Lĩnh, Tỉnh Hà Tĩnh",
+    "regulated_address": "189 Trần Phú, Phường Bắc Hồng Lĩnh, Tỉnh Hà Tĩnh",
+    "province": "Tỉnh Hà Tĩnh",
+    "district": "",
+    "ward": "Phường Bắc Hồng Lĩnh",
+    "latitude": 18.52943,
+    "longitude": 105.696361,
+    "google_map_link": "https://maps.app.goo.gl/RJvJAT8oFDNn25ox5",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_35725d76be.png"
+  },
+  {
+    "id": 4130,
+    "name": "Tiêm Chủng FPT Long Châu 52B Âu Cơ (Đối Diện Chợ Hoà Khánh), P. Liên Chiểu, TP. Đà Nẵng",
+    "address": "52B Âu Cơ, P. Hòa Khánh Bắc, Q. Liên Chiểu, TP. Đà Nẵng",
+    "regulated_address": "52B Âu Cơ (Đối Diện Chợ Hoà Khánh), P. Liên Chiểu, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường Liên Chiểu",
+    "latitude": 16.071096,
+    "longitude": 108.148997,
+    "google_map_link": "https://maps.app.goo.gl/x1zpfpHeb84ssKxR8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_29f5cacf60.jpg"
+  },
+  {
+    "id": 2613,
+    "name": "Tiêm Chủng FPT Long Châu 7 Hai Bà Trưng (Ngay Chợ Fafilm), P. Thuận Hóa, TP. Huế",
+    "address": "7 Hai Bà Trưng, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
+    "regulated_address": "7 Hai Bà Trưng, P. Thuận Hóa, TP. Huế",
+    "province": "Huế",
+    "district": "",
+    "ward": "Phường Thuận Hóa",
+    "latitude": 16.461984192246696,
+    "longitude": 107.58946133320211,
+    "google_map_link": "https://maps.app.goo.gl/84o5z65Hy9Gh38my6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_e93ad46bf4.png"
+  },
+  {
+    "id": 1412,
+    "name": "Tiêm Chủng FPT Long Châu Thôn Xuân Thọ (Ngay Ngã Ba Bích Châu), X. Kỳ Hoa, Tỉnh Hà Tĩnh",
+    "address": "Thôn Xuân Thọ, X. Kỳ Tân, H. Kỳ Anh, Tỉnh Hà Tĩnh",
+    "regulated_address": "Thôn Xuân Thọ, X. Kỳ Hoa, Tỉnh Hà Tĩnh",
+    "province": "Tỉnh Hà Tĩnh",
+    "district": "",
+    "ward": "Xã Kỳ Hoa",
+    "latitude": 18.08386,
+    "longitude": 106.285333,
+    "google_map_link": "https://maps.app.goo.gl/RNSDHHBiQ9vDRDnJA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_8704e00586.png"
+  },
+  {
+    "id": 868,
+    "name": "Tiêm Chủng FPT Long Châu 719-719B Lê Hồng Phong (Cách Vòng Xoay Cuối Lê Hồng Phong 100m), P. Nam Nha Trang, Tỉnh Khánh Hòa",
+    "address": "719-719B Lê Hồng Phong, P. Phước Long, TP. Nha Trang, Tỉnh Khánh Hòa",
+    "regulated_address": "719-719B Lê Hồng Phong (Cách Vòng Xoay Cuối Lê Hồng Phong 100m), P. Nam Nha Trang, Tỉnh Khánh Hòa",
+    "province": "Tỉnh Khánh Hòa",
+    "district": "",
+    "ward": "Phường Nam Nha Trang",
+    "latitude": 12.215053,
+    "longitude": 109.191583,
+    "google_map_link": "https://maps.app.goo.gl/3hWxXjNWq8SPyxte9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_917b510895.jpg"
+  },
+  {
+    "id": 4370,
+    "name": "Tiêm Chủng FPT Long Châu 501B-503 Huỳnh Tấn Phát (Cạnh Phở Trang), P. Tân Thuận, TP. Hồ Chí Minh",
+    "address": "501B-503 Huỳnh Tấn Phát, P. Tân Thuận Đông, Q.7, TP. Hồ Chí Minh",
+    "regulated_address": "501B-503 Huỳnh Tấn Phát (Cạnh Phở Trang), P. Tân Thuận, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Thuận",
+    "latitude": 10.744822,
+    "longitude": 106.729446,
+    "google_map_link": "https://maps.app.goo.gl/t1Req8G6pM8YjTPcA",
+    "phone": "",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_7be32d752c.jpg"
+  },
+  {
+    "id": 5197,
+    "name": "Tiêm Chủng FPT Long Châu Lô A7 KQH 35 Quang Trung (Ngay Ngã Tư Phan Chu Trinh), P. Lâm Viên-Đà Lạt, Tỉnh Lâm Đồng",
+    "address": "Lô A7 KQH 35 Quang Trung, P. 9, TP. Đà Lạt, Tỉnh Lâm Đồng",
+    "regulated_address": "Lô A7 KQH 35 Quang Trung, P. Lâm Viên-Đà Lạt, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Phường Lâm Viên - Đà Lạt",
+    "latitude": 11.949117,
+    "longitude": 108.462972,
+    "google_map_link": "https://maps.app.goo.gl/BpXZYUgGSqQnnuEC9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_39072d90fb.png"
+  },
+  {
+    "id": 1473,
+    "name": "Tiêm Chủng FPT Long Châu 24-26 Lạc Long Quân (Ngay Cầu Vượt Diên Khánh), X. Diên Khánh, Tỉnh Khánh Hoà",
+    "address": "24-26 Lạc Long Quân, TT. Diên Khánh, H. Diên Khánh, Tỉnh Khánh Hoà",
+    "regulated_address": "24-26 Lạc Long Quân, X. Diên Khánh, Tỉnh Khánh Hoà",
+    "province": "Tỉnh Khánh Hòa",
+    "district": "",
+    "ward": "Xã Diên Khánh",
+    "latitude": 12.257183,
+    "longitude": 109.106168,
+    "google_map_link": "https://maps.app.goo.gl/UkEN9Wf6U5DZXAV29",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_b008c88e7a.png"
+  },
+  {
+    "id": 1242,
+    "name": "Tiêm Chủng FPT Long Châu 137 Hùng Vương (Ngay Ngã Tư Ái Nghĩa), X. Đại Lộc, TP. Đà Nẵng",
+    "address": "137 Hùng Vương, TT. Ái Nghĩa, H. Đại Lộc, Tỉnh Quảng Nam",
+    "regulated_address": "137 Hùng Vương, X. Đại Lộc, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Xã Đại Lộc",
+    "latitude": 15.882223,
+    "longitude": 108.120994,
+    "google_map_link": "https://maps.app.goo.gl/x1WECfRAxEAmz4zB6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_6b0f82b729.png"
+  },
+  {
+    "id": 4960,
+    "name": "Tiêm Chủng FPT Long Châu 454 Quốc Lộ 13 (Gần Mũi Tàu Vào Chợ Bến Cát), P. Bến Cát, TP. Hồ Chí Minh",
+    "address": "454 Quốc Lộ 13, P. Mỹ Phước, TP. Bến Cát, Tỉnh Bình Dương",
+    "regulated_address": "454 Quốc Lộ 13, Phường Bến Cát, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bến Cát",
+    "latitude": 11.147063,
+    "longitude": 106.598782,
+    "google_map_link": "https://maps.app.goo.gl/MmB7kJUWdAgT8LK96",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5768163598956_4b8e5ea736325c73dcf58eb52f4d9eeb_d94b5c631e.jpg"
+  },
+  {
+    "id": 4725,
+    "name": "Tiêm Chủng FPT Long Châu 580-582 Nguyễn Duy Trinh (Gần Chợ Tân Lập), P. Bình Trưng, TP. Hồ Chí Minh",
+    "address": "580-582 Nguyễn Duy Trinh, P. Bình Trưng Đông, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "regulated_address": "580-582 Nguyễn Duy Trinh, Phường Bình Trưng, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Trưng",
+    "latitude": 10.787973,
+    "longitude": 106.776514,
+    "google_map_link": "https://maps.app.goo.gl/2exJZPNHVzEyDeSr7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/ndt_hcm_1_ce2e56af95.jpg"
+  },
+  {
+    "id": 1426,
+    "name": "Tiêm Chủng FPT Long Châu 4-6-8 Phạm Hùng, P. Long Hoa, Tỉnh Tây Ninh",
+    "address": "4-6-8 Phạm Hùng, P. Long Hoa, TX. Hòa Thành, Tỉnh Tây Ninh",
+    "regulated_address": "4-6-8 Phạm Hùng, Phường Long Hoa, Tỉnh Tây Ninh",
+    "province": "Tỉnh Tây Ninh",
+    "district": "",
+    "ward": "Phường Long Hoa",
+    "latitude": 11.286116,
+    "longitude": 106.126888,
+    "google_map_link": "https://maps.app.goo.gl/Xcp3VhYNUHzJTYna9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_6046c410ab.jpg"
+  },
+  {
+    "id": 1803,
+    "name": "Tiêm Chủng FPT Long Châu 48-50 Quang Trung (Ngay vòng xoay Quang Trung), P. Nha Trang, Tỉnh Khánh Hòa",
+    "address": "48–50 Quang Trung, Phường Lộc Thọ, Thành Phố Nha Trang, Tỉnh Khánh Hòa",
+    "regulated_address": "48-50 Quang Trung, P. Nha Trang, Tỉnh Khánh Hòa",
+    "province": "Tỉnh Khánh Hòa",
+    "district": "",
+    "ward": "Phường Nha Trang",
+    "latitude": 12.249965,
+    "longitude": 109.190584,
+    "google_map_link": "https://maps.app.goo.gl/61N1kmuHLxvDazRn6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_6cd99cb4f1.png"
+  },
+  {
+    "id": 5947,
+    "name": "Tiêm Chủng FPT Long Châu 322 Trần Phú (Ngay Ngã Ba Cổng Chào Cầu Trắng), P. 1 Bảo Lộc, Tỉnh Lâm Đồng",
+    "address": "322 Trần Phú, P. 1, TP. Bảo Lộc, Tỉnh Lâm Đồng",
+    "regulated_address": "322 Trần Phú, Phường 1 Bảo Lộc, Tỉnh Lâm Đồng",
+    "province": "Tỉnh Lâm Đồng",
+    "district": "",
+    "ward": "Phường 1 Bảo Lộc",
+    "latitude": 11.5433906,
+    "longitude": 107.807822,
+    "google_map_link": "https://maps.app.goo.gl/qw9p8dyHgVXUUw1o7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_da904d642f.jpg"
+  },
+  {
+    "id": 9398,
+    "name": "Tiêm Chủng FPT Long Châu 126 Quốc Lộ 1A (Ngay Cạnh Phòng Khám Đa Khoa Quốc Tế Long Bình), Phường Trảng Bom, Tỉnh Đồng Nai",
+    "address": "126 Quốc Lộ 1A, TT Trảng Bom, H. Trảng Bom, Tỉnh Đồng Nai",
+    "regulated_address": "126 Quốc Lộ 1A (Ngay Cạnh Phòng Khám Đa Khoa Quốc Tế Long Bình), Phường Trảng Bom, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Trảng Bom",
+    "latitude": 10.951422,
+    "longitude": 106.993223,
+    "google_map_link": "https://maps.app.goo.gl/toD7wwSFomRW8mXcA",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5781149629270_fcaaca31649105594777ce62184d6123_ae8bb270c8_7892e70ef4.jpg"
+  },
+  {
+    "id": 1520,
+    "name": "Tiêm Chủng FPT Long Châu 371 Nguyễn Tất Thành (Cách Vòng Xoay Chợ Cũ Phước Bình 50m), P. Phước Bình, Tỉnh Đồng Nai",
+    "address": "371 Nguyễn Tất Thành, P. Long Phước, TX. Phước Long, Tỉnh Bình Phước",
+    "regulated_address": "371 Nguyễn Tất Thành, Phường Phước Bình, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Phước Bình",
+    "latitude": 11.813307,
+    "longitude": 106.954265,
+    "google_map_link": "https://maps.app.goo.gl/ZBWw8Ym9KFSoCk2a7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5521988481569_1f77f8f0369af8f97300de46b7ddd593_1_cc40931357.jpg"
+  },
+  {
+    "id": 2784,
+    "name": "Tiêm Chủng FPT Long Châu 626 Lê Duẩn (Đối Diện Chợ Long Thành), Phường Long Thành, Tỉnh Đồng Nai",
+    "address": "626 Lê Duẩn, TT. Long Thành, H. Long Thành, Tỉnh Đồng Nai",
+    "regulated_address": "626 Lê Duẩn (Đối Diện Chợ Long Thành), Phường Long Thành, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Long Thành",
+    "latitude": 10.776484,
+    "longitude": 106.954555,
+    "google_map_link": "https://maps.app.goo.gl/96t9T94jP7E51wEW9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5862253835156_e6ce9a262278edb6e1c438473c90093f_a328fbe30f.jpg"
+  },
+  {
+    "id": 4082,
+    "name": "Tiêm Chủng FPT Long Châu 982-983 Quốc Lộ 51 (Gần Bệnh Viện ĐHYD Shingmark), P. Long Hưng, Tỉnh Đồng Nai",
+    "address": "982-983 Quốc Lộ 51, P. An Hòa, TP. Biên Hòa, Tỉnh Đồng Nai",
+    "regulated_address": "982-983 Quốc Lộ 51, Phường Long Hưng, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Long Hưng",
+    "latitude": 10.894314,
+    "longitude": 106.865074,
+    "google_map_link": "https://maps.app.goo.gl/WyRwAaHUfhjuQpHM6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_f35dcc0a6e.jpg"
+  },
+  {
+    "id": 4183,
+    "name": "Tiêm Chủng FPT Long Châu 113 Phạm Văn Kỷ (Ngay Vòng Xoay Chân Cầu Tô Châu), P. Hà Tiên, Tỉnh An Giang",
+    "address": "113 Phạm Văn Kỷ, P. Pháo Đài, TP. Hà Tiên, Tỉnh Kiên Giang",
+    "regulated_address": "113 Phạm Văn Kỷ, Phường Hà Tiên, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Phường Hà Tiên",
+    "latitude": 10.379948,
+    "longitude": 104.482578,
+    "google_map_link": "https://maps.app.goo.gl/CjNnQQi9UAQq2MY87",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_d170d1e05f.jpg"
+  },
+  {
+    "id": 7304,
+    "name": "Tiêm Chủng FPT Long Châu 94 Thủ Khoa Huân (Ngã Tư Đại Phước Hàng), P. Châu Đốc, Tỉnh An Giang",
+    "address": "94 Thủ Khoa Huân, P. Châu Phú B, TP. Châu Đốc, Tỉnh An Giang",
+    "regulated_address": "94 Thủ Khoa Huân, Phường Châu Đốc, Tỉnh An Giang",
+    "province": "Tỉnh An Giang",
+    "district": "",
+    "ward": "Phường Châu Đốc",
+    "latitude": 10.708441,
+    "longitude": 105.117321,
+    "google_map_link": "https://maps.app.goo.gl/SwCL9UQkJMAf9CxT6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5483390556812_d00db91f74db697dd07d609c30a9b2b2_6dfeb717fd.png"
+  },
+  {
+    "id": 3345,
+    "name": "Tiêm Chủng FPT Long Châu 186 Giải Phóng (Đối Diện Nhà Văn Hoá Krông Pắc), X. Krông Pắk, Tỉnh Đắk Lắk",
+    "address": "186 Giải Phóng, Thị Trấn Phước An, Huyện Krông Pắk, Tỉnh Đắk Lắk",
+    "regulated_address": "186 Giải Phóng, X. Krông Pắk, Tỉnh Đắk Lắk",
+    "province": "Tỉnh Đắk Lắk",
+    "district": "",
+    "ward": "Xã Krông Pắc",
+    "latitude": 12.710276,
+    "longitude": 108.306342,
+    "google_map_link": "https://maps.app.goo.gl/uk5Y2M7Pj3rjDQaP6",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": ""
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_28041775dc.png"
+  },
+  {
+    "id": 6716,
+    "name": "Tiêm Chủng FPT Long Châu 389 Hùng Vương (Đối Diện Với Phòng Khám Đa Khoa Tâm Phúc), P. Buôn Hồ, Tỉnh Đắk Lắk",
+    "address": "389 Hùng Vương, P. An Lạc, TX. Buôn Hồ, Tỉnh Đắk Lắk",
+    "regulated_address": "389 Hùng Vương, Phường Buôn Hồ, Tỉnh Đắk Lắk",
+    "province": "Tỉnh Đắk Lắk",
+    "district": "",
+    "ward": "Phường Buôn Hồ",
+    "latitude": 12.919235,
+    "longitude": 108.264982,
+    "google_map_link": "https://maps.app.goo.gl/RgctHpR8FbRmk9Rb6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_da22e149f2.jpg"
+  },
+  {
+    "id": 4962,
+    "name": "Tiêm Chủng FPT Long Châu 225 Phạm Văn Đồng (Ngay Đầu Cầu Châu Ổ), X. Bình Sơn, Tỉnh Quảng Ngãi",
+    "address": "225 Phạm Văn Đồng, TT. Châu Ổ, H. Bình Sơn, Tỉnh Quảng Ngãi",
+    "regulated_address": "225 Phạm Văn Đồng, Xã Bình Sơn, Tỉnh Quảng Ngãi",
+    "province": "Tỉnh Quảng Ngãi",
+    "district": "",
+    "ward": "Xã Bình Sơn",
+    "latitude": 15.303577,
+    "longitude": 108.756057,
+    "google_map_link": "https://maps.app.goo.gl/J6m3t6z6dyU8efVm6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5410516399741_0c5d23f3492f1babe2b3074e69f7a09b_b7f06c39f6.jpg"
+  },
+  {
+    "id": 5155,
+    "name": "Tiêm Chủng FPT Long Châu 1060 Võ Nguyên Giáp (Đối Diện Đồi A1), P. Điện Biên Phủ, Tỉnh Điện Biên",
+    "address": "1060 Võ Nguyên Giáp, P. Mường Thanh, TP. Điện Biên Phủ, Tỉnh Điện Biên",
+    "regulated_address": "1060 Võ Nguyên Giáp, Phường Điện Biên Phủ, Tỉnh Điện Biên",
+    "province": "Tỉnh Điện Biên",
+    "district": "",
+    "ward": "Phường Điện Biên Phủ",
+    "latitude": 21.382297,
+    "longitude": 103.015786,
+    "google_map_link": "https://maps.app.goo.gl/2iJMLT4R8AuJKUUdA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5479726768900_cb46090c555b317e3fec322634a1f3c6_2_9984124161.jpg"
+  },
+  {
+    "id": 3344,
+    "name": "Tiêm Chủng FPT Long Châu 284 Nguyễn Văn Tăng (Cách Chợ Long Thạnh Mỹ 200m), P. Long Bình, TP. Hồ Chí Minh",
+    "address": "284 Nguyễn Văn Tăng, P. Long Thạnh Mỹ, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "regulated_address": "284 Nguyễn Văn Tăng, Phường Long Bình, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Long Bình",
+    "latitude": 10.841178,
+    "longitude": 106.822226,
+    "google_map_link": "https://maps.app.goo.gl/gqdPsaCDVYJ5mSdQ8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_a2b581a977.png"
+  },
+  {
+    "id": 4835,
+    "name": "Tiêm Chủng FPT Long Châu 2051 Hùng Vương (Ngã Ba Xuân Sơn), P. Cam Linh, Tỉnh Khánh Hòa",
+    "address": "2051 Hùng Vương, P. Cam Thuận, TP. Cam Ranh, Tỉnh Khánh Hòa",
+    "regulated_address": "2051 Hùng Vương, Phường Cam Linh, Tỉnh Khánh Hòa",
+    "province": "Tỉnh Khánh Hòa",
+    "district": "",
+    "ward": "Phường Cam Linh",
+    "latitude": 11.918135,
+    "longitude": 109.151364,
+    "google_map_link": "https://maps.app.goo.gl/BFx1uhdKFNtKVMjj7",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5954873425966_45709f7ec29b5ff2823ddb102eb98627_f39c2f46c3.jpg"
+  },
+  {
+    "id": 5332,
+    "name": "Tiêm Chủng FPT Long Châu 887 - 889 Võ Văn Vân (Cách Chợ Ấp 1 200m), X. Tân Vĩnh Lộc, TP. Hồ Chí Minh",
+    "address": "887 - 889 Võ Văn Vân, X. Vĩnh Lộc B, H. Bình Chánh, TP. Hồ Chí Minh",
+    "regulated_address": "887 - 889 Võ Văn Vân, Xã Tân Vĩnh Lộc, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Tân Vĩnh Lộc",
+    "latitude": 10.780488,
+    "longitude": 106.573619,
+    "google_map_link": "https://maps.app.goo.gl/t4QGwsMMqkuZvhrb9",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_ca83865c05.jpg"
+  },
+  {
+    "id": 2962,
+    "name": "Tiêm Chủng FPT Long Châu 125/1-125/1A-125/2 Nguyễn Ảnh Thủ, X. Bà Điểm, TP. Hồ Chí Minh",
+    "address": "125/1-125/1A-125/2 Nguyễn Ảnh Thủ, X. Bà Điểm, H. Hóc Môn, TP. Hồ Chí Minh",
+    "regulated_address": "125/1-125/1A-125/2 Nguyễn Ảnh Thủ, Xã Bà Điểm, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Xã Bà Điểm",
+    "latitude": 10.841542,
+    "longitude": 106.599534,
+    "google_map_link": "https://maps.app.goo.gl/fxAwjwGbJ9DJg8eS8",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_dd5a1c9586.jpg"
+  },
+  {
+    "id": 8482,
+    "name": "Tiêm Chủng FPT Long Châu 15/18A Phạm Văn Thuận (Canh Chợ Quận - Tam Hiệp), P. Tam Hiệp, Tỉnh Đồng Nai",
+    "address": "15/18A Phạm Văn Thuận, P. Tam Hiệp, TP. Biên Hoà, Tỉnh Đồng Nai",
+    "regulated_address": "15/18A Phạm Văn Thuận, Phường Tam Hiệp, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Tam Hiệp",
+    "latitude": 10.946249,
+    "longitude": 106.856888,
+    "google_map_link": "https://maps.app.goo.gl/Vw12Jq4UjmsoWzsp7",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5496400575540_9cef381ccc408431d4cb9bf434fe4086_c41c192aed.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Tiêm Chủng FPT Long Châu 373 Lương Ngọc Quyến (Đối Diện Vincom Thái Nguyên), P. Phan Đình Phùng, Tỉnh Thái Nguyên",
+    "address": "373 Lương Ngọc Quyến, P. Hoàng Văn Thụ, TP. Thái Nguyên, Tỉnh Thái Nguyên",
+    "regulated_address": "373 Lương Ngọc Quyến, Phường Phan Đình Phùng, Tỉnh Thái Nguyên",
+    "province": "Tỉnh Thái Nguyên",
+    "district": "",
+    "ward": "Phường Phan Đình Phùng",
+    "latitude": 21.591325,
+    "longitude": 105.826498,
+    "google_map_link": "https://maps.app.goo.gl/2zSbb3iavZyd3oaE6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/z5343631377755_e53ddb3045a0587e1f378f04db6f34e5_1_5aba2ad585.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Tiêm Chủng FPT Long Châu Khu D, Tổ 5 (Đối Diện Công An Huyện Sóc Sơn Cũ), X. Sóc Sơn, TP. Hà Nội",
+    "address": "Khu D, Tổ 5, TT. Sóc Sơn, H. Sóc Sơn, Hà Nội",
+    "regulated_address": "Khu D, Tổ 5, Xã Sóc Sơn, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Sóc Sơn",
+    "latitude": 21.256396,
+    "longitude": 105.848186,
+    "google_map_link": "https://maps.app.goo.gl/v726pnEXdsqbzEpQ9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/452300612_1402276717119757_5660490894269158806_n_1_647e20f631.jpg"
+  },
+  {
+    "id": 2884,
+    "name": "Tiêm Chủng FPT Long Châu 360 Tạ Quang Bửu (Cách TTTM Parc Mall 500m), P. Chánh Hưng, TP. Hồ Chí Minh",
+    "address": "360 Tạ Quang Bửu, Phường 4, Quận 8, Thành Phố Hồ Chí Minh",
+    "regulated_address": "360 Tạ Quang Bửu, P. Chánh Hưng, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Chánh Hưng",
+    "latitude": 10.738197,
+    "longitude": 106.674079,
+    "google_map_link": "https://maps.app.goo.gl/SjkpTfCXcRFBhdR38",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/3_7cab61dbc5.jpg"
+  },
+  {
+    "id": 1820,
+    "name": "Tiêm Chủng FPT Long Châu 441 Ngô Quyền (Trung Tâm Đồ Gỗ Ngô Văn Đeo - Cạnh Trường Mầm Non Mitsuba), P. An Hải, TP. Đà Nẵng",
+    "address": "441 Ngô Quyền, P. An Hải Bắc, Q. Sơn Trà, TP. Đà Nẵng",
+    "regulated_address": "441 Ngô Quyền, Phường An Hải, TP. Đà Nẵng",
+    "province": "Đà Nẵng",
+    "district": "",
+    "ward": "Phường An Hải",
+    "latitude": 16.081323,
+    "longitude": 108.235693,
+    "google_map_link": "https://maps.app.goo.gl/G6P5xEFfXd5whidWA",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "11:30:00",
+        "display_text": "Mở cửa từ 07:30 - 11:30 và 13:30 - 17:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "17:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5889623640403_58036969ad52cf88dd469dc2d0c9541b_9a4b520daa.jpg"
+  },
+  {
+    "id": 477,
+    "name": "Tiêm Chủng FPT Long Châu 1436B Phạm Thế Hiển (Cách Cầu Hiệp Ân 100m), P. Bình Đông, TP. Hồ Chí Minh",
+    "address": "1436B Phạm Thế Hiển, P. 5, Q. 8, TP. Hồ Chí Minh",
+    "regulated_address": "1436B Phạm Thế Hiển, Phường Bình Đông, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Bình Đông",
+    "latitude": 10.741483,
+    "longitude": 106.658501,
+    "google_map_link": "https://maps.app.goo.gl/bPLakiGuZNYcHYyC8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/z5324216011504_26490e6e76a92a23ac7915935bba4165_1_1080x1080_e3e6c6d90c.png"
+  },
+  {
+    "id": 3763,
+    "name": "Tiêm Chủng FPT Long Châu 95 Vĩnh Thông (Đối Diện Tokyolife Mạo Khê - Đông Triều), P. Mạo Khê, Tỉnh Quảng Ninh",
+    "address": "95 Vĩnh Thông, P. Mạo Khê, TP. Đông Triều, Tỉnh Quảng Ninh",
+    "regulated_address": "95 Vĩnh Thông, Phường Mạo Khê, Tỉnh Quảng Ninh",
+    "province": "Tỉnh Quảng Ninh",
+    "district": "",
+    "ward": "Phường Mạo Khê",
+    "latitude": 21.056603,
+    "longitude": 106.598785,
+    "google_map_link": "https://maps.app.goo.gl/bezMwm63Q3xVNzWf6",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "12:30:00",
+        "display_text": "Mở cửa từ 07:30 - 12:30 và 13:30 - 18:30"
+      },
+      {
+        "open_time": "13:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_09abe57a75.png"
+  },
+  {
+    "id": 3463,
+    "name": "Tiêm Chủng FPT Long Châu 224A Lê Văn Lương (Đối Diện Chung Cư Minh Thành), P. Tân Hưng, TP. Hồ Chí Minh",
+    "address": "224A Lê Văn Lương, P. Tân Hưng, Q. 7, TP. Hồ Chí Minh",
+    "regulated_address": "224A Lê Văn Lương, Phường Tân Hưng, TP. Hồ Chí Minh",
+    "province": "Hồ Chí Minh",
+    "district": "",
+    "ward": "Phường Tân Hưng",
+    "latitude": 10.744521,
+    "longitude": 106.704139,
+    "google_map_link": "https://maps.app.goo.gl/ZMHyyBMPhnfoPcdQ9",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/LVL_HCM_1_035088387b.jpg"
+  },
+  {
+    "id": 4673,
+    "name": "Tiêm Chủng FPT Long Châu 394 Quang Trung (Gần Trung Tâm Y Tế Thành Phố Uông Bí), P. Uông Bí, Tỉnh Quảng Ninh",
+    "address": "394 Quang Trung, P. Quang Trung, TP. Uông Bí, Tỉnh Quảng Ninh",
+    "regulated_address": "394 Quang Trung, Phường Uông Bí, Tỉnh Quảng Ninh",
+    "province": "Tỉnh Quảng Ninh",
+    "district": "",
+    "ward": "Phường Uông Bí",
+    "latitude": 21.034359,
+    "longitude": 106.774492,
+    "google_map_link": "https://maps.app.goo.gl/7KKwt2TqJgEb2xE87",
+    "phone": "1800 6928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/2_82101931e0.jpg"
+  },
+  {
+    "id": 6797,
+    "name": "Tiêm Chủng FPT Long Châu 71 Hùng Vương (Gần Chợ Long Khánh 500m), P. Long Khánh, Tỉnh Đồng Nai",
+    "address": "71 Hùng Vương, P. Xuân An, TP. Long Khánh, Tỉnh Đồng Nai",
+    "regulated_address": "71 Hùng Vương, Phường Long Khánh, Tỉnh Đồng Nai",
+    "province": "Tỉnh Đồng Nai",
+    "district": "",
+    "ward": "Phường Long Khánh",
+    "latitude": 10.934274,
+    "longitude": 107.242876,
+    "google_map_link": "https://maps.app.goo.gl/Jj5w5uXHjF8GhCjw8",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/1_76f9c19302.png"
+  },
+  {
+    "id": 8528,
+    "name": "Tiêm Chủng FPT Long Châu 1 Hùng Nguyên (Cạnh Cổng Chào Thường Tín), Xã Thường Tín, TP. Hà Nội",
+    "address": "1 Hùng Nguyên, TT. Thường Tín, H. Thường Tín, TP. Hà Nội",
+    "regulated_address": "1 Hùng Nguyên, Xã Thường Tín, TP. Hà Nội",
+    "province": "Hà Nội",
+    "district": "",
+    "ward": "Xã Thường Tín",
+    "latitude": 20.8693411,
+    "longitude": 105.864865,
+    "google_map_link": "https://maps.app.goo.gl/sCMLav7EMqS2vmh86",
+    "phone": "18006928",
+    "opening_hours": [
+      {
+        "open_time": "07:30:00",
+        "close_time": "18:30:00",
+        "display_text": ""
+      }
+    ],
+    "image_url": "https://cdn.tiemchunglongchau.com.vn/web_new_3_bb178a8cf5.png"
+  }
+]

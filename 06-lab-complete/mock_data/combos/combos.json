@@ -1,0 +1,289 @@
+{
+  "combo_groups": [
+    {
+      "group_title": "6 GÓI VẮC XIN THEO ĐỘ TUỔI",
+      "packages": [
+        {
+          "id": 5425,
+          "title": "GÓI COMBO 6 THÁNG",
+          "sku": "00042221",
+          "slug": "goi-vac-xin-combo-6-thang",
+          "combo_id": "0d64d588-3c00-49a5-954a-eaaa10196f6c",
+          "total_price": "15.023.800đ",
+          "final_price": "14.305.110đ",
+          "discount_amount": "718.689đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/minh_hoa_goi_VECTOR_e6af7e1c7f.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-vac-xin-combo-6-thang"
+        },
+        {
+          "id": 7181,
+          "title": "GÓI COMBO 12 THÁNG",
+          "sku": "00042222",
+          "slug": "goi-vac-xin-combo-12-thang",
+          "combo_id": "a13cabc0-7b92-4916-86f3-0d5d9826850a",
+          "total_price": "29.272.100đ",
+          "final_price": "28.164.820đ",
+          "discount_amount": "1.107.279đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_2_10add6a475.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-vac-xin-combo-12-thang"
+        },
+        {
+          "id": 6801,
+          "title": "GÓI COMBO 24 THÁNG",
+          "sku": "00042223",
+          "slug": "goi-vac-xin-combo-24-thang",
+          "combo_id": "2269739a-7611-4263-a7b5-8bdffa67cc3f",
+          "total_price": "30.314.900đ",
+          "final_price": "29.029.929đ",
+          "discount_amount": "1.284.970đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_8a16579a53.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-vac-xin-combo-24-thang"
+        },
+        {
+          "id": 6963,
+          "title": "GÓI TRẺ TIỀN HỌC ĐƯỜNG (TỪ 3 TUỔI - 9 TUỔI)",
+          "sku": "00042224",
+          "slug": "goi-tre-tien-hoc-duong-tu-3-tuoi-9-tuoi",
+          "combo_id": "fac6a30c-2773-4e4e-9d0b-a2e52f1077db",
+          "total_price": "19.154.300đ",
+          "final_price": "18.246.310đ",
+          "discount_amount": "907.990đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_1_e4effbd2a2.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-tre-tien-hoc-duong-tu-3-tuoi-9-tuoi"
+        },
+        {
+          "id": 9744,
+          "title": "GÓI THANH THIẾU NIÊN (TỪ 9 TUỔI - 18 TUỔI)",
+          "sku": "00042217",
+          "slug": "goi-thanh-thieu-nien-tu-9-tuoi-18-tuoi",
+          "combo_id": "72e1331f-cf57-41c3-827e-b1d92b9e7951",
+          "total_price": "29.208.300đ",
+          "final_price": "28.026.109đ",
+          "discount_amount": "1.182.190đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_3_ad13668bfe.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-thanh-thieu-nien-tu-9-tuoi-18-tuoi"
+        },
+        {
+          "id": 8499,
+          "title": "GÓI CHO NGƯỜI TRƯỞNG THÀNH",
+          "sku": "00042219",
+          "slug": "goi-vac-xin-cho-nguoi-truong-thanh",
+          "combo_id": "45eafc9a-1498-4f3d-a966-ed08779a347d",
+          "total_price": "26.238.300đ",
+          "final_price": "25.137.110đ",
+          "discount_amount": "1.101.189đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_4_3111f89e24.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-vac-xin-cho-nguoi-truong-thanh"
+        }
+      ]
+    },
+    {
+      "group_title": "3 GÓI VẮC XIN THEO ĐỐI TƯỢNG",
+      "packages": [
+        {
+          "id": 9196,
+          "title": "GÓI TIỀN HÔN NHÂN TOÀN DIỆN 7 LOẠI",
+          "sku": "00044085",
+          "slug": "goi-tien-hon-nhan-toan-dien-7-loai",
+          "combo_id": "12e33643-7564-490e-a299-fff0274542ee",
+          "total_price": "18.818.800đ",
+          "final_price": "18.205.560đ",
+          "discount_amount": "613.240đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_1_5eeb7f570b.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-tien-hon-nhan-toan-dien-7-loai"
+        },
+        {
+          "id": 8343,
+          "title": "GÓI PHỤ NỮ TRƯỚC KHI MANG THAI",
+          "sku": "00042218",
+          "slug": "goi-phu-nu-truoc-khi-mang-thai",
+          "combo_id": "afb9d41e-d4da-4519-a0d7-6fb51782d070",
+          "total_price": "6.509.800đ",
+          "final_price": "6.332.260đ",
+          "discount_amount": "177.540đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_02e6955310.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-phu-nu-truoc-khi-mang-thai"
+        },
+        {
+          "id": 3563,
+          "title": "GÓI NGƯỜI CÓ BỆNH MÃN TÍNH",
+          "sku": "00042220",
+          "slug": "goi-nguoi-co-benh-man-tinh",
+          "combo_id": "e7ebb066-5f34-47f6-8059-2d5e4440e8c7",
+          "total_price": "16.547.300đ",
+          "final_price": "15.555.210đ",
+          "discount_amount": "992.089đ",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/Illus_Goi_blue_2_0121d2fee9.png",
+          "detail_url": "https://tiemchunglongchau.com.vn/vacxin/goi-nguoi-co-benh-man-tinh"
+        }
+      ]
+    }
+  ],
+  "vaccine_categories_detail": [
+    {
+      "category_name": "Vắc xin phòng bệnh do Phế cầu",
+      "category_id": "zi59a1hot1ujhw4xacbhyxx2",
+      "vaccines": [
+        {
+          "name": "Vắc xin Vaxneuvance - PCV15",
+          "sku": "00043977",
+          "origin": "Ireland",
+          "price": "1.569.165đ",
+          "original_price": "1.630.000đ",
+          "slug": "vaxneuvance-pcv-15",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_08048_0286c26a56.jpg"
+        },
+        {
+          "name": "Vắc xin Prevenar 20 - PCV20",
+          "sku": "00043978",
+          "origin": "Bỉ",
+          "price": "1.740.000đ",
+          "original_price": "1.740.000đ",
+          "slug": "prevenar-20-pcv20",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_09019_b4fa0935e5.jpg"
+        },
+        {
+          "name": "Vắc xin Synflorix Inj 0.5ml",
+          "sku": "00038227",
+          "origin": "Bỉ",
+          "price": "1.024.000đ",
+          "original_price": "1.024.000đ",
+          "slug": "vac-xin-synflorix-inj-05ml",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_00456_570c642ab7.jpg"
+        }
+      ]
+    },
+    {
+      "category_name": "Vắc xin phòng Cúm",
+      "category_id": "x8wsebasphbeo6a6707gokde",
+      "vaccines": [
+        {
+          "name": "Vắc xin Vaxigrip Tetra",
+          "sku": "00038255",
+          "origin": "Pháp",
+          "price": "320.571đ",
+          "original_price": "333.000đ",
+          "slug": "vac-xin-vaxigrip-tetra",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_08800_5250a19a35.jpg"
+        },
+        {
+          "name": "Vắc xin Influvac Tetra",
+          "sku": "00038149",
+          "origin": "Hà Lan",
+          "price": "333.000đ",
+          "original_price": "333.000đ",
+          "slug": "vac-xin-influvac-tetra",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_04534_816a67205c.jpg"
+        }
+      ]
+    },
+    {
+      "category_name": "Vắc xin phòng bệnh Não mô cầu B",
+      "category_id": "rgq81d0j26z697asi83bi06d",
+      "vaccines": [
+        {
+          "name": "Vắc xin Bexsero",
+          "sku": "00043237",
+          "origin": "Ý",
+          "price": "1.684.686đ",
+          "original_price": "1.750.000đ",
+          "slug": "vac-xin-bexsero",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_00691_b28e2e8070.jpg"
+        }
+      ]
+    },
+    {
+      "category_name": "Vắc xin phòng bệnh Não mô cầu ACYW",
+      "category_id": "fi2lyu0asovrkwu4h0jrg5wa",
+      "vaccines": [
+        {
+          "name": "Vắc xin MenQuadfi",
+          "sku": "00048369",
+          "origin": "Hoa Kỳ",
+          "price": "1.771.328đ",
+          "original_price": "1.840.000đ",
+          "slug": "vac-xin-menquadfi",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_02306_b7f6ae1a8d.jpg"
+        }
+      ]
+    },
+    {
+      "category_name": "Vắc xin phòng Tiêu chảy do Rota virus",
+      "category_id": "r5ul8j6ivh4rddow6apqtkpw",
+      "vaccines": [
+        {
+          "name": "Vắc xin Rotarix Vial 1.5ml 1'S",
+          "sku": "00038226",
+          "origin": "Bỉ",
+          "price": "837.530đ",
+          "original_price": "870.000đ",
+          "slug": "vac-xin-rotarix-vial-15ml-1s",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_04386_fb6e6aa0fd_d6fc390103.jpg"
+        },
+        {
+          "name": "Vắc xin Rotavin",
+          "sku": "00038260",
+          "origin": "Việt Nam",
+          "price": "480.000đ",
+          "original_price": "480.000đ",
+          "slug": "product",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_04655_c28196f47b.jpg"
+        },
+        {
+          "name": "Vắc xin Rotateq 2ml",
+          "sku": "00038277",
+          "origin": "Hoa Kỳ",
+          "price": "655.000đ",
+          "original_price": "655.000đ",
+          "slug": "vac-xin-rotateq-2ml",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_05576_0b2debfdbe.jpg"
+        }
+      ]
+    },
+    {
+      "category_name": "Vắc xin 6 trong 1",
+      "category_id": "adhmd5cqn63soof3v0u6opnz",
+      "vaccines": [
+        {
+          "name": "Vắc xin Hexaxim",
+          "sku": "00038245",
+          "origin": "Pháp",
+          "price": "888.214đ",
+          "original_price": "995.000đ",
+          "slug": "vac-xin-hexaxim",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_08495_4be894f61d.jpg"
+        },
+        {
+          "name": "Vắc xin Infanrix Hexa",
+          "sku": "00038223",
+          "origin": "Bỉ",
+          "price": "995.000đ",
+          "original_price": "995.000đ",
+          "slug": "vac-xin-infanrix-hexa",
+          "image_url": "https://cdn.tiemchunglongchau.com.vn/DSC_04585_e6111ae6d8.jpg"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "name": "Miễn phí nhắc lịch hẹn",
+      "description": "Chính xác và khoa học cho cả gia đình",
+      "icon_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Icon_combo_1_4c45b4fc06.png"
+    },
+    {
+      "name": "Cam kết giữ giá vắc xin",
+      "description": "Suốt thời gian tiêm theo phác đồ",
+      "icon_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Icon_combo_2_cab7fce76a.png"
+    },
+    {
+      "name": "Cam kết luôn đủ vắc xin",
+      "description": "Không lo hàng khan hiếm",
+      "icon_url": "https://cdn.tiemchunglongchau.com.vn/unsafe/Icon_combo_3_aa9373ad3e.png"
+    }
+  ],
+  "notes": [
+    "Quý khách có thể bỏ chọn các Liều đã tiêm để tùy chỉnh gói tiêm phù hợp với nhu cầu.",
+    "Giá tạm tính đã bao gồm "
+  ]
+}

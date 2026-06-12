@@ -64,8 +64,8 @@ Client --[Port 80/443]--> Nginx (LB/Proxy)
 ## Part 3: Cloud Deployment
 
 ### Exercise 3.1: Render/Railway deployment
-- **Public URL:** [Sẽ điền sau khi hoàn thành deployment ở Part 6]
-- **Platform:** Render / Railway
+- **Public URL:** https://lab12-nguyen-nhut-dang.onrender.com
+- **Platform:** Render
 
 ---
 

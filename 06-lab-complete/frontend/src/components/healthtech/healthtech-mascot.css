@@ -1,0 +1,562 @@
+/* HealthTech AI — scoped launcher styles (CSS only, no animation libs) */
+
+.healthtech-launcher {
+  --ht-blue: #0ea5e9;
+  --ht-blue-deep: #0284c7;
+  --ht-blue-glow: rgba(14, 165, 233, 0.45);
+  --ht-blue-ring: rgba(14, 165, 233, 0.28);
+  --ht-gradient: linear-gradient(135deg, #e0f2fe 0%, #f0f9ff 48%, #ffffff 100%);
+  --ht-shadow: 0 12px 40px rgba(2, 132, 199, 0.18);
+  --ht-shadow-hover: 0 16px 48px rgba(14, 165, 233, 0.35);
+  --mascot-size: 250px;
+  --launcher-bottom: 1.5rem;
+  --launcher-right: 1.5rem;
+  --launcher-z: 60;
+
+  position: fixed;
+  bottom: var(--launcher-bottom);
+  right: var(--launcher-right);
+  left: auto;
+  z-index: var(--launcher-z);
+  pointer-events: none;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  transition:
+    bottom 0.5s ease-in-out,
+    right 0.5s ease-in-out,
+    left 0.5s ease-in-out;
+}
+
+.healthtech-launcher--chat-open {
+  --chat-panel-width: 420px;
+  --chat-panel-inset: 1rem;
+  --launcher-right: calc(var(--chat-panel-inset) + var(--chat-panel-width) + 0.25rem);
+  --launcher-bottom: 1rem;
+}
+
+/* Phóng to chat: đưa mascot ra bên trái khung modal, không che panel chi tiết */
+.healthtech-launcher--chat-expanded {
+  --mascot-size: 120px;
+  --expanded-modal-width: min(95vw, 72rem);
+  --launcher-left: max(
+    0.75rem,
+    calc((100vw - var(--expanded-modal-width)) / 2 - var(--mascot-size) - 0.75rem)
+  );
+  --launcher-bottom: calc(5vh + 0.75rem);
+  right: auto;
+  left: var(--launcher-left);
+}
+
+.healthtech-launcher--chat-expanded .healthtech-joke {
+  right: auto;
+  left: 0;
+  bottom: calc(100% + 0.5rem);
+  width: min(240px, calc(100vw - 2rem));
+}
+
+.healthtech-launcher--chat-expanded .healthtech-joke__card::after {
+  right: auto;
+  left: 2rem;
+}
+
+.healthtech-launcher__cluster {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0.5rem;
+  pointer-events: auto;
+}
+
+.healthtech-launcher__stage {
+  position: relative;
+  width: var(--mascot-size);
+  height: var(--mascot-size);
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.healthtech-launcher__pulse {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: var(--mascot-size);
+  height: var(--mascot-size);
+  margin-top: calc(var(--mascot-size) * -0.5);
+  margin-left: calc(var(--mascot-size) * -0.5);
+  border-radius: 50%;
+  border: 2px solid var(--ht-blue);
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.85);
+  transform-origin: center center;
+}
+
+.healthtech-launcher__pulse--active {
+  animation: pulseRing 5s ease-out infinite;
+}
+
+.healthtech-launcher__pulse--boost {
+  animation: pulseRing 3s ease-out infinite;
+  border-color: var(--ht-blue-deep);
+}
+
+.healthtech-mascot {
+  position: relative;
+  z-index: 2;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.healthtech-mascot__motion {
+  display: block;
+  width: 100%;
+  height: 100%;
+  animation: float 3.5s ease-in-out infinite;
+  will-change: transform;
+}
+
+.healthtech-mascot__sway {
+  display: block;
+  width: 100%;
+  height: 100%;
+  animation: sway 5s ease-in-out infinite;
+  transform-origin: center center;
+  will-change: transform;
+}
+
+.healthtech-mascot__body {
+  display: block;
+  width: 100%;
+  height: 100%;
+  animation: breathe 4s ease-in-out infinite;
+  transform-origin: center center;
+  transition:
+    transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1),
+    filter 0.35s ease;
+  will-change: transform;
+}
+
+.healthtech-mascot__media {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: transparent;
+  filter: drop-shadow(0 8px 20px rgba(15, 23, 42, 0.12));
+  pointer-events: none;
+  user-select: none;
+}
+
+.healthtech-mascot:hover .healthtech-mascot__body,
+.healthtech-mascot:focus-visible .healthtech-mascot__body {
+  transform: scale(1.08);
+  filter: drop-shadow(0 0 22px var(--ht-blue-glow));
+}
+
+.healthtech-mascot:focus-visible {
+  outline: 2px solid var(--ht-blue);
+  outline-offset: 6px;
+  border-radius: 1rem;
+}
+
+.healthtech-mascot--shake .healthtech-mascot__motion {
+  animation:
+    attentionShake 0.65s ease-in-out,
+    float 3.5s ease-in-out infinite;
+}
+
+.healthtech-launcher__badge {
+  position: absolute;
+  top: 24%;
+  right: 30%;
+  z-index: 4;
+  min-width: 1.35rem;
+  height: 1.35rem;
+  border: 2px solid #fff;
+  padding: 0 0.35rem;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+  color: #fff;
+  font-size: 0.625rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.45);
+  animation: badgeBounce 10s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.healthtech-launcher__badge--new {
+  min-width: 2.1rem;
+  font-size: 0.55rem;
+}
+
+/* Joke pop-up khi click mascot */
+.healthtech-joke {
+  position: absolute;
+  right: 0;
+  bottom: calc(100% + 0.5rem);
+  z-index: 6;
+  width: min(260px, calc(100vw - 2rem));
+  pointer-events: auto;
+  animation: fadeInUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.healthtech-joke__card {
+  position: relative;
+  padding: 0.85rem 1rem 0.9rem;
+  border-radius: 1.1rem;
+  background: linear-gradient(145deg, #fffbeb 0%, #fef3c7 55%, #ffffff 100%);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  box-shadow: 0 10px 32px rgba(180, 83, 9, 0.15);
+}
+
+.healthtech-joke__card::after {
+  content: "";
+  position: absolute;
+  right: 1.75rem;
+  bottom: -7px;
+  width: 14px;
+  height: 14px;
+  background: #fef3c7;
+  border-right: 1px solid rgba(245, 158, 11, 0.35);
+  border-bottom: 1px solid rgba(245, 158, 11, 0.35);
+  transform: rotate(45deg);
+}
+
+.healthtech-joke__close {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.4rem;
+  display: grid;
+  place-items: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: none;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
+  color: #78716c;
+  cursor: pointer;
+}
+
+.healthtech-joke__close:hover {
+  color: #1c1917;
+  background: #fff;
+}
+
+.healthtech-joke__label {
+  margin: 0 1.25rem 0.35rem 0;
+  font-size: 0.6875rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #b45309;
+}
+
+.healthtech-joke__text {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #292524;
+}
+
+.healthtech-launcher--chat-open:not(.healthtech-launcher--chat-expanded) .healthtech-joke {
+  bottom: calc(100% + 0.35rem);
+  width: min(240px, 42vw);
+}
+
+/* Welcome bubble — nằm sát mascot trong cluster */
+.healthtech-bubble {
+  position: relative;
+  flex-shrink: 1;
+  width: min(300px, calc(100vw - var(--mascot-size) - 2.5rem));
+  margin-bottom: calc(var(--mascot-size) * 0.18);
+  pointer-events: auto;
+  animation: fadeInUp 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.healthtech-bubble--idle {
+  width: min(260px, calc(100vw - var(--mascot-size) - 2.5rem));
+}
+
+.healthtech-bubble__card {
+  position: relative;
+  padding: 1rem 1.1rem 1rem;
+  border-radius: 1.25rem;
+  background: var(--ht-gradient);
+  border: 1px solid rgba(14, 165, 233, 0.2);
+  box-shadow: var(--ht-shadow);
+}
+
+.healthtech-bubble__card::after {
+  content: "";
+  position: absolute;
+  right: -7px;
+  bottom: calc(var(--mascot-size) * 0.22);
+  width: 14px;
+  height: 14px;
+  background: #f0f9ff;
+  border-right: 1px solid rgba(14, 165, 233, 0.2);
+  border-bottom: 1px solid rgba(14, 165, 233, 0.2);
+  transform: rotate(-45deg);
+  border-radius: 0 0 4px 0;
+}
+
+.healthtech-bubble__close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border: none;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.85);
+  color: #64748b;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.healthtech-bubble__close:hover {
+  background: #fff;
+  color: #0f172a;
+}
+
+.healthtech-bubble__title {
+  margin: 0 1.5rem 0.35rem 0;
+  font-size: 1rem;
+  font-weight: 800;
+  color: #0c4a6e;
+  line-height: 1.3;
+}
+
+.healthtech-bubble__subtitle {
+  margin: 0 0 0.65rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #0369a1;
+}
+
+.healthtech-bubble__list {
+  margin: 0 0 0.85rem;
+  padding: 0;
+  list-style: none;
+  font-size: 0.8125rem;
+  color: #334155;
+  line-height: 1.55;
+}
+
+.healthtech-bubble__list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.35rem;
+}
+
+.healthtech-bubble__list li + li {
+  margin-top: 0.2rem;
+}
+
+.healthtech-bubble__check {
+  color: var(--ht-blue-deep);
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.healthtech-bubble__cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border: none;
+  border-radius: 999px;
+  background: linear-gradient(135deg, var(--ht-blue) 0%, var(--ht-blue-deep) 100%);
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(14, 165, 233, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.healthtech-bubble__cta:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px rgba(14, 165, 233, 0.45);
+}
+
+.healthtech-bubble__idle-text {
+  margin: 0 1.25rem 0.75rem 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #0f172a;
+  line-height: 1.45;
+}
+
+/* Keyframes */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes breathe {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.03);
+  }
+}
+
+@keyframes sway {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-2.5deg);
+  }
+  75% {
+    transform: rotate(2.5deg);
+  }
+}
+
+@keyframes pulseRing {
+  0% {
+    transform: scale(0.85);
+    opacity: 0.55;
+  }
+  70% {
+    transform: scale(1.55);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.55);
+    opacity: 0;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes badgeBounce {
+  0%,
+  90%,
+  100% {
+    transform: scale(1) translateY(0);
+  }
+  93% {
+    transform: scale(1.12) translateY(-2px);
+  }
+  96% {
+    transform: scale(0.96) translateY(0);
+  }
+  98% {
+    transform: scale(1.04) translateY(-1px);
+  }
+}
+
+@keyframes attentionShake {
+  0%,
+  100% {
+    transform: translateX(0) scale(1);
+  }
+  15% {
+    transform: translateX(-4px) scale(1.02);
+  }
+  30% {
+    transform: translateX(4px) scale(1.02);
+  }
+  45% {
+    transform: translateX(-3px) scale(1.01);
+  }
+  60% {
+    transform: translateX(3px) scale(1.01);
+  }
+  75% {
+    transform: translateX(-1px);
+  }
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .healthtech-launcher {
+    --mascot-size: 108px;
+    --launcher-bottom: 1rem;
+    --launcher-right: 0.75rem;
+  }
+
+  .healthtech-launcher--chat-open {
+    display: none;
+  }
+
+  .healthtech-launcher--chat-expanded {
+    --mascot-size: 88px;
+    --launcher-left: 0.5rem;
+    --launcher-bottom: calc(5vh + 0.5rem);
+  }
+
+  .healthtech-launcher__cluster {
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.35rem;
+  }
+
+  .healthtech-bubble {
+    width: min(280px, calc(100vw - 1.5rem));
+    margin-bottom: 0;
+    order: -1;
+  }
+
+  .healthtech-bubble__card::after {
+    right: 1.5rem;
+    bottom: -7px;
+    top: auto;
+    transform: rotate(45deg);
+  }
+
+  .healthtech-launcher__badge {
+    top: 4%;
+    right: 12%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .healthtech-mascot__motion,
+  .healthtech-mascot__sway,
+  .healthtech-mascot__body,
+  .healthtech-launcher__pulse,
+  .healthtech-launcher__badge,
+  .healthtech-bubble,
+  .healthtech-joke {
+    animation: none !important;
+  }
+
+  .healthtech-mascot:hover .healthtech-mascot__body {
+    transform: none;
+  }
+}
