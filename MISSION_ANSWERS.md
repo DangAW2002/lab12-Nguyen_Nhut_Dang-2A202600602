@@ -64,7 +64,7 @@ Client --[Port 80/443]--> Nginx (LB/Proxy)
 ## Part 3: Cloud Deployment
 
 ### Exercise 3.1: Render/Railway deployment
-- **Public URL:** https://lab12-nguyen-nhut-dang.onrender.com
+- **Public URL:** https://ai-agent-production-k5rm.onrender.com
 - **Platform:** Render
 
 ---

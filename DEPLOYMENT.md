@@ -1,7 +1,12 @@
 # Deployment Information
 
-## Public URL
-https://lab12-nguyen-nhut-dang.onrender.com
+## Public URLs
+
+### Backend API (ai-agent-production)
+https://ai-agent-production-k5rm.onrender.com
+
+### Frontend Chat App (vaccine-assistant-frontend-personal)
+https://vaccine-assistant-frontend-personal.onrender.com
 
 ## Platform
 Render (Free Plan, Region: Singapore)
@@ -10,19 +15,19 @@ Render (Free Plan, Region: Singapore)
 
 ### Health Check
 ```bash
-curl https://lab12-nguyen-nhut-dang.onrender.com/health
+curl https://ai-agent-production-k5rm.onrender.com/health
 # Expected: {"status": "ok", "uptime_seconds": ..., "version": "1.0.0", ...}
 ```
 
 ### Readiness Check
 ```bash
-curl https://lab12-nguyen-nhut-dang.onrender.com/ready
+curl https://ai-agent-production-k5rm.onrender.com/ready
 # Expected: {"ready": true}
 ```
 
 ### API Test (without authentication)
 ```bash
-curl -i -X POST https://lab12-nguyen-nhut-dang.onrender.com/ask \
+curl -i -X POST https://ai-agent-production-k5rm.onrender.com/ask \
   -H "Content-Type: application/json" \
   -d '{"user_id": "test", "question": "Hello"}'
 # Expected: 401 Unauthorized
@@ -30,7 +35,7 @@ curl -i -X POST https://lab12-nguyen-nhut-dang.onrender.com/ask \
 
 ### API Test (with authentication)
 ```bash
-curl -X POST https://lab12-nguyen-nhut-dang.onrender.com/ask \
+curl -X POST https://ai-agent-production-k5rm.onrender.com/ask \
   -H "X-API-Key: dev-key-change-me" \
   -H "Content-Type: application/json" \
   -d '{"user_id": "test", "question": "My name is Alice"}'
@@ -39,7 +44,7 @@ curl -X POST https://lab12-nguyen-nhut-dang.onrender.com/ask \
 
 ### Conversation History Test (Alice Test)
 ```bash
-curl -X POST https://lab12-nguyen-nhut-dang.onrender.com/ask \
+curl -X POST https://ai-agent-production-k5rm.onrender.com/ask \
   -H "X-API-Key: dev-key-change-me" \
   -H "Content-Type: application/json" \
   -d '{"user_id": "test", "question": "What is my name?"}'
